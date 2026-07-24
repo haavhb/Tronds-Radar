@@ -57,8 +57,13 @@ STEM_KEYWORDS: dict[str, list[str]] = {
     ],
 }
 
-# Flerords-uttrykk (matches som substring i rå, lowercased tekst). Brukes
-# for ord som er for generelle til å stå alene.
+# Flerords-uttrykk. Matches som "alle betydningsbærende ord finnes et sted i
+# teksten" (rekkefølge/nærhet spiller ingen rolle, og småord som "av"/"til"
+# ignoreres) - IKKE som eksakt sammenhengende delstreng. Dette gjør at f.eks.
+# "transport av merder" også fanger opp "transporterer oppdrettsmerder til
+# lokaliteten", ikke bare den eksakte ordrekkefølgen. Brukes for ord som er
+# for generelle til å stå alene (transport, levering, kontrakt, investering
+# osv.), forankret til et spesifikt substantiv fra samme setning.
 PHRASE_KEYWORDS: dict[str, list[str]] = {
     "havari_berging": [
         "heve vraket", "heve fartøyet", "heve skipet", "heve båten",
@@ -141,8 +146,25 @@ NORMALIZED_STEMS: dict[str, list[str]] = {
     for cat, words in STEM_KEYWORDS.items()
 }
 
-LOWER_PHRASES: dict[str, list[str]] = {
-    cat: [p.lower() for p in phrases] for cat, phrases in PHRASE_KEYWORDS.items()
+# Småord som ikke bærer betydning og derfor ikke skal kreves som eget treff
+# når en flerords-frase brytes opp i enkeltord.
+_STOPWORDS = {
+    "av", "til", "for", "i", "med", "på", "som", "og", "en", "ei", "et",
+    "den", "det", "de", "sin", "sitt", "sine", "skal", "blir", "ble", "er",
+    "har", "vil", "kan", "over", "under", "ved", "fra", "mot", "om",
+    "ny", "nytt", "nye", "sitt", "seg",
+}
+
+
+def _phrase_to_stems(phrase: str) -> list[str]:
+    return [normalize_word(w) for w in phrase.lower().split() if w not in _STOPWORDS]
+
+
+# Hver frase er nå en liste av normaliserte ord-stammer (småord fjernet) som
+# ALLE må finnes et sted i teksten (se _bag_match), ikke en sammenhengende
+# delstreng.
+NORMALIZED_PHRASES: dict[str, list[list[str]]] = {
+    cat: [_phrase_to_stems(p) for p in phrases] for cat, phrases in PHRASE_KEYWORDS.items()
 }
 
 # Ankeret for en gated-regel er kategoriens egne stammer (ordet skal telle
@@ -174,14 +196,19 @@ def _any_substring_match(words: set[str], roots: list[str]) -> bool:
     return any(root in word for word in words for root in roots)
 
 
+def _bag_match(words: set[str], stems: list[str]) -> bool:
+    # Alle stammene i frasen må finnes et sted i teksten (ikke nødvendigvis
+    # etter hverandre) - se NORMALIZED_PHRASES over for hvorfor.
+    return all(_any_prefix_match(words, [stem]) for stem in stems)
+
+
 def match_categories(text: str) -> list[str]:
     """Returnerer kategoriene en tekst (tittel + evt. sammendrag) treffer på."""
     words = normalize_text(text)
-    lowered = text.lower()
     hits = []
     for cat in CATEGORIES:
         stem_hit = _any_prefix_match(words, NORMALIZED_STEMS[cat])
-        phrase_hit = any(p in lowered for p in LOWER_PHRASES[cat])
+        phrase_hit = any(_bag_match(words, stems) for stems in NORMALIZED_PHRASES[cat])
         gated_hit = any(
             gate["category"] == cat
             and _any_prefix_match(words, gate["stems"])
