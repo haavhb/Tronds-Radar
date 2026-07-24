@@ -38,9 +38,25 @@ STEM_KEYWORDS: dict[str, list[str]] = {
         "slepebåt", "synkeferdig", "havarikommisjon",
     ],
     "infrastruktur": [
-        "kai", "molo", "ferjekai", "fergekai", "brufundament",
+        # NB: "kai" og "molo" står IKKE her, men i SUBSTRING_STEMS under -
+        # norske sammensetninger legger bestemmerordet foran (betongkai,
+        # fiskerikai, steinmolo), så prefiksmatch alene ville bommet på
+        # disse. Alt som prefiksmatcher "kai"/"molo" fanges uansett opp av
+        # substring-matchen (den er en overmengde), så egne oppføringer for
+        # f.eks. "ferjekai"/"kaielement" er unødvendige her.
+        "brufundament",
         "sjøledning", "sjøkabel", "sjøkabling", "kabellegging",
         "rørledning",
+        "spunt", "peling", "pelearbeid",
+        "bruelement", "brurehabilitering", "brobygging", "broprosjekt",
+        "brokonstruksjon",
+        "havneutbygging", "havneutvikling", "havneprosjekt", "havneanlegg",
+        "sjøfrontutvikling", "fiskerihavn", "mudring", "flytebrygge",
+        "bølgebryter", "pontong", "sjøentreprise",
+        # NB: bare "bro"/"bru" alene er utelatt - kolliderer med
+        # "brud"/"brudgom" (bryllup) siden begge starter på "bru". Fanges
+        # opp via PHRASE_KEYWORDS kombinert med et bygge-/rive-verb i
+        # stedet, se under.
     ],
     "oppdrett": [
         # NB: "oppdrett" og "havbruk" er bevisst utelatt som frittstående
@@ -82,6 +98,14 @@ PHRASE_KEYWORDS: dict[str, list[str]] = {
         "ny kai", "ny molo", "kai skal bygges", "molo skal bygges",
         "undersjøisk kabel", "sjøkabel skal legges", "ferjekai skal",
         "kaianlegg", "ferjesamband", "bru over fjorden", "brufundament",
+        # "marina"/"bro"/"bru" er for tvetydige alene (marina - se
+        # nødhavn-saken over; bro/bru - kolliderer med "brud"), krever et
+        # bygge-/rive-/prosjekt-verb i samme tekst.
+        "bygg marina", "etabler marina", "prosjekter marina",
+        "anlegg marina",
+        "bygg bro", "bygg bru", "prosjekter bro", "prosjekter bru",
+        "riv bro", "riv bru", "rehabiliter bro", "rehabiliter bru",
+        "milliardprosjekt havn", "betong sjøveien",
     ],
     "oppdrett": [
         "ny lokalitet", "lokalitet for oppdrett", "utvidelse av lokalitet",
@@ -163,9 +187,21 @@ GATED_TERMS: list[dict] = [
     },
 ]
 
+# Stammer som skal matches som substring i ordet (ikke bare prefiks), for
+# sammensetninger der bestemmerordet står bakerst i stedet for først
+# (betongkai, fiskerikai, steinmolo).
+SUBSTRING_STEMS: dict[str, list[str]] = {
+    "infrastruktur": ["kai", "molo"],
+}
+
 NORMALIZED_STEMS: dict[str, list[str]] = {
     cat: sorted({normalize_word(k) for k in words})
     for cat, words in STEM_KEYWORDS.items()
+}
+
+NORMALIZED_SUBSTRING_STEMS: dict[str, list[str]] = {
+    cat: sorted({normalize_word(k) for k in words})
+    for cat, words in SUBSTRING_STEMS.items()
 }
 
 # Småord som ikke bærer betydning og derfor ikke skal kreves som eget treff
@@ -229,7 +265,9 @@ def match_categories(text: str) -> list[str]:
     words = normalize_text(text)
     hits = []
     for cat in CATEGORIES:
-        stem_hit = _any_prefix_match(words, NORMALIZED_STEMS[cat])
+        stem_hit = _any_prefix_match(words, NORMALIZED_STEMS[cat]) or _any_substring_match(
+            words, NORMALIZED_SUBSTRING_STEMS.get(cat, [])
+        )
         phrase_hit = any(_bag_match(words, stems) for stems in NORMALIZED_PHRASES[cat])
         gated_hit = any(
             gate["category"] == cat
