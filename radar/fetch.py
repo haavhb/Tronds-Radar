@@ -4,6 +4,7 @@ import calendar
 import logging
 import time
 from dataclasses import dataclass, field
+from urllib.parse import urlparse
 
 import feedparser
 import requests
@@ -18,6 +19,16 @@ _USER_AGENT = (
 )
 _TIMEOUT_SECONDS = 15
 _MAX_RETRIES = 2
+_ALLOWED_LINK_SCHEMES = {"http", "https"}
+
+
+def _is_safe_link(link: str) -> bool:
+    """Avviser lenker med andre skjema enn http(s), f.eks. javascript:-URIer
+    som en kompromittert eller ondsinnet feed kunne forsøkt å smugle inn."""
+    try:
+        return urlparse(link).scheme in _ALLOWED_LINK_SCHEMES
+    except ValueError:
+        return False
 
 
 @dataclass
@@ -61,7 +72,7 @@ def fetch_source(source: dict[str, str]) -> list[Hit]:
     for entry in parsed.entries:
         title = entry.get("title", "").strip()
         link = entry.get("link", "").strip()
-        if not title or not link:
+        if not title or not link or not _is_safe_link(link):
             continue
         summary = entry.get("summary", "") or ""
         text = f"{title} {summary}"
