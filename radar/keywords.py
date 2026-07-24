@@ -36,6 +36,16 @@ STEM_KEYWORDS: dict[str, list[str]] = {
         # i samme tekst.
         "grunnstøt", "grunnstøyt", "forlis", "forlist", "kantr",
         "slepebåt", "synkeferdig", "havarikommisjon",
+        "havar",  # havari/havarere/havarerte/havarist - felles kort rot
+        "maskinhavari", "skipsberging", "grunnberøring",
+        "nødassistanse", "redningsaksjon", "skipskollisjon", "vrakfjerning",
+        "vrakberging", "bergingsfartøy", "redningsslep", "nødslep",
+        "tungberging", "havarioperasjon", "nødsituasjon", "sjøulykke",
+        "havneulykke", "skipsulykke", "oljevern", "oljeutslipp",
+        "drivstoffutslipp", "redningsarbeid", "nødlossing", "taubåt",
+        # NB: "grunn" alene er utelatt - "på grunn av" (fordi) er en av de
+        # aller vanligste norske vendingene, og ville gitt massevis av
+        # falske treff sammen med et hvilket som helst fartøysord.
     ],
     "infrastruktur": [
         # NB: "kai" og "molo" står IKKE her, men i SUBSTRING_STEMS under -
@@ -109,6 +119,26 @@ PHRASE_KEYWORDS: dict[str, list[str]] = {
         "gikk ned utenfor", "kollisjon til sjøs", "kollisjon mellom fartøy",
         "kollisjon med skip", "brann om bord", "lekkasje om bord",
         "drivende fartøy", "drivende båt", "assistanse til nødstedt",
+        "fartøy trenger slep", "fartøy uten fremdrift", "hev lekter",
+        "hev pram", "assistanse skip", "last forskjøv",
+        "forurens sjø", "evakuer fartøy", "blokker farled",
+        "fartøy mist anker", "mist fortøyning", "løsrevet lekter",
+        "løsrevet oppdrettsanlegg", "fortøyning røk", "anker røk",
+        "stormskad kai", "stormskad havn", "slept til kai",
+        "slepes til havn", "trenger taubåt",
+        "fartøy tar inn vann", "synkende fartøy", "synkende lekter",
+        "uvær rammer oppdrett", "uvær rammer havn",
+        "tau røk", "mobilkran til sjø",
+        "fjerner vrak", "fartøy blokkerer farled",
+        "sjøtrafikk stans", "berging pågår",
+        # NB: "sikringsarbeid" og bare "fartøy i nød"/"fartøy på grunn" er
+        # bevisst utelatt - for generiske/tvetydige (sikringsarbeid brukes
+        # om alt fra politisikring til strømnett; "nød"/"grunn" alene
+        # prefiksmatcher "nødvendig"/"på grunn av", svært vanlige vendinger).
+        # "fartøy driver"/"løfter fartøy"/"havn stengt" er også bevisst
+        # utelatt - "driver" (driver et rederi), "løfter" (politiske
+        # løfter) og "stengt" (rutinemessig stengt for sommeren) er for
+        # vanlige ord til å telle sammen med bare ett ankerord.
     ],
     "infrastruktur": [
         "ny kai", "ny molo", "kai skal bygges", "molo skal bygges",
@@ -243,7 +273,7 @@ _STOPWORDS = {
     "av", "til", "for", "i", "med", "på", "som", "og", "en", "ei", "et",
     "den", "det", "de", "sin", "sitt", "sine", "skal", "blir", "ble", "er",
     "har", "vil", "kan", "over", "under", "ved", "fra", "mot", "om",
-    "ny", "nytt", "nye", "sitt", "seg",
+    "ny", "nytt", "nye", "sitt", "seg", "uten",
 }
 
 
