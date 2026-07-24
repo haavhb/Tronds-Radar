@@ -25,10 +25,17 @@ STEM_KEYWORDS: dict[str, list[str]] = {
     "havari_berging": [
         # NB: "vrak" er bevisst utelatt som frittstående stamme - det er
         # tvetydig med verbet "å vrake" (forkaste, som i "velge og vrake",
-        # "vraket forslaget"). Fanges i stedet opp via VERB_STEMS lenger
+        # "vraket forslaget"). Fanges i stedet opp via GATED_TERMS lenger
         # ned, som krever et fartøysord i samme tekst.
+        #
+        # NB: "nødhavn" er også bevisst utelatt herfra. Ordet brukes både
+        # om fartøy i reell nød OG om en tilbakevendende lokalsak der
+        # båteiere ligger fast forankret i en nødhavn i strid med
+        # kommunen (en forvaltningssak, ikke en nødssituasjon til sjøs).
+        # Fanges opp via GATED_TERMS, som krever et faktisk nødsignal-ord
+        # i samme tekst.
         "grunnstøt", "grunnstøyt", "forlis", "forlist", "kantr",
-        "slepebåt", "nødhavn", "synkeferdig", "havarikommisjon",
+        "slepebåt", "synkeferdig", "havarikommisjon",
     ],
     "infrastruktur": [
         "kai", "molo", "ferjekai", "fergekai", "brufundament",
@@ -86,43 +93,74 @@ _EXTRA_NYNORSK_STEMS = {
 for _cat, _extra in _EXTRA_NYNORSK_STEMS.items():
     STEM_KEYWORDS[_cat].extend(_extra)
 
-# Verb som er for generiske til å telle alene ("løftes", "legges", "skiftes"
-# er vanlige ord i alle slags sammenhenger), men som er sterke signaler når de
-# opptrer sammen med et forankrende substantiv fra samme kategori i samme
-# tekst. Dekker eksplisitt løftast/leggjast/skiftast fra oppdraget.
-VERB_STEMS: dict[str, list[str]] = {
-    "havari_berging": ["vrak"],  # vraket (skipsvrak) vs. vraket (forkastet) - krever fartøysord
-    "infrastruktur": ["legg"],  # sjøkabelen skal leggjast/legges
-    "oppdrett": ["skift"],  # merdene skal skiftast/skiftes
-    "industri": ["løft", "frakt"],  # modulen skal løftast/fraktast/løftes/fraktes
-}
-
-# Ekstra ankernomen som bare skal telle i kombinasjon med et verb over (for
-# generelle til å stå som frittstående STEM_KEYWORDS).
-_EXTRA_ANCHOR_NOUNS: dict[str, list[str]] = {
-    "havari_berging": ["fartøy", "skip", "båt", "tråler", "skute"],
-    "industri": ["modul", "plattform"],
-}
+# Ord/stammer som er for generiske eller tvetydige til å telle alene (f.eks.
+# "løftes"/"legges"/"skiftes" er vanlige ord i alle slags sammenhenger, og
+# "nødhavn" brukes også om en forvaltningstvist uten reell nødssituasjon),
+# men som er sterke signaler når de opptrer sammen med et forankrende ord i
+# samme tekst. Hver regel har sitt eget sett med ekstra ankerord, siden ulike
+# ord trenger ulik kontekst for å telle som reelt treff (f.eks. trenger ikke
+# "vrak" samme anker som "nødhavn" - et fartøysord holder ikke for nødhavn,
+# siden båteier-tvisten også handler om båter).
+GATED_TERMS: list[dict] = [
+    {
+        # vraket (skipsvrak) vs. vraket (forkastet) - krever fartøysord.
+        "category": "havari_berging",
+        "stems": ["vrak"],
+        "extra_anchors": ["fartøy", "skip", "båt", "tråler", "skute"],
+    },
+    {
+        # nødhavn (fartøy i reell nød) vs. nødhavn (forvaltningstvist om
+        # båter som ligger fast forankret) - krever et faktisk
+        # nødsignal-ord, ikke bare et fartøysord.
+        "category": "havari_berging",
+        "stems": ["nødhavn"],
+        "extra_anchors": [
+            "brann", "lekkasje", "kollisjon", "kolliderte", "kolliderer",
+            "drivende", "assistanse", "motorstopp", "nødstedt",
+        ],
+    },
+    {
+        "category": "infrastruktur",
+        "stems": ["legg"],  # sjøkabelen skal leggjast/legges
+        "extra_anchors": [],
+    },
+    {
+        "category": "oppdrett",
+        "stems": ["skift"],  # merdene skal skiftast/skiftes
+        "extra_anchors": [],
+    },
+    {
+        "category": "industri",
+        "stems": ["løft", "frakt"],  # modulen skal løftast/fraktast/løftes/fraktes
+        "extra_anchors": ["modul", "plattform"],
+    },
+]
 
 NORMALIZED_STEMS: dict[str, list[str]] = {
     cat: sorted({normalize_word(k) for k in words})
     for cat, words in STEM_KEYWORDS.items()
 }
 
-NORMALIZED_VERBS: dict[str, list[str]] = {
-    cat: sorted({normalize_word(v) for v in verbs}) for cat, verbs in VERB_STEMS.items()
-}
-
-NORMALIZED_ANCHORS: dict[str, list[str]] = {
-    cat: sorted(
-        {normalize_word(w) for w in STEM_KEYWORDS.get(cat, []) + _EXTRA_ANCHOR_NOUNS.get(cat, [])}
-    )
-    for cat in VERB_STEMS
-}
-
 LOWER_PHRASES: dict[str, list[str]] = {
     cat: [p.lower() for p in phrases] for cat, phrases in PHRASE_KEYWORDS.items()
 }
+
+# Ankeret for en gated-regel er kategoriens egne stammer (ordet skal telle
+# hvis det opptrer sammen med ETHVERT annet signal fra samme kategori) pluss
+# ev. ekstra ankerord spesifikke for akkurat den regelen.
+_NORMALIZED_GATES: list[dict] = [
+    {
+        "category": rule["category"],
+        "stems": sorted({normalize_word(s) for s in rule["stems"]}),
+        "anchors": sorted(
+            {
+                normalize_word(a)
+                for a in STEM_KEYWORDS.get(rule["category"], []) + rule["extra_anchors"]
+            }
+        ),
+    }
+    for rule in GATED_TERMS
+]
 
 
 def _any_prefix_match(words: set[str], roots: list[str]) -> bool:
@@ -144,11 +182,12 @@ def match_categories(text: str) -> list[str]:
     for cat in CATEGORIES:
         stem_hit = _any_prefix_match(words, NORMALIZED_STEMS[cat])
         phrase_hit = any(p in lowered for p in LOWER_PHRASES[cat])
-        verb_hit = False
-        if cat in VERB_STEMS:
-            has_verb = _any_prefix_match(words, NORMALIZED_VERBS[cat])
-            has_anchor = _any_substring_match(words, NORMALIZED_ANCHORS[cat])
-            verb_hit = has_verb and has_anchor
-        if stem_hit or phrase_hit or verb_hit:
+        gated_hit = any(
+            gate["category"] == cat
+            and _any_prefix_match(words, gate["stems"])
+            and _any_substring_match(words, gate["anchors"])
+            for gate in _NORMALIZED_GATES
+        )
+        if stem_hit or phrase_hit or gated_hit:
             hits.append(cat)
     return hits
