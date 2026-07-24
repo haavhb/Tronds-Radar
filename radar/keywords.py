@@ -43,12 +43,17 @@ STEM_KEYWORDS: dict[str, list[str]] = {
         "rørledning",
     ],
     "oppdrett": [
-        # NB: "oppdrett" er bevisst utelatt som frittstående stamme - det er
-        # for generelt (matcher praktisk talt alt fra bransjepressen, inkl.
-        # ren finansnyheter), og fanges likevel opp via mer spesifikke
-        # substantiv og fraser under.
+        # NB: "oppdrett" og "havbruk" er bevisst utelatt som frittstående
+        # stammer - begge er for generelle (matcher praktisk talt alt fra
+        # bransjepressen, inkl. ren finansnyheter), og fanges likevel opp
+        # via mer spesifikke substantiv og fraser under, eller (for
+        # havbruk) via GATED_TERMS/PHRASE_KEYWORDS kombinert med et
+        # bransjesignal (kontrakt, investering osv.).
         "merd", "fôrflåte", "forflåte", "fortøy", "akvakultur",
         "slaktemerd", "notpose",
+        "betongflåte", "arbeidsflåte", "serviceflåte", "oppdrettsflåte",
+        "flytekrage", "settefisk", "slakteri", "ankerhåndter",
+        "ankerinstallasjon", "oppdrettsutstyr", "betongelement",
     ],
     "industri": [
         "riving", "rivast", "rives", "revet",
@@ -82,6 +87,23 @@ PHRASE_KEYWORDS: dict[str, list[str]] = {
         "ny lokalitet", "lokalitet for oppdrett", "utvidelse av lokalitet",
         "oppdrettskonsesjon", "konsesjon for oppdrett", "fôrflåte skal",
         "merder skal", "flytte anlegget", "skifte merder",
+        # Generiske ord (etabler/utvid/kjøp/kontrakt/invester osv.) er for
+        # brede alene, men trygge kombinert med et bransjeord.
+        "etabler oppdrettsanlegg", "utvid oppdrettsanlegg",
+        "flytt oppdrettsanlegg", "demonter oppdrettsanlegg",
+        "oppgrader lokalitet", "service oppdrettsanlegg",
+        "sjøsett flåte", "løft flåte",
+        "kjøp oppdrettsanlegg", "kjøp oppdrettslokalitet",
+        "kjøp havbruksselskap", "selg oppdrettsanlegg",
+        "invester oppdrett", "invester havbruk",
+        "kontrakt oppdrett", "kontrakt havbruk",
+        "tildel kontrakt oppdrett", "tildel kontrakt havbruk",
+        "utbygging havbruk", "søk lokalitet", "søk tillatelse oppdrett",
+        "nytt konsesjonsområde", "milliardinvester havbruk",
+        "havbruk sats", "avtale oppdrett", "avtale havbruk",
+        "lever oppdrett", "lever havbruk",
+        "landbasert oppdrett", "offshore havbruk", "offshore oppdrett",
+        "eksponert oppdrett", "havbruk havs",
     ],
     "industri": [
         "modul skal fraktes", "modul skal løftes", "plattform skal fjernes",
