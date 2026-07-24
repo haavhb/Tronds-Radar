@@ -75,6 +75,22 @@ STEM_KEYWORDS: dict[str, list[str]] = {
         "riving", "rivast", "rives", "revet",
         "decommission", "nedstenging", "modultransport",
         "tungløft", "tungloft", "smelteverk", "prosessanlegg",
+        "tungtransformator", "industribygg", "breakbulk", "kranlekter",
+        "sjøløft", "industrimodul", "fabrikkmoduler", "industrimoduler",
+        "modulbygg", "hydrogenfabrikk", "batterifabrikk", "ammoniakkterminal",
+        "transformatorstasjon", "offshorebase", "prosjektlast",
+        "prosjektlogistikk", "industriprosjekt", "industripark",
+        "karbonfangst", "havvind", "industrikai", "fabrikkutvidelse",
+        "hydrogenanlegg", "ammoniakkanlegg", "produksjonslinje",
+        "stålkonstruksjon", "stålkonstruksjoner", "maskinflytting",
+        "spesialtransport", "sjøtransport", "tunggods", "skipslast",
+        "lektertransport", "havneterminal", "oljebase",
+        # NB: "transformator", "tank", "silo", "terminal", "lager",
+        # "kraftverk" osv. er bevisst utelatt som frittstående stammer - for
+        # tvetydige alene ("tank" prefiksmatcher "tanke"/"tenke", "terminal"
+        # kan være buss-/flyterminal, "lager" er et helt vanlig ord).
+        # Fanges opp via PHRASE_KEYWORDS kombinert med et transport-/
+        # løfteverb i stedet, se under.
     ],
 }
 
@@ -133,6 +149,23 @@ PHRASE_KEYWORDS: dict[str, list[str]] = {
         "modul skal fraktes", "modul skal løftes", "plattform skal fjernes",
         "fabrikk skal rives", "rive fabrikken", "tungt utstyr skal fraktes",
         "sjøtransport av modul",
+        # Generiske substantiv (transformator/tank/silo/stål/betong) er for
+        # brede alene, men trygge kombinert med et transport-/løfteverb.
+        "transport transformator", "transport silo",
+        # NB: "tank" er bevisst utelatt her - prefiksmatcher "tanker"/"tanke"
+        # (tanker om noe), som ville gitt falske treff sammen med "transport".
+        "transport stål", "transport betong", "løft maskineri",
+        "løft betongelement", "frakt betongelement",
+        # Fabrikk-/industriparkutbygging - trenger et bygge-/kjøpeverb, ikke
+        # bare "ny fabrikk" (som ville kollapse til bare "fabrikk" siden "ny"
+        # er et fjernet småord).
+        "kjøp fabrikk", "bygg fabrikk", "utvid fabrikk",
+        "milliardinvester industri", "kontrakt industri",
+        # Hyphenerte forkortelser ("LNG-anlegg", "CCS-anlegg", "EPC-kontrakt")
+        # tokeniseres som to separate ord siden normalize_text ikke regner
+        # bindestrek som en del av ordet - bag-match fanger dem likevel opp.
+        "lng anlegg", "ccs anlegg", "epc kontrakt",
+        "plugging fjerning",
     ],
 }
 
