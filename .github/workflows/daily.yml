@@ -1,0 +1,51 @@
+name: Tronds Radar - daglig kjøring
+
+on:
+  schedule:
+    # 05:30 UTC = ca. 06:30-07:30 norsk tid, avhengig av sommer-/vintertid.
+    - cron: "30 5 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: tronds-radar-daily
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Sjekk ut repoet
+        uses: actions/checkout@v4
+
+      - name: Sett opp Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Installer avhengigheter
+        run: pip install -r requirements.txt
+
+      - name: Kjør Tronds Radar
+        env:
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+        run: python -m radar.main
+
+      - name: Commit historikk og nettside
+        run: |
+          git config user.name "tronds-radar-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/history.json docs/index.html
+          if git diff --cached --quiet; then
+            echo "Ingen endringer å committe."
+          else
+            git commit -m "Oppdater Tronds Radar $(date -u +%Y-%m-%d)"
+            git push
+          fi
