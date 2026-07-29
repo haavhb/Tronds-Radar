@@ -9,6 +9,16 @@
     "source_name": "GNews site: Bygg.no",
     "title": "(+) Miljø­ministeren ber om ny vurdering rundt fabrikk­satsing - Bygg.no"
   },
+  "brann om bord på tankskip slukket - tv 2": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-07-29T08:02:13.424276+00:00",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1KaUFmRnI5aDU2czFKLWgzcm9oZEgyMmcwVFdnaXl2UVE0T1NUTFpJMGFfZmQwVEF5Q2YzLXFLdHhwQ29MVlItX2NtY0lTdEloRjhjWHFqTGt4Y0xJVUJpdG1KejBONkE0R1I0dVZfNk5oMHprM1FxUkRB?oc=5",
+    "published": "Tue, 28 Jul 2026 14:06:10 GMT",
+    "source_name": "GNews: slep/nødhavn",
+    "title": "Brann om bord på tankskip slukket - TV 2"
+  },
   "bygger ny fiskerihavn: – senker terskelen for ungdommen (+) - fiskeribladet": {
     "categories": [
       "infrastruktur"
@@ -59,6 +69,26 @@
     "source_name": "NRK Vestfold og Telemark",
     "title": "Båtfølget jages bort nok en gang – mener eierne misbruker retten til å søke nødhavn"
   },
+  "eksplosjon og brann om bord på tankskip - dagbladet": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-07-29T08:02:13.424276+00:00",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ0RqMEItdDFYSjRwN3dZRWY2Z3hnTGRqdUFXWXVZa2c3R1BCNkNESmVjbXlTZXN0THc1TjNUZ0VhSmtMejE3U3BKOXVGVUZoVGtDYk05S3gtY3N3MkN4SVo0bklnbUFWQV9ZWm1wbVRVbXB0VXFVa2tGRkR1NXpkQ0FyQmxlM1d5?oc=5",
+    "published": "Wed, 29 Jul 2026 03:38:35 GMT",
+    "source_name": "GNews: slep/nødhavn",
+    "title": "Eksplosjon og brann om bord på tankskip - Dagbladet"
+  },
+  "eksplosjon og brann om bord på tankskip - vg": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-07-29T08:02:13.424276+00:00",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbFczRkEzZ1V0Y3k5UlZiWUtqYlVkZkt5YXBMMzVrTlR6VWREMjlvZDRpOS1FSTJucGFBMGVWdURLbWY2c2JNVWpGclAycnF3WlZzWUt1SG10QVZYQ2gxQk5qS1FNY2FhYVVEdFRtSHN4ZnJFVmJXdVJXVFFBaHB5R3daSy1KZTZNbV93TFhn?oc=5",
+    "published": "Tue, 28 Jul 2026 20:04:24 GMT",
+    "source_name": "GNews: slep/nødhavn",
+    "title": "Eksplosjon og brann om bord på tankskip - VG"
+  },
   "ferjesamband er med på pilotprosjekt": {
     "categories": [
       "infrastruktur"
@@ -79,6 +109,16 @@
     "source_name": "GNews: sjøkabel/sjøledning",
     "title": "Legger sjøkabel til Henningsvær - vaganavisa.no"
   },
+  "mo industripark risikerer ukentlig tvangsmulkt etter sikkerhetsmangler": {
+    "categories": [
+      "industri"
+    ],
+    "first_seen": "2026-07-29T08:02:13.424276+00:00",
+    "link": "https://www.nrk.no/nordland/mo-industripark-risikerer-ukentlig-tvangsmulkt-etter-sikkerhetsmangler_-1.17972147",
+    "published": "Wed, 29 Jul 2026 05:36:11 GMT",
+    "source_name": "NRK Nordland",
+    "title": "Mo Industripark risikerer ukentlig tvangsmulkt etter sikkerhetsmangler"
+  },
   "nordland akva fikk et tungt år etter massivt sykdomstap": {
     "categories": [
       "oppdrett"
@@ -98,5 +138,85 @@
     "published": "Fri, 24 Jul 2026 09:00:17 GMT",
     "source_name": "GNews: slep/nødhavn",
     "title": "Nødhavn, Båt | Ikke enig i kommunens framstilling: – Kan ikke legge til i vanlig marina - Gjengangeren"
+  },
+  "politiet: eksplosjon på tankskip startet trolig etter sveising": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-07-29T08:02:13.424276+00:00",
+    "link": "https://www.tu.no/artikler/tankskip-har-gatt-pa-grunn-utenfor-hvaler-eksplosjon-og-brann-om-bord/575137",
+    "published": "Tue, 28 Jul 2026 16:21:11 +0200",
+    "source_name": "Teknisk Ukeblad (TU.no)",
+    "title": "Politiet:  Eksplosjon på tankskip startet trolig etter sveising"
+  },
+  "stor redningsaksjon: to utenlandske turister funnet i breheimen": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-07-29T08:02:13.424276+00:00",
+    "link": "https://www.nrk.no/vestland/stor-redningsaksjon_-to-savnede-turister-er-funnet-i-breheimen-1.17971382",
+    "published": "Tue, 28 Jul 2026 11:06:01 GMT",
+    "source_name": "NRK Vestland",
+    "title": "Stor redningsaksjon: To utenlandske turister funnet i Breheimen"
+  },
+  "tankskip brant ved hvaler: eksplosjonsartet brann om bord - nrk": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-07-29T08:02:13.424276+00:00",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcTl4NXF6SGJrcmtwRmtDQURXcU1fcDVJZE41UEF2bG1GZ3Y1WUJQbVVlckJSMi1FbE9vSEVvSDZnUmMwUEV0MU5WU2x3Z05vNTJDbllhZmxyXzcySEhHQ0NUc3BxV2U5RWo4YnhreENnMnVUd05mSl9iTnMtZC1NZXVfYXYwV09IRFUxbTRuM1BiRG1vZWNVOG81aw?oc=5",
+    "published": "Tue, 28 Jul 2026 13:48:01 GMT",
+    "source_name": "GNews: slep/nødhavn",
+    "title": "Tankskip brant ved Hvaler: Eksplosjonsartet brann om bord - NRK"
+  },
+  "tankskip gått på skjær - eksplosjon og brann om bord - tv 2": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-07-29T08:02:13.424276+00:00",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPckRaYWI1OG1HVE9OWkMtMTJJcGZCOXhjOFE1X0JIRXBFSkF5WW1Vc2ZZSU9tcWh4UEhIUjJ2azdtSHpwdEFHYW9XU3hJTG96MFV1UmdFR0Jza01TM01ENjM0a01ESXhHV09xall2Tm8taE92X0M2Qm5Ebld4b3lSV3RMMlBEZ1ZZUEF2RUxXSVJQTnBWeGNScVRBRTJKQnpxOEx2RGZhMUFvTnVNVmRVRlRKQTBEZ044R0k1S3ROT0RwMTZKVEYw?oc=5",
+    "published": "Tue, 28 Jul 2026 13:51:22 GMT",
+    "source_name": "GNews: slep/nødhavn",
+    "title": "Tankskip gått på skjær - Eksplosjon og brann om bord - TV 2"
+  },
+  "tankskip gått på skjær – bekreftet eksplosjon og brann om bord - e24": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-07-29T08:02:13.424276+00:00",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZmRXSW56YzFHYlRGcGpWdWo5OVpEMDB4SUl1MllZR2ltenRVNTA4TVJkLWJDS0Z3elowZ3VKWV82dV9XV2Zka2Z2TmJscENTN3F0R2NhRDFCYWZvY0Nka2FJS0hwSDBvOUtDOXpxRkVxV3BFMUtIUkZVd0tNRW9xcS1kbi1xNWNZZlVlQm90eXA5LXJhQXBkNjRrM2FqYjhsVlc0?oc=5",
+    "published": "Tue, 28 Jul 2026 14:00:20 GMT",
+    "source_name": "GNews: slep/nødhavn",
+    "title": "Tankskip gått på skjær – bekreftet eksplosjon og brann om bord - E24"
+  },
+  "tankskip har gått på grunn utenfor hvaler – eksplosjon og brann om bord - teknisk ukeblad": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-07-29T08:02:13.424276+00:00",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQY3EtQWF3c0o0WU80ZjE2MXhpQUI0dUVEVUtLUWJmdE9JV3RsOHMwT3k1amVOQ1JDQ3Q5VDBOX2p2S3FTTkpwVW5sTTRBSUEwNXRPel95Z0VCZW1ZbzhMdDFmRXdiOFpnUlcwZlpveWRhSWp0YzJBakZUSUc0MzJrSlVCeklYY3MtUlV3Z29MS24yMDNmRmdkY2xCbUJRWkNsX2x5UDRB?oc=5",
+    "published": "Tue, 28 Jul 2026 15:05:47 GMT",
+    "source_name": "GNews: grunnstøting/forlis",
+    "title": "Tankskip har gått på grunn utenfor Hvaler – eksplosjon og brann om bord - Teknisk Ukeblad"
+  },
+  "tankskip på grunn utenfor hvaler – eksplosjon og brann om bord - dagens næringsliv": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-07-29T08:02:13.424276+00:00",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMFRoUldKUS1qaUw3cEFVeG1rcnFXdTRfYkRUZWxqd2puaW5SaEJ1cndoSGdiZzlMTkRyR0lma2tpZWhLdVBiQ3NPdUduT0JjWUUxTG5oWE9DMFIzTm1PZUZUakJXNENMa29hbHNhcXNFOVc1RU9saDhQUmZFdnNBMDE1dVlueDNhTmJ0RUxtMWxNS0JYcUNDemVJNXR6aFVZUTBUZ0k4UG5xV00yRmJwSlktOVd3Skk?oc=5",
+    "published": "Tue, 28 Jul 2026 05:40:00 GMT",
+    "source_name": "GNews: slep/nødhavn",
+    "title": "Tankskip på grunn utenfor Hvaler – eksplosjon og brann om bord - Dagens Næringsliv"
+  },
+  "usa senket eget hangarskip med kamikaze-dronebåt": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-07-29T08:02:13.424276+00:00",
+    "link": "https://www.tu.no/artikler/usa-senket-eget-hangarskip-med-kamikaze-dronebat/575131",
+    "published": "Wed, 29 Jul 2026 08:55:40 +0200",
+    "source_name": "Teknisk Ukeblad (TU.no)",
+    "title": "USA senket eget hangarskip med kamikaze-dronebåt"
   }
 }
