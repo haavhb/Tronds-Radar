@@ -9,6 +9,26 @@
     "source_name": "GNews site: Bygg.no",
     "title": "(+) Miljø­ministeren ber om ny vurdering rundt fabrikk­satsing - Bygg.no"
   },
+  "[ekstra] fransk forsvarsindustri evakuert": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-07-30T07:44:29.571816+00:00",
+    "link": "https://www.tu.no/artikler/fransk-forsvarsindustri-evakuert-pa-grunn-av-skogbrannene/575146",
+    "published": "Wed, 29 Jul 2026 11:53:46 +0200",
+    "source_name": "Teknisk Ukeblad (TU.no)",
+    "title": "[Ekstra] Fransk forsvarsindustri evakuert"
+  },
+  "[ekstra] hydro-sjefen: – jeg sier ja til kraft. all kraft": {
+    "categories": [
+      "industri"
+    ],
+    "first_seen": "2026-07-30T07:44:29.571816+00:00",
+    "link": "https://www.tu.no/artikler/hydro-sjefen-jeg-sier-ja-til-kraft-all-kraft/574960",
+    "published": "Wed, 29 Jul 2026 13:26:04 +0200",
+    "source_name": "Teknisk Ukeblad (TU.no)",
+    "title": "[Ekstra] Hydro-sjefen: – Jeg sier ja til kraft. All kraft"
+  },
   "brann om bord på tankskip slukket - tv 2": {
     "categories": [
       "havari_berging"
@@ -38,6 +58,16 @@
     "published": "Sun, 26 Jul 2026 07:03:38 GMT",
     "source_name": "GNews: kantring/vrak/berging",
     "title": "Båt kantret i Phu Quoc: Pasienten kommer seg, legene fortsetter å ta vare på ham hele veien til India. - Vietnam.vn"
+  },
+  "båt, kantring | katamaran kantret ved engevika i halden - sarpsborg arbeiderblad": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-07-30T07:44:29.571816+00:00",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOem8tbkNoLWpvcUdIOXcyQ2hoemhtTDl6QXczakYzQU91ZWZheGYyMGVBalRsU3NCOTBFcXBmODJPZUsxQnphWGtoMlNRcjFfcHpKY3l3cmQ2QThZenByZmhuOVBnbVV4QThvMVBJSUtRbFI1T3FmTDlGM2VBbVE3VXhVdHk4RHA4U3ljVjZhWGRzOVFsTTRGZ0tB?oc=5",
+    "published": "Wed, 29 Jul 2026 11:09:41 GMT",
+    "source_name": "GNews: kantring/vrak/berging",
+    "title": "Båt, Kantring | Katamaran kantret ved Engevika i Halden - Sarpsborg Arbeiderblad"
   },
   "båt, nødhavn | varsler pålegg mot båtfølget som har ankret i horten - gjengangeren": {
     "categories": [
@@ -79,6 +109,16 @@
     "source_name": "GNews: slep/nødhavn",
     "title": "Eksplosjon og brann om bord på tankskip - Dagbladet"
   },
+  "eksplosjon og brann om bord på tankskip - dagbladet.no": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-07-30T07:44:29.571816+00:00",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ0RqMEItdDFYSjRwN3dZRWY2Z3hnTGRqdUFXWXVZa2c3R1BCNkNESmVjbXlTZXN0THc1TjNUZ0VhSmtMejE3U3BKOXVGVUZoVGtDYk05S3gtY3N3MkN4SVo0bklnbUFWQV9ZWm1wbVRVbXB0VXFVa2tGRkR1NXpkQ0FyQmxlM1d5?oc=5",
+    "published": "Tue, 28 Jul 2026 14:05:51 GMT",
+    "source_name": "GNews: slep/nødhavn",
+    "title": "Eksplosjon og brann om bord på tankskip - dagbladet.no"
+  },
   "eksplosjon og brann om bord på tankskip - vg": {
     "categories": [
       "havari_berging"
@@ -89,6 +129,16 @@
     "source_name": "GNews: slep/nødhavn",
     "title": "Eksplosjon og brann om bord på tankskip - VG"
   },
+  "eksplosjon og brann om bord på tankskip - vg.no": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-07-30T07:44:29.571816+00:00",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbFczRkEzZ1V0Y3k5UlZiWUtqYlVkZkt5YXBMMzVrTlR6VWREMjlvZDRpOS1FSTJucGFBMGVWdURLbWY2c2JNVWpGclAycnF3WlZzWUt1SG10QVZYQ2gxQk5qS1FNY2FhYVVEdFRtSHN4ZnJFVmJXdVJXVFFBaHB5R3daSy1KZTZNbV93TFhn?oc=5",
+    "published": "Tue, 28 Jul 2026 20:04:24 GMT",
+    "source_name": "GNews: slep/nødhavn",
+    "title": "Eksplosjon og brann om bord på tankskip - vg.no"
+  },
   "ferjesamband er med på pilotprosjekt": {
     "categories": [
       "infrastruktur"
@@ -98,6 +148,36 @@
     "published": "Sun, 26 Jul 2026 13:57:11 GMT",
     "source_name": "NRK Møre og Romsdal",
     "title": "Ferjesamband er med på pilotprosjekt"
+  },
+  "ila-mistanke i troms for salmar": {
+    "categories": [
+      "oppdrett"
+    ],
+    "first_seen": "2026-07-30T07:44:29.571816+00:00",
+    "link": "https://ilaks.no/ila-mistanke-i-troms-for-salmar/?mtm_campaign=feed_click&mtm_kwd=ila-mistanke-i-troms-for-salmar&mtm_source=RSS2&mtm_medium=feed",
+    "published": "Wed, 29 Jul 2026 12:41:12 +0000",
+    "source_name": "iLaks",
+    "title": "ILA-mistanke i Troms for SalMar"
+  },
+  "katamaran har kantret i iddefjorden – alle personene som var om bord, er i sikkerhet - aftenposten": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-07-30T07:44:29.571816+00:00",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQndpVXBLRUZqc3JFMk9KYkh2QnFsLXg3SW5wXzZrMGdSN0pYR3BCZ01BTm9BT3hkR3cwZGliSXk0MnR0UG5XR2VtNnE5Rzk4Q2hXdHVCUE5PTTEtY1NuRnZyWERBcWtTODlSdXRlM3M0em9QZ0hRczNVQWNhMmRsbmg5Tkk5eWliNXFlQXJ3emd3bWFlOUltMU44U2g4MVpwYS1OVWpoWFlNbkppUElYa3Y0VF9Db3dlOEZMekdIMG0?oc=5",
+    "published": "Wed, 29 Jul 2026 10:24:52 GMT",
+    "source_name": "GNews: kantring/vrak/berging",
+    "title": "Katamaran har kantret i Iddefjorden – alle personene som var om bord, er i sikkerhet - Aftenposten"
+  },
+  "katamaran kantret utenfor halden - nettavisen": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-07-30T07:44:29.571816+00:00",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVEhaUVdtdnVJQ0JSd3FtY1YzblBKOXFsbG82V1IxaTItQ0dZWG4xSG5nVTVvNzZMWEJaeDF5Y19hT21TaVE1WW0zNUpxbkVKV2ZZa1dVdjA3bVdrUUpzcExYQWxiUTllRHhqTlpRQ2lMaDkzMHI0alZDVEpjeVNyTVREN1NCWTVJZ1ZTNHUwc3BQOFVhLWtFWFFYUQ?oc=5",
+    "published": "Wed, 29 Jul 2026 10:52:01 GMT",
+    "source_name": "GNews: kantring/vrak/berging",
+    "title": "Katamaran kantret utenfor Halden - Nettavisen"
   },
   "legger sjøkabel til henningsvær - vaganavisa.no": {
     "categories": [
