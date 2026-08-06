@@ -29,6 +29,16 @@
     "source_name": "GNews site: Bygg.no",
     "title": "(+) Miljø­ministeren ber om ny vurdering rundt fabrikk­satsing - Bygg.no"
   },
+  "(+) setter stopp for denne lokaliteten - kyst.no": {
+    "categories": [
+      "oppdrett"
+    ],
+    "first_seen": "2026-08-06T07:58:53.127873+00:00",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdzFWLVVDWnA2S1FEaEItcjM5bkR2em9rUmJXQ0pRNDY4NkFweXZETEU3emRmbDV3YmkxSmxDWktIeGpUV1NnUUV0eW9rZ29panZobUFEOTZmdUNTUFZ6SjNBM1RibGM3SnBzNGxXRFRxR0xYU2NfZGpEdThaYmZmNTJhLXluNEZKTjFINUpZbkUyVXJGaDVXMTRTQkNIU21iUGQ0OWdoSXk0RW04T2pqU0IxQ3R0WVk?oc=5",
+    "published": "Wed, 05 Aug 2026 10:33:07 GMT",
+    "source_name": "GNews site: Kyst.no",
+    "title": "(+) Setter stopp for denne lokaliteten - Kyst.no"
+  },
   "(+) stengt bru og tunnel tvinger fram ny asfaltering på e8 - bygg.no": {
     "categories": [
       "infrastruktur"
@@ -249,6 +259,16 @@
     "source_name": "NRK Troms og Finnmark",
     "title": "Fant Tassen etter to måneder – midt i fjorden"
   },
+  "ferger, grunnstøting | skipperen sovnet bak roret – byferga endte på land - fredriksstad blad": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-08-06T07:58:53.127873+00:00",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeExyaERTOGxHT3g3MTg2ZUJZbmtCX2o5VWs0eHBRNzF0a2g3dnZ5NHZzZlp5cjRfVGpLVmJUNURMMDVrRjgzR3VGVTl4MkV6cG1vSVFUVjRSVElEMEZwSUUwYzRSNDJaX21NSGhzV0ZqdHF2aUF3OHN3T2ZIcmNVaVF1XzVUVnh0S2c?oc=5",
+    "published": "Wed, 05 Aug 2026 20:04:08 GMT",
+    "source_name": "GNews: grunnstøting/forlis",
+    "title": "Ferger, Grunnstøting | Skipperen sovnet bak roret – byferga endte på land - Fredriksstad Blad"
+  },
   "ferjesamband er med på pilotprosjekt": {
     "categories": [
       "infrastruktur"
@@ -268,6 +288,16 @@
     "published": "Fri, 31 Jul 2026 08:20:01 GMT",
     "source_name": "NRK Vestfold og Telemark",
     "title": "Frykter forlis og miljøskader: Nå aksjonerer politiet"
+  },
+  "full fyr i fôrflåte": {
+    "categories": [
+      "oppdrett"
+    ],
+    "first_seen": "2026-08-06T07:58:53.127873+00:00",
+    "link": "https://ilaks.no/full-fyr-i-forflate/?mtm_campaign=feed_click&mtm_kwd=full-fyr-i-forflate&mtm_source=RSS2&mtm_medium=feed",
+    "published": "Thu, 06 Aug 2026 05:40:08 +0000",
+    "source_name": "iLaks",
+    "title": "Full fyr i fôrflåte"
   },
   "horten kommune anmelder båtfølget": {
     "categories": [
@@ -388,6 +418,16 @@
     "published": "Mon, 03 Aug 2026 20:34:35 GMT",
     "source_name": "NRK Nordland",
     "title": "Redningsaksjon i Børgefjell avblåst"
+  },
+  "sjurelv fiskeoppdrett vil kjøpe settefiskanlegg av salmar": {
+    "categories": [
+      "oppdrett"
+    ],
+    "first_seen": "2026-08-06T07:58:53.127873+00:00",
+    "link": "https://ilaks.no/sjurelv-fiskeoppdrett-vil-kjope-av-settefiskanlegg-fra-salmar/?mtm_campaign=feed_click&mtm_kwd=sjurelv-fiskeoppdrett-vil-kjope-av-settefiskanlegg-fra-salmar&mtm_source=RSS2&mtm_medium=feed",
+    "published": "Wed, 05 Aug 2026 16:28:19 +0000",
+    "source_name": "iLaks",
+    "title": "Sjurelv Fiskeoppdrett vil kjøpe settefiskanlegg av SalMar"
   },
   "stor redningsaksjon: to utenlandske turister funnet i breheimen": {
     "categories": [
