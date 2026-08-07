@@ -309,6 +309,26 @@
     "source_name": "NRK Vestfold og Telemark",
     "title": "Horten kommune anmelder båtfølget"
   },
+  "ila påvist i ibestad": {
+    "categories": [
+      "oppdrett"
+    ],
+    "first_seen": "2026-08-07T06:41:14.147132+00:00",
+    "link": "https://ilaks.no/ila-pavist-i-ibestad/?mtm_campaign=feed_click&mtm_kwd=ila-pavist-i-ibestad&mtm_source=RSS2&mtm_medium=feed",
+    "published": "Thu, 06 Aug 2026 13:39:03 +0000",
+    "source_name": "iLaks",
+    "title": "ILA påvist i Ibestad"
+  },
+  "ila påvist på salmar-lokalitet - kyst.no": {
+    "categories": [
+      "oppdrett"
+    ],
+    "first_seen": "2026-08-07T06:41:14.147132+00:00",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMF84R3hxYnI4R1V5d1lTOHlXQkNUUWZFb25nNXF4SDVrRmhjSjk1RUlnN3g4RjQyWVExTjlYUUhHZGJvOWVlYnJpMjh6SzgyQXZyWTNCc1JCeWFtZFpTYm01MGl0OHotaDJEV1hYMXV2OU9ONnoycFlLTGlDZVU5ZVFud2pXR0VS?oc=5",
+    "published": "Thu, 06 Aug 2026 13:23:47 GMT",
+    "source_name": "GNews site: Kyst.no",
+    "title": "ILA påvist på Salmar-lokalitet - Kyst.no"
+  },
   "ila-mistanke i troms for salmar": {
     "categories": [
       "oppdrett"
@@ -388,6 +408,16 @@
     "published": "Fri, 24 Jul 2026 09:00:17 GMT",
     "source_name": "GNews: slep/nødhavn",
     "title": "Nødhavn, Båt | Ikke enig i kommunens framstilling: – Kan ikke legge til i vanlig marina - Gjengangeren"
+  },
+  "oceanbox hentet ny produktsjef fra lerøy": {
+    "categories": [
+      "oppdrett"
+    ],
+    "first_seen": "2026-08-07T06:41:14.147132+00:00",
+    "link": "https://ilaks.no/han-gar-fra-leroy-til-oceanbox/?mtm_campaign=feed_click&mtm_kwd=han-gar-fra-leroy-til-oceanbox&mtm_source=RSS2&mtm_medium=feed",
+    "published": "Thu, 06 Aug 2026 07:33:11 +0000",
+    "source_name": "iLaks",
+    "title": "Oceanbox hentet ny produktsjef fra Lerøy"
   },
   "politiet: eksplosjon på tankskip startet trolig etter sveising": {
     "categories": [
@@ -489,6 +519,16 @@
     "source_name": "GNews: slep/nødhavn",
     "title": "Tankskip på grunn utenfor Hvaler – eksplosjon og brann om bord - Dagens Næringsliv"
   },
+  "ulykker og hendingar, austrheim | seglbåt har grunnstøytt: far og dotter (8) ringde etter hjelp - avisa nordhordland": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-08-07T06:41:14.147132+00:00",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcFd6RDRPamhVZ2FuejlCUkhEWXVUOTd0WE90THNtS0pXZEJyczRYcmtCeXFyTEZfTkFVX2o3cUpFNkxPdXZnR0VjWXNoc0NOQnUySXJ4UEJhckJJeDBwRVhubW5QM2UtaEZUWUJCbEx1V0x5Sko3aW1ObWpzOENva2ltMmFuV3NFNTB1a0k5bTlkTlVENERmNE5fQjV5dw?oc=5",
+    "published": "Thu, 06 Aug 2026 10:41:41 GMT",
+    "source_name": "GNews: grunnstøting/forlis",
+    "title": "Ulykker og hendingar, Austrheim | Seglbåt har grunnstøytt: Far og dotter (8) ringde etter hjelp - Avisa Nordhordland"
+  },
   "usa senket eget hangarskip med kamikaze-dronebåt": {
     "categories": [
       "havari_berging"
@@ -508,5 +548,15 @@
     "published": "Mon, 03 Aug 2026 13:48:29 +0000",
     "source_name": "iLaks",
     "title": "Vant anbud om å håndtere fiskeslam fra et større antall settefiskanlegg i nord"
+  },
+  "vil ha mer frihandel: – situasjonen er krevende for sjømatbedrifter som har satset på usa-markedet": {
+    "categories": [
+      "oppdrett"
+    ],
+    "first_seen": "2026-08-07T06:41:14.147132+00:00",
+    "link": "https://ilaks.no/vil-ha-mer-frihandel-situasjonen-er-krevende-for-sjomatbedrifter-som-har-satset-pa-usa-markedet/?mtm_campaign=feed_click&mtm_kwd=vil-ha-mer-frihandel-situasjonen-er-krevende-for-sjomatbedrifter-som-har-satset-pa-usa-markedet&mtm_source=RSS2&mtm_medium=feed",
+    "published": "Thu, 06 Aug 2026 09:21:37 +0000",
+    "source_name": "iLaks",
+    "title": "Vil ha mer frihandel: – Situasjonen er krevende for sjømatbedrifter som har satset på USA-markedet"
   }
 }
