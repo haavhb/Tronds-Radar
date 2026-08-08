@@ -299,6 +299,16 @@
     "source_name": "iLaks",
     "title": "Full fyr i fôrflåte"
   },
+  "her kjem det ny sjøkabel - vikebladet.no": {
+    "categories": [
+      "infrastruktur"
+    ],
+    "first_seen": "2026-08-08T06:03:28.225783+00:00",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBZb1dESTJoYXBtNmxwdjM0Wk9DbnBzcm05NC12M1lOTEZlemVHMkhMN0FCX0FXeEwyOXN1ZHNIQjRCS3VkMkE1azZ3TmxEdmNRUTZzTEVkX0FZd2kwbUxyaXZHNU9oWEc0U1FVdHBPQkpLVDVv?oc=5",
+    "published": "Fri, 07 Aug 2026 08:00:00 GMT",
+    "source_name": "GNews: sjøkabel/sjøledning",
+    "title": "Her kjem det ny sjøkabel - vikebladet.no"
+  },
   "horten kommune anmelder båtfølget": {
     "categories": [
       "havari_berging"
@@ -518,6 +528,16 @@
     "published": "Tue, 28 Jul 2026 05:40:00 GMT",
     "source_name": "GNews: slep/nødhavn",
     "title": "Tankskip på grunn utenfor Hvaler – eksplosjon og brann om bord - Dagens Næringsliv"
+  },
+  "togtrøbbel på aker stasjon": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-08-08T06:03:28.225783+00:00",
+    "link": "https://www.nrk.no/stor-oslo/togtrobbel-pa-aker-stasjon-_-pavirker-enkeltspor-1.17982126",
+    "published": "Fri, 07 Aug 2026 09:12:23 GMT",
+    "source_name": "NRK Østlandssendingen",
+    "title": "Togtrøbbel på Aker stasjon"
   },
   "ulykker og hendingar, austrheim | seglbåt har grunnstøytt: far og dotter (8) ringde etter hjelp - avisa nordhordland": {
     "categories": [
