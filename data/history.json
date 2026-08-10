@@ -9,6 +9,16 @@
     "source_name": "GNews site: Bygg.no",
     "title": "(+) Brevik bru skal jekkes opp og forsterkes – stenges tre helger - Bygg.no"
   },
+  "(+) bruelement på 44 meter og 75 tonn løftet på plass - anlegg.no": {
+    "categories": [
+      "infrastruktur"
+    ],
+    "first_seen": "2026-08-10T06:49:02.480451+00:00",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOd1NmWnlHbV9qZzM4YVlrUVdObzlRNHcyVTlKdEtXVDlJbzNzaDkxQWIzVU5zNDdNSWE1S05za3hfWFE0X2NYeVRXSm1PRktWQmltSGI5RUJjMkE3N3pFTEhMR1FqYjVzX1lCdXZpdW9ZUktNYzV1M2E5Y3paaVpvM2tlV1RNcmdHN0xneWtxeDZIb2RWVk4wZm81c3dQa19TaGZybVlieWxSLUktUEE?oc=5",
+    "published": "Sun, 09 Aug 2026 13:44:54 GMT",
+    "source_name": "GNews site: Bygg.no",
+    "title": "(+) Bruelement på 44 meter og 75 tonn løftet på plass - Anlegg.no"
+  },
   "(+) bruseksjon heist på plass: – kommer til å skape stor frustrasjon - bygg.no": {
     "categories": [
       "infrastruktur"
@@ -279,6 +289,16 @@
     "source_name": "NRK Møre og Romsdal",
     "title": "Ferjesamband er med på pilotprosjekt"
   },
+  "fryktar at ny molo vil senda bølgjer mot gamle naust - vestnytt.no": {
+    "categories": [
+      "infrastruktur"
+    ],
+    "first_seen": "2026-08-10T06:49:02.480451+00:00",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORkEzX1U1X2o5WTNmV01yYThOWkVJSW1ZN3pFSW1qSkJMVFo5R0E1bEl6LXlaSE52b0tsVzN5MngwVDFYdFVNNlZYbXd4XzZSTWlKR1dZZDZycUtyTEtSUVB6VmdFX29UN2NRaW9QZzdrMXdmdDZTRGdYZnNuNFc4Ukw3dGpKeXBFc25tanBNQTJLVVNEYzE5V0hB?oc=5",
+    "published": "Mon, 10 Aug 2026 04:00:00 GMT",
+    "source_name": "GNews: ny kai/molo/bru",
+    "title": "Fryktar at ny molo vil senda bølgjer mot gamle naust - vestnytt.no"
+  },
   "frykter forlis og miljøskader: nå aksjonerer politiet": {
     "categories": [
       "havari_berging"
@@ -479,6 +499,16 @@
     "source_name": "NRK Vestland",
     "title": "Stor redningsaksjon: To utenlandske turister funnet i Breheimen"
   },
+  "større båt krasja med kai i os": {
+    "categories": [
+      "infrastruktur"
+    ],
+    "first_seen": "2026-08-10T06:49:02.480451+00:00",
+    "link": "https://www.nrk.no/vestland/storre-bat-krasja-med-kai-i-os--1.17984210",
+    "published": "Mon, 10 Aug 2026 05:47:17 GMT",
+    "source_name": "NRK Vestland",
+    "title": "Større båt krasja med kai i Os"
+  },
   "tankskip brant ved hvaler: eksplosjonsartet brann om bord - nrk": {
     "categories": [
       "havari_berging"
@@ -578,5 +608,15 @@
     "published": "Thu, 06 Aug 2026 09:21:37 +0000",
     "source_name": "iLaks",
     "title": "Vil ha mer frihandel: – Situasjonen er krevende for sjømatbedrifter som har satset på USA-markedet"
+  },
+  "wenberg fiskeoppdrett omorganiserer: overfører 219,2 millioner kroner til morselskapet": {
+    "categories": [
+      "oppdrett"
+    ],
+    "first_seen": "2026-08-10T06:49:02.480451+00:00",
+    "link": "https://ilaks.no/wenberg-fiskeoppdrett-omorganiserer-overforer-2192-millioner-kroner-til-morselskapet/?mtm_campaign=feed_click&mtm_kwd=wenberg-fiskeoppdrett-omorganiserer-overforer-2192-millioner-kroner-til-morselskapet&mtm_source=RSS2&mtm_medium=feed",
+    "published": "Mon, 10 Aug 2026 05:57:30 +0000",
+    "source_name": "iLaks",
+    "title": "Wenberg Fiskeoppdrett omorganiserer: Overfører 219,2 millioner kroner til morselskapet"
   }
 }
