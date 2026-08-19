@@ -79,6 +79,16 @@
     "source_name": "GNews site: Bygg.no",
     "title": "(+) Stengt bru og tunnel tvinger fram ny asfaltering på E8 - bygg.no"
   },
+  "(+) stor økning i bruks­tillatelser i oslo – men igangsetting henger etter - bygg.no": {
+    "categories": [
+      "infrastruktur"
+    ],
+    "first_seen": "2026-08-19T05:53:12.418587+00:00",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOc2o3WFpUR0Q5RWM0b3lxWUtIVVpZa0xZdTI3T3U5VVktSTRDcmVROUNkcEtDNHAzeERmTmpmbnp2eVVfOG5DOGZfenMxMlFlVDZWd1Nid1JBRUVSRjNfY3VYQTRqWGtaazBrcEFsREg5Z1RlbzVHRjE3LTRuVXZxX3BmLWxCQnJucHFwaUllSzdYbFN1dE5nbndKSVZEb2hTRWItUjhEbWNSLUItbkROYWxuakNYXzdPazNN?oc=5",
+    "published": "Tue, 18 Aug 2026 11:33:26 GMT",
+    "source_name": "GNews site: Bygg.no",
+    "title": "(+) Stor økning i bruks­tillatelser i Oslo – men igangsetting henger etter - Bygg.no"
+  },
   "- sysla.no": {
     "categories": [
       "infrastruktur"
@@ -119,6 +129,16 @@
     "source_name": "Teknisk Ukeblad (TU.no)",
     "title": "[Ekstra] Arendal: : Frykter Statnett-forsinkelser kan true gigafabrikk"
   },
+  "[ekstra] bane nor deler ut ørepropper": {
+    "categories": [
+      "infrastruktur"
+    ],
+    "first_seen": "2026-08-19T05:53:12.418587+00:00",
+    "link": "https://www.tu.no/artikler/bane-nor-deler-ut-orepropper-mot-anleggsbrak/575918",
+    "published": "Tue, 18 Aug 2026 11:52:41 +0200",
+    "source_name": "Teknisk Ukeblad (TU.no)",
+    "title": "[Ekstra] Bane Nor deler ut ørepropper"
+  },
   "[ekstra] fransk forsvarsindustri evakuert": {
     "categories": [
       "havari_berging"
@@ -128,6 +148,16 @@
     "published": "Wed, 29 Jul 2026 11:53:46 +0200",
     "source_name": "Teknisk Ukeblad (TU.no)",
     "title": "[Ekstra] Fransk forsvarsindustri evakuert"
+  },
+  "[ekstra] havarikommisjonen: rutine kan ha bidratt til dødsulykke på gjøvikbanen": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-08-19T05:53:12.418587+00:00",
+    "link": "https://www.tu.no/artikler/havarikommisjonen-rutine-kan-ha-bidratt-til-dodsulykke-pa-gjovikbanen/575909",
+    "published": "Tue, 18 Aug 2026 09:36:18 +0200",
+    "source_name": "Teknisk Ukeblad (TU.no)",
+    "title": "[Ekstra] Havarikommisjonen: Rutine kan ha bidratt til dødsulykke på Gjøvikbanen"
   },
   "[ekstra] hydro-sjefen: – jeg sier ja til kraft. all kraft": {
     "categories": [
@@ -549,6 +579,16 @@
     "source_name": "GNews site: Bygg.no",
     "title": "Innlegg: Bør entreprenørens stansnings­rett brukes oftere? - Bygg.no"
   },
+  "innlegg: hvordan brukes treet i norge – og hva betyr det for klimaet? - bygg.no": {
+    "categories": [
+      "infrastruktur"
+    ],
+    "first_seen": "2026-08-19T05:53:12.418587+00:00",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbUtUQ1hvWkZnMUg5NTJkUjFrcWRpNFJTUUYtUHpQN09WeGVUcWVhTll6NzVNY01Ndm5IZEJQNVZxdm8ySjFVR0NheUQySkk1VXZBY2FGTDdoTnQtMWFVTi1PU3czNVV4VU1JWmJfR01nVlRaNUJVVHlwODBqblU4VVdFOXEwb0JPSmh2ZGJSY3Ixc0dxUmxMcw?oc=5",
+    "published": "Tue, 18 Aug 2026 07:57:52 GMT",
+    "source_name": "GNews site: Bygg.no",
+    "title": "Innlegg: Hvordan brukes treet i Norge – og hva betyr det for klimaet? - Bygg.no"
+  },
   "jakter på den perfekte eika: : treverket til nidarosdomens nye dører må gjennom mange tester": {
     "categories": [
       "infrastruktur"
@@ -589,6 +629,16 @@
     "source_name": "NRK Vestland",
     "title": "Kritiserer DNT etter fleire redningsaksjonar"
   },
+  "kveldens tv-sending: lillesand kommune har politianmeldt eieren av gammel forlist båt": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-08-19T05:53:12.418587+00:00",
+    "link": "https://www.nrk.no/video/DKSL98081826",
+    "published": "Tue, 18 Aug 2026 17:37:46 GMT",
+    "source_name": "NRK Sørlandet",
+    "title": "Kveldens TV-sending: Lillesand kommune har politianmeldt eieren av gammel forlist båt"
+  },
   "legger sjøkabel til henningsvær - vaganavisa.no": {
     "categories": [
       "infrastruktur"
@@ -608,6 +658,16 @@
     "published": "Wed, 29 Jul 2026 05:36:11 GMT",
     "source_name": "NRK Nordland",
     "title": "Mo Industripark risikerer ukentlig tvangsmulkt etter sikkerhetsmangler"
+  },
+  "myklebust verft: – ettermarkedet har blitt en større del av porteføljen": {
+    "categories": [
+      "oppdrett"
+    ],
+    "first_seen": "2026-08-19T05:53:12.418587+00:00",
+    "link": "https://ilaks.no/myklebust-ettermarkedet-har-blitt-en-storre-del-av-portefoljen/?mtm_campaign=feed_click&mtm_kwd=myklebust-ettermarkedet-har-blitt-en-storre-del-av-portefoljen&mtm_source=RSS2&mtm_medium=feed",
+    "published": "Tue, 18 Aug 2026 10:20:07 +0000",
+    "source_name": "iLaks",
+    "title": "Myklebust Verft: – Ettermarkedet har blitt en større del av porteføljen"
   },
   "nordland akva fikk et tungt år etter massivt sykdomstap": {
     "categories": [
