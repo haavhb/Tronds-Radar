@@ -209,6 +209,16 @@
     "source_name": "Teknisk Ukeblad (TU.no)",
     "title": "[Ekstra] Trump mot vind: Kjøper europeisk energigigant ut av havvind for 11,4 milliarder"
   },
+  "[ekstra] tu-redaktøren har misforstått": {
+    "categories": [
+      "infrastruktur"
+    ],
+    "first_seen": "2026-08-22T05:50:30.128652+00:00",
+    "link": "https://www.tu.no/artikler/det-er-vys-rolle-a-selge-kollektivtrafikk/576094",
+    "published": "Fri, 21 Aug 2026 11:00:03 +0200",
+    "source_name": "Teknisk Ukeblad (TU.no)",
+    "title": "[Ekstra] TU-redaktøren har misforstått"
+  },
   "brann om bord på tankskip slukket - tv 2": {
     "categories": [
       "havari_berging"
@@ -328,6 +338,26 @@
     "published": "Thu, 30 Jul 2026 09:31:45 GMT",
     "source_name": "GNews site: Kyst.no",
     "title": "Cargill utvider fabrikk - kyst.no"
+  },
+  "danmark: sjøfly kantret - nordmann om bord - vg": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-08-22T05:50:30.128652+00:00",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUVRXSFdidnBYRnRsYkFwLU0yQWtOWER1UTE2U3VsakVrdmRjS1pEWHF2dWhHcFo2V010SHU0R2tjNHljUjBtY3RwWFNvekRCNUxwbExXdm9lUVRaaWVfNDJDQU9nZzhaYktKVXhZbFpQdnhxOTJ6WElIMDBzWHdGWkRiV0dRMlQ2TzZZY2d5eGZxcjdabXpFNQ?oc=5",
+    "published": "Fri, 21 Aug 2026 18:13:22 GMT",
+    "source_name": "GNews: kantring/vrak/berging",
+    "title": "Danmark: Sjøfly kantret - nordmann om bord - VG"
+  },
+  "dømt til fengsel etter grunnstøting på byneset - tronderbladet.no": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-08-22T05:50:30.128652+00:00",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYm5STkMxOFQxTW5aczN5WkJPaWtRMzZ0SFZYY29KYjJOc3RFRnl1Y0NxOWRxOGJqZTZvNTZPMGhKVUlJRWpvSkF4WGxuYjJ6cFhUdkkzTDhfM0NtTExGRFAxZVFreWJLVF8wSUFDU0RtZmgxaXdubkFKb3JGTUFfOUJ1SFEzRDREajFrTFcyNW50eTJUYVVhOFh5dw?oc=5",
+    "published": "Sat, 22 Aug 2026 02:45:00 GMT",
+    "source_name": "GNews: grunnstøting/forlis",
+    "title": "Dømt til fengsel etter grunnstøting på Byneset - tronderbladet.no"
   },
   "eksplosjon og brann om bord på tankskip - dagbladet": {
     "categories": [
@@ -648,6 +678,16 @@
     "published": "Sat, 15 Aug 2026 15:00:00 +0200",
     "source_name": "Teknisk Ukeblad (TU.no)",
     "title": "Jakter på den perfekte eika: : Treverket til Nidarosdomens nye dører må gjennom mange tester"
+  },
+  "kaptein bosatt på sunnmøre er dømt etter grunnstøting": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-08-22T05:50:30.128652+00:00",
+    "link": "https://www.nrk.no/trondelag/kapteinen-pa-_ncl-salten_-domt-til-30-dagers-betinget-fengsel-etter-grunnstotinga-pa-byneset-1.17997249",
+    "published": "Fri, 21 Aug 2026 11:29:52 GMT",
+    "source_name": "NRK Møre og Romsdal",
+    "title": "Kaptein bosatt på Sunnmøre er dømt etter grunnstøting"
   },
   "katamaran har kantret i iddefjorden – alle personene som var om bord, er i sikkerhet - aftenposten": {
     "categories": [
@@ -988,6 +1028,16 @@
     "published": "Tue, 28 Jul 2026 05:40:00 GMT",
     "source_name": "GNews: slep/nødhavn",
     "title": "Tankskip på grunn utenfor Hvaler – eksplosjon og brann om bord - Dagens Næringsliv"
+  },
+  "tidlig slakt og lave priser ga negativt resultat for sandnes fiskeoppdrett": {
+    "categories": [
+      "oppdrett"
+    ],
+    "first_seen": "2026-08-22T05:50:30.128652+00:00",
+    "link": "https://ilaks.no/tidlig-slakt-og-lave-priser-ga-negativt-resultat-for-sandnes-fiskeoppdrett/?mtm_campaign=feed_click&mtm_kwd=tidlig-slakt-og-lave-priser-ga-negativt-resultat-for-sandnes-fiskeoppdrett&mtm_source=RSS2&mtm_medium=feed",
+    "published": "Fri, 21 Aug 2026 09:01:49 +0000",
+    "source_name": "iLaks",
+    "title": "Tidlig slakt og lave priser ga negativt resultat for Sandnes Fiskeoppdrett"
   },
   "togtrøbbel på aker stasjon": {
     "categories": [
