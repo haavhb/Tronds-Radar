@@ -109,16 +109,6 @@
     "source_name": "GNews site: Bygg.no",
     "title": "(+) Starter riving – skal utvikle nytt byområde - Bygg.no"
   },
-  "(+) stengt bru og tunnel tvinger fram ny asfaltering på e8 - bygg.no": {
-    "categories": [
-      "infrastruktur"
-    ],
-    "first_seen": "2026-07-31T08:14:05.940943+00:00",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcGFnd3gxSGJMa1FtbkFNcGZWTEUyaEVTVzV0eklkRjYzZEdiX2sxT2VUVDdBc1VRWFZFMXVNVnViZ0JaR3FwbVptb3VtNVJWQW9MRkNmYmQ2X0tWVDlhSHlnOTR6cEdVZ3E3NEZGQXI5Y3B4d2VYSTFMeGdDX2p0ZnJISWpLdE15dm5mTUpUdGhMSUw4WXExNXI4OFE3TlNENEdNWFZNd3hyUkdRdVRLRnpsTWxKZw?oc=5",
-    "published": "Thu, 30 Jul 2026 17:18:12 GMT",
-    "source_name": "GNews site: Bygg.no",
-    "title": "(+) Stengt bru og tunnel tvinger fram ny asfaltering på E8 - bygg.no"
-  },
   "(+) stor økning i bruks­tillatelser i oslo – men igangsetting henger etter - bygg.no": {
     "categories": [
       "infrastruktur"
@@ -259,16 +249,6 @@
     "source_name": "NRK Møre og Romsdal",
     "title": "Brukar tusenvis av timar gratis for å redde gamle bygg"
   },
-  "bur rett ved cruisekaia – har fått nok": {
-    "categories": [
-      "infrastruktur"
-    ],
-    "first_seen": "2026-07-31T08:14:05.940943+00:00",
-    "link": "https://www.nrk.no/vestland/gjekk-fra-0-til-60-cruiseskip-_-aud-bente-bur-rett-ved-cruisekaia-i-maloy-og-har-fatt-nok-1.17970236",
-    "published": "Fri, 31 Jul 2026 03:34:39 GMT",
-    "source_name": "NRK Vestland",
-    "title": "Bur rett ved cruisekaia – har fått nok"
-  },
   "båt kantret på elv i thai nguyen, tre personer savnet. - vietnam.vn": {
     "categories": [
       "havari_berging"
@@ -288,36 +268,6 @@
     "published": "Wed, 26 Aug 2026 02:21:28 GMT",
     "source_name": "GNews: kantring/vrak/berging",
     "title": "Båten kantret; én person klarte å komme seg i land, mens de tre andre er savnet. - Vietnam.vn"
-  },
-  "båtvrak, nødhavn | kommunen politianmelder båtlederen: mener det er stor fare for forlis - gjengangeren": {
-    "categories": [
-      "havari_berging"
-    ],
-    "first_seen": "2026-07-31T08:14:05.940943+00:00",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTmdIOXEyc2J0S3htSWdSV3lyZWNQY1A1cFppWHplX1g3Q0VDMlk4b0FURFZQdzYzQTlEU2x2U1dtcUQ2UkpfUUtLUEZEeDlSd2dPWERLaVlPdk9hU1RKUXVmblQ2WGR2RzRrcWs4NDR6VXB0N1JOVTFDX0FxbjRfRkVvczZBUGd6M2pYTmYtVE9KaXBjeHh2cVVsN2lFbEo1TGhJN3B3NVdJN3FxNGN4NA?oc=5",
-    "published": "Thu, 30 Jul 2026 12:54:39 GMT",
-    "source_name": "GNews: grunnstøting/forlis",
-    "title": "Båtvrak, Nødhavn | Kommunen politianmelder båtlederen: Mener det er stor fare for forlis - Gjengangeren"
-  },
-  "cargill investerer 90 millioner kroner på fabrikken på halsa": {
-    "categories": [
-      "industri"
-    ],
-    "first_seen": "2026-07-31T08:14:05.940943+00:00",
-    "link": "https://ilaks.no/cargill-investerer-90-millioner-kroner-pa-fabrikken-pa-halsa/?mtm_campaign=feed_click&mtm_kwd=cargill-investerer-90-millioner-kroner-pa-fabrikken-pa-halsa&mtm_source=RSS2&mtm_medium=feed",
-    "published": "Thu, 30 Jul 2026 09:28:24 +0000",
-    "source_name": "iLaks",
-    "title": "Cargill investerer 90 millioner kroner på fabrikken på Halsa"
-  },
-  "cargill utvider fabrikk - kyst.no": {
-    "categories": [
-      "industri"
-    ],
-    "first_seen": "2026-07-31T08:14:05.940943+00:00",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE91SFNaZUp1QS1nSUdLVXd1M1Jfdk9jOTNKSVpudFd5NkFRQWpKWnk4eFpUOTI2YUI1TF9MNy1rTHBXcEFDaXZHSUFTdHlZZGpQRjBpb1FCWk1adkNiVkFpZ01xRDk3ZURhNFpqUExvTQ?oc=5",
-    "published": "Thu, 30 Jul 2026 09:31:45 GMT",
-    "source_name": "GNews site: Kyst.no",
-    "title": "Cargill utvider fabrikk - kyst.no"
   },
   "danmark: sjøfly kantret - nordmann om bord - vg": {
     "categories": [
@@ -358,26 +308,6 @@
     "published": "Sat, 22 Aug 2026 02:45:00 GMT",
     "source_name": "GNews: grunnstøting/forlis",
     "title": "Dømt til fengsel etter grunnstøting på Byneset - tronderbladet.no"
-  },
-  "eu med megasatsing på ki-fabrikker – går inn med 110 milliarder kroner - bygg.no": {
-    "categories": [
-      "industri"
-    ],
-    "first_seen": "2026-07-31T08:14:05.940943+00:00",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNDZkb3lSVGFQVTY2RU5valBhbk5ETUNQRUZDRU5uTHpKVnJUSTY5aUs4dWw5d2s5Skk2VFZvcVBJNk15YWhqRk5yNVNfZUlMMjJRZTdtcXB0SC02ZXVHV0JJWldsQldkZm1ubUJzSW9QZDNWS3NmSGdnWWlZeFRfRmw0dktkMWVlQlBpQ3NMdGRkeGc5S21EWVpWbDNsVkN1OWdZMjhhcEIxc0VMRlNpWEs3QjM1c1ZFYW54N1BNX1ZfRmMyNExLNzl3?oc=5",
-    "published": "Thu, 30 Jul 2026 12:37:10 GMT",
-    "source_name": "GNews site: Bygg.no",
-    "title": "EU med megasatsing på KI-fabrikker – går inn med 110 milliarder kroner - bygg.no"
-  },
-  "fant tassen etter to måneder – midt i fjorden": {
-    "categories": [
-      "havari_berging"
-    ],
-    "first_seen": "2026-07-31T08:14:05.940943+00:00",
-    "link": "https://www.nrk.no/tromsogfinnmark/fant-hunden-som-hadde-blitt-savnet-i-over-to-maneder-_-midt-i-fjorden-1.17973793",
-    "published": "Thu, 30 Jul 2026 20:48:28 GMT",
-    "source_name": "NRK Troms og Finnmark",
-    "title": "Fant Tassen etter to måneder – midt i fjorden"
   },
   "ferge med 95 om bord har kantret i zimbabwe - abc nyheter": {
     "categories": [
@@ -569,16 +499,6 @@
     "source_name": "GNews: sjøkabel/sjøledning",
     "title": "Her kjem det ny sjøkabel - vikebladet.no"
   },
-  "horten kommune anmelder båtfølget": {
-    "categories": [
-      "havari_berging"
-    ],
-    "first_seen": "2026-07-31T08:14:05.940943+00:00",
-    "link": "https://www.nrk.no/vestfoldogtelemark/horten-kommune-anmelder-batfolget-1.17973454",
-    "published": "Thu, 30 Jul 2026 09:02:01 GMT",
-    "source_name": "NRK Vestfold og Telemark",
-    "title": "Horten kommune anmelder båtfølget"
-  },
   "hurtigbåt krasjet i kaia – ute av drift i flere dager": {
     "categories": [
       "infrastruktur"
@@ -678,16 +598,6 @@
     "published": "Fri, 21 Aug 2026 11:29:52 GMT",
     "source_name": "NRK Møre og Romsdal",
     "title": "Kaptein bosatt på Sunnmøre er dømt etter grunnstøting"
-  },
-  "kritiserer dnt etter fleire redningsaksjonar": {
-    "categories": [
-      "havari_berging"
-    ],
-    "first_seen": "2026-07-31T08:14:05.940943+00:00",
-    "link": "https://www.nrk.no/vestland/rode-kors-kritiserer-dnt_-_-ma-stille-strengare-krav-til-gjestene-1.17973048",
-    "published": "Thu, 30 Jul 2026 17:36:27 GMT",
-    "source_name": "NRK Vestland",
-    "title": "Kritiserer DNT etter fleire redningsaksjonar"
   },
   "kveldens tv-sending: lillesand kommune har politianmeldt eieren av gammel forlist båt": {
     "categories": [
@@ -808,16 +718,6 @@
     "published": "Wed, 12 Aug 2026 23:35:50 GMT",
     "source_name": "GNews: kantring/vrak/berging",
     "title": "Over 30 personer er savnet etter at en båt kantret i Zimbabwe. - Vietnam.vn"
-  },
-  "reder kai (58) fra valdres: – vil ha forutsigbarhet i fiskeripolitikken (+) - fiskeribladet": {
-    "categories": [
-      "infrastruktur"
-    ],
-    "first_seen": "2026-07-31T08:14:05.940943+00:00",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOX1JFZUV5WW81ZDVPMGZrLVhyNTAzTVNuZE9zOXBBTER0STBQZVFJbVpOU2ozeVA4S3pXYVR6UVdFOE1OTklQamhCU3ZJSnNXWk5iQkg0MlBUNDBiaWRmY1dLMjR2UXpyN0U0UHgzcTRyYjUtaDc5RUdwZTdDZFBzTnpCMzV4YjlMa2lYb0w5SkF3SDVWaHlydy04YlBrUzhRNERoY0gwVlN3dDZLa3V2eXlqaUFnZw?oc=5",
-    "published": "Fri, 31 Jul 2026 03:21:32 GMT",
-    "source_name": "GNews site: Fiskeribladet",
-    "title": "Reder Kai (58) fra Valdres: – Vil ha forutsigbarhet i fiskeripolitikken (+) - Fiskeribladet"
   },
   "redningsaksjon etter at fiskere falt i namsen": {
     "categories": [
@@ -1018,6 +918,16 @@
     "published": "Sat, 15 Aug 2026 06:18:40 GMT",
     "source_name": "NRK Østlandssendingen",
     "title": "Tyveri i Botanisk hage: – Jeg blir forbanna"
+  },
+  "ubåt, kyst | tysk ekspert snur: meiner ubåt-vraket er norsk eigedom - avisa nordhordland": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-08-30T10:33:29.658470+00:00",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOUlzQTc1VUxUb2tfakJoMEd5emdrcDFQbmdNWHpURkRuX3puUGpabzhqa1lMYmxsWi1DQWJ5UXQ1TXpIMHY4Tmcxalp2ZUd0U051NDhCZFE2QWdrOFF1T1JzdmNJdThFRkFPYzR4U2IySUdTQzB3RERqcko3WXc2bHgzOXJYUTdHSXdHOFExbmdhRDZSSHFuOWJOYw?oc=5",
+    "published": "Sun, 30 Aug 2026 03:27:00 GMT",
+    "source_name": "GNews: kantring/vrak/berging",
+    "title": "Ubåt, Kyst | Tysk ekspert snur: Meiner ubåt-vraket er norsk eigedom - Avisa Nordhordland"
   },
   "ulykker og hendingar, austrheim | seglbåt har grunnstøytt: far og dotter (8) ringde etter hjelp - avisa nordhordland": {
     "categories": [
