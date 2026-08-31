@@ -119,16 +119,6 @@
     "source_name": "GNews site: Bygg.no",
     "title": "(+) Stor økning i bruks­tillatelser i Oslo – men igangsetting henger etter - Bygg.no"
   },
-  "- sysla.no": {
-    "categories": [
-      "infrastruktur"
-    ],
-    "first_seen": "2026-08-01T07:40:24.314804+00:00",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSzZKai1Wb3ZrVHlzeXRIRUpjY1dCaUZqNjEtRGRtczIxZjAtZlp6VWhxVkxkVl8wRGgycy03OUVRNUFfcDRMWW9GT3NQV0dNRmNYZnNFeHJGcFBVekUzVGJUcFl0cjhWUjdzcTViTDZYZzhESllnaWVodlBUTHlpOUFCZkFiSl95cXVkZmZxcFc0ei1XLVo5UnUzVQ?oc=5",
-    "published": "Sat, 01 Aug 2026 06:40:19 GMT",
-    "source_name": "GNews site: Sysla",
-    "title": "- sysla.no"
-  },
   "22 sjøfolk savnet etter forlis i india - abc nyheter": {
     "categories": [
       "havari_berging"
@@ -169,16 +159,6 @@
     "source_name": "NRK Nordland",
     "title": "97 personar var om bord då hurtigbåten small i kaia – politiet blei aldri varsla"
   },
-  "[ekstra] arendal: : frykter statnett-forsinkelser kan true gigafabrikk": {
-    "categories": [
-      "industri"
-    ],
-    "first_seen": "2026-08-01T07:40:24.314804+00:00",
-    "link": "https://www.tu.no/artikler/frykter-statnett-forsinkelser-kan-true-gigafabrikk/575233",
-    "published": "Fri, 31 Jul 2026 16:00:00 +0200",
-    "source_name": "Teknisk Ukeblad (TU.no)",
-    "title": "[Ekstra] Arendal: : Frykter Statnett-forsinkelser kan true gigafabrikk"
-  },
   "[ekstra] bane nor deler ut ørepropper": {
     "categories": [
       "infrastruktur"
@@ -198,6 +178,16 @@
     "published": "Tue, 18 Aug 2026 09:36:18 +0200",
     "source_name": "Teknisk Ukeblad (TU.no)",
     "title": "[Ekstra] Havarikommisjonen: Rutine kan ha bidratt til dødsulykke på Gjøvikbanen"
+  },
+  "[ekstra] ser ny havvind-trend: – aldri sett et skifte med denne farten": {
+    "categories": [
+      "industri"
+    ],
+    "first_seen": "2026-08-31T11:42:16.591412+00:00",
+    "link": "https://www.tu.no/artikler/orsted-sjefen-det-er-dette-vi-har-lengtet-etter/576235",
+    "published": "Mon, 31 Aug 2026 10:51:42 +0200",
+    "source_name": "Teknisk Ukeblad (TU.no)",
+    "title": "[Ekstra] Ser ny havvind-trend: – Aldri sett et skifte med denne farten"
   },
   "[ekstra] trump mot vind: kjøper europeisk energigigant ut av havvind for 11,4 milliarder": {
     "categories": [
@@ -239,6 +229,16 @@
     "source_name": "iLaks",
     "title": "Blue Lice styrker laget"
   },
+  "brann i industribygg i odda: bad folk lukke vindauge": {
+    "categories": [
+      "industri"
+    ],
+    "first_seen": "2026-08-31T11:42:16.591412+00:00",
+    "link": "https://www.nrk.no/vestland/brann-i-industribygg-i-ullensvang-1.18008554",
+    "published": "Mon, 31 Aug 2026 07:04:04 GMT",
+    "source_name": "NRK Vestland",
+    "title": "Brann i industribygg i Odda: Bad folk lukke vindauge"
+  },
   "brukar tusenvis av timar gratis for å redde gamle bygg": {
     "categories": [
       "infrastruktur"
@@ -279,6 +279,16 @@
     "source_name": "GNews: kantring/vrak/berging",
     "title": "Danmark: Sjøfly kantret - nordmann om bord - VG"
   },
+  "det bemerkelsesverdige er at «ny kai» ikke lenger nevnes - agderposten.no": {
+    "categories": [
+      "infrastruktur"
+    ],
+    "first_seen": "2026-08-31T11:42:16.591412+00:00",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYlhfWC00UHRZQTZmb3ZxTUppdGNJMmVtTVJHSF9tX29EdFlQa0NrTU14V1JDeGxKaS0tYlljWFRkS1Y0V3VQZXFkelNSQnhzRmkzallCWTRMcmo4dEVSZmNYMlAybTFLVWczS05ZMHJjVWlxQ0x2c1NTRUQ2Uk05V3lubFNrOVhOdFpzb3hBZVNqaUFDVVViczVSNktTZXRS?oc=5",
+    "published": "Mon, 31 Aug 2026 11:29:04 GMT",
+    "source_name": "GNews: ny kai/molo/bru",
+    "title": "Det bemerkelsesverdige er at «ny kai» ikke lenger nevnes - agderposten.no"
+  },
   "døde av enorm dose kokain: hva skjedde med amanda?": {
     "categories": [
       "infrastruktur"
@@ -308,6 +318,46 @@
     "published": "Sat, 22 Aug 2026 02:45:00 GMT",
     "source_name": "GNews: grunnstøting/forlis",
     "title": "Dømt til fengsel etter grunnstøting på Byneset - tronderbladet.no"
+  },
+  "en ferge med nesten 270 mennesker om bord kantret utenfor kysten av kypros, og minst sju omkom. - vietnam.vn": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-08-31T11:42:16.591412+00:00",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcFU0M2t6eVBlV2NjejBxOFc3WTF0YTBNZWFEU3VaY1RFajUta3JuT1BLSGh2OGljQkJfWG5oYW0ybmZPTC1HVW1VUWpkcl9oOWthSG5KMl9iQ01pY1hSOHRsQlc5czZJcGZweEVCRTVsR2RBRXFJQmk1NUdnSEZ2TXN3OUlOM2RHMlBQbnZtY0d0Vm1zaVZJTjBrMHo?oc=5",
+    "published": "Sun, 30 Aug 2026 15:49:36 GMT",
+    "source_name": "GNews: kantring/vrak/berging",
+    "title": "En ferge med nesten 270 mennesker om bord kantret utenfor kysten av Kypros, og minst sju omkom. - Vietnam.vn"
+  },
+  "ferge med 267 mennesker om bord kantret utenfor nord-kypros, minst syv omkomne. - vietnam.vn": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-08-31T11:42:16.591412+00:00",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMVFoSFd4d2hCTUd5UEdEVnJMbjlBb1dmZFdXV1g3NzRxbkhtYkptb05MR1ZucWJ2NlNCejR3SkJlcHFzeXJPVklQV29qbi1ZZDhXQ3NORE9NcmR1SWxKWWhpVFJVX2NoeDlOaWVkdTA5eW00SkI4YldaU1hOUWU0QnE5RTR4elozRkg0NGl3UkR5WGZI?oc=5",
+    "published": "Sun, 30 Aug 2026 15:55:15 GMT",
+    "source_name": "GNews: kantring/vrak/berging",
+    "title": "Ferge med 267 mennesker om bord kantret utenfor Nord-Kypros, minst syv omkomne. - Vietnam.vn"
+  },
+  "ferge med 267 personer om bord kantret nord i kypros, syv omkom. - vietnam.vn": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-08-31T11:42:16.591412+00:00",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9DUDNlLVlTSl95NlhHa1pxaTEyRmE0WVhWbTBPY0l3Y2FuZWNaNnNsMXVya2ZyNUFBbU83UXFoc0JIc0NiQTFnd1I5QVpxNWxFY1hhalhnbWJKaWRmeWltdGpGN2E2MVIxTTNlSjB4aUNlbF9IZkhtWTRoVkdkQQ?oc=5",
+    "published": "Sun, 30 Aug 2026 17:13:19 GMT",
+    "source_name": "GNews: kantring/vrak/berging",
+    "title": "Ferge med 267 personer om bord kantret nord i Kypros, syv omkom. - Vietnam.vn"
+  },
+  "ferge med 270 mennesker om bord kantret utenfor kysten av kypros, og minst seks omkom. - vietnam.vn": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-08-31T11:42:16.591412+00:00",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ1hCUXA5SC1jbkhPVUZXMkRCRWVtOVlnMEV2aTRFZlp0QlNacDlxdkxubW5BQ1pOZE9ON0VjOHRPbU5rVGRZV2tKY3UwWEZoQnM4VmJxYzJwcXZaLWdXUUpUcElyMnM2bVBJMU9McVQ0b3I2ZG9VWll4YXV4WnF3UzFTUEJDZ1hsMWtEaHJHS09ic28tUklV?oc=5",
+    "published": "Sun, 30 Aug 2026 14:22:02 GMT",
+    "source_name": "GNews: kantring/vrak/berging",
+    "title": "Ferge med 270 mennesker om bord kantret utenfor kysten av Kypros, og minst seks omkom. - Vietnam.vn"
   },
   "ferge med 95 om bord har kantret i zimbabwe - abc nyheter": {
     "categories": [
@@ -398,16 +448,6 @@
     "published": "Mon, 10 Aug 2026 04:00:00 GMT",
     "source_name": "GNews: ny kai/molo/bru",
     "title": "Fryktar at ny molo vil senda bølgjer mot gamle naust - vestnytt.no"
-  },
-  "frykter forlis og miljøskader: nå aksjonerer politiet": {
-    "categories": [
-      "havari_berging"
-    ],
-    "first_seen": "2026-08-01T07:40:24.314804+00:00",
-    "link": "https://www.nrk.no/vestfoldogtelemark/omstridt-batkortesje-_-na-konfiskeres-batene-i-horten-1.17974793",
-    "published": "Fri, 31 Jul 2026 08:20:01 GMT",
-    "source_name": "NRK Vestfold og Telemark",
-    "title": "Frykter forlis og miljøskader: Nå aksjonerer politiet"
   },
   "frøy bestiller to nye brønnbåter – pluss opsjoner på ytterligere fire. de skal bygges i kina": {
     "categories": [
@@ -609,6 +649,46 @@
     "source_name": "NRK Sørlandet",
     "title": "Kveldens TV-sending: Lillesand kommune har politianmeldt eieren av gammel forlist båt"
   },
+  "kypros: ferje med over 200 kantret – flere omkommet - tv 2": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-08-31T11:42:16.591412+00:00",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVkU3RUgzUzZJbFVTN3U1U1RNSE9OUU5pcU8tTTI1Y1FURGF4Zk1KaEFZcVpDNHk1dzdkVF96QWpHODFFdlhkbklTSlRhMUVxbWZxYTFjRHZGVE91Wm1hanFLbE4tcnhZSHVEWWx0OFI3MDZUMzVJOEFsMHNZMTYtcnVQbl85N0dHLWhDbHVn?oc=5",
+    "published": "Sun, 30 Aug 2026 11:59:09 GMT",
+    "source_name": "GNews: kantring/vrak/berging",
+    "title": "Kypros: Ferje med over 200 kantret – flere omkommet - TV 2"
+  },
+  "kypros: ferje med over 200 kantret – minst seks omkommet - tv 2": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-08-31T11:42:16.591412+00:00",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSVItY3Z3THM0SFdoeFY2aUVCeC14WjRuUnE3ZU8tdHVpalRtenlORlcweHc3WjJxLTRVeHJzTUxxM1JJQ1Y0eVktZUo1SVhfVG9VVU4tNGdyWlN1b1M5Qk1BdVNWUENnb29YNnpxNDl0UndEZEpnNW83MUMwYl85SGdVMEI4dkZBMmFMeW9xci04WGNo?oc=5",
+    "published": "Sun, 30 Aug 2026 11:59:09 GMT",
+    "source_name": "GNews: kantring/vrak/berging",
+    "title": "Kypros: Ferje med over 200 kantret – minst seks omkommet - TV 2"
+  },
+  "kypros: ferje med over 200 kantret – minst åtte omkommet - tv 2": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-08-31T11:42:16.591412+00:00",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOEJaampPOGVpUjljZFhPQVc3M1NBM21uNENtQndnRkVwaW50R0NiVFZCWENvX2ktRW54T1NubkRLRUtLLTJpSVljSWRVUHFPckpJRHJqbExBX184Z2h5UlpzR1RsSE5mamVrVzlJVE1pWGl6eUM5VFlRU0xFV2wyUFRTaGJtaE4xYVBTQ2V1R1pxcWNu?oc=5",
+    "published": "Sun, 30 Aug 2026 11:59:09 GMT",
+    "source_name": "GNews: kantring/vrak/berging",
+    "title": "Kypros: Ferje med over 200 kantret – minst åtte omkommet - TV 2"
+  },
+  "kypros: kaos etter dramatisk kantring - vgtv": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-08-31T11:42:16.591412+00:00",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Jc3lJcnR5a3lxME13dUltekR2R3JDSDR4T1ZPVFkzYVBsV0JFQVNCNExrRzRoNERPRC1Nc0p5YXVJQS1VdjVSd0xvR3Izbm8xRVVOXzEzWGpUNVRpSjZPQ18tWHZsUWg1Qkw5SEFtdVQ2UQ?oc=5",
+    "published": "Sun, 30 Aug 2026 11:54:06 GMT",
+    "source_name": "GNews: kantring/vrak/berging",
+    "title": "Kypros: Kaos etter dramatisk kantring - VGTV"
+  },
   "lang son: syv personer reddet i tide etter at båt kantret under transport av en pasient til sykehuset. - vietnam.vn": {
     "categories": [
       "havari_berging"
@@ -628,6 +708,26 @@
     "published": "Tue, 25 Aug 2026 07:08:12 GMT",
     "source_name": "GNews site: Kyst.no",
     "title": "Lokalitetsklarering for havbruk – veien mot større forutsigbarhet - Kyst.no"
+  },
+  "minst åtte døde etter at passasjerbåt kantret utenfor kypros - nettavisen": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-08-31T11:42:16.591412+00:00",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYVBkRjZPMzBLaGhiNlVQcFpyMGpMVktrVTE5RG9CNmduVnpEREZXWGVCZUxSZWpFd1NaQ1JIeHluMVh5Rms4YU5YOHp6ZWJOOHNndDllU05xeW1DbW9qejRsdHBJTmNzN0RibVIzcFVTNUNqSmt1RzFWZ05uYVZzcFZ0ZC1uZWF5TW1vZXNMVkJtc0hrd3hwZXFLaGFhTTFKQ0hRc0hlWjFsWmpRMHNFSA?oc=5",
+    "published": "Sun, 30 Aug 2026 18:56:14 GMT",
+    "source_name": "GNews: grunnstøting/forlis",
+    "title": "Minst åtte døde etter at passasjerbåt kantret utenfor Kypros - Nettavisen"
+  },
+  "minst åtte døde etter passasjerbåt kantret utenfor kypros – kaptein pågrepet - vg": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-08-31T11:42:16.591412+00:00",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWUNEeWxIQUI2dEFPMVdCemdVNXRwWk1KMWEzTkRwYXNFV3QxeVE1eTUwb2paTERJbUE0SHNjblRia2Z6XzQzRnh3WjhxZTU4b1RqN2NfdTBlZmVoUzZObDdEMUJiMnUzb204OUpIYXM5enFwdzlxZ0N5VGpoM1ZKQVo2WUxkZHFYcjJVQXJsNVkzLVV6QmFsYl9GWGlnUlRX?oc=5",
+    "published": "Sun, 30 Aug 2026 19:51:05 GMT",
+    "source_name": "GNews: kantring/vrak/berging",
+    "title": "Minst åtte døde etter passasjerbåt kantret utenfor Kypros – kaptein pågrepet - VG"
   },
   "myklebust verft: – ettermarkedet har blitt en større del av porteføljen": {
     "categories": [
@@ -719,6 +819,116 @@
     "source_name": "GNews: kantring/vrak/berging",
     "title": "Over 30 personer er savnet etter at en båt kantret i Zimbabwe. - Vietnam.vn"
   },
+  "panikk på kantret ferje: – hun er død! - nettavisen": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-08-31T11:42:16.591412+00:00",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVFZrVjg5dkdOcGoya2hmNlM4ZnE4cEhOMTc2Zjd2QXAxV3J0d2cyUVhqZlViY25pelA5S0NaaUotNGRIQ1RIU2hvZVFFRUtoeG5BaHVzM2pXRHJSNC1rbVFiT0RRa19PZkdLX0lyTDd4SkVLcUlLcEdyVXRTbU9SNV9YU0pKczgwMjlKcENsbHU4VHh4UVBtOGRJWDBLb3RFRjY2bDlncUNpUUE?oc=5",
+    "published": "Sun, 30 Aug 2026 15:43:12 GMT",
+    "source_name": "GNews: kantring/vrak/berging",
+    "title": "Panikk på kantret ferje: – Hun er død! - Nettavisen"
+  },
+  "passasjerbåt kantret utenfor kypros - flere døde - dagbladet": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-08-31T11:42:16.591412+00:00",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeXI0ODNoQ3o2V0ExbUEzdk9DcUFadE96Szd6YkJlSW9HQmxkSmg4YkZLR2JRanlXUWMySW9lV1laSE9iTW5yaWt6OWM4ZVlGREdNZVRrRzg5ZmpDVUNLOTFTeUo5YTl4eHFvZ1VhVTZzT2ItY0lKWVhyVEtFMWxHSXREZV84OThUT0p5QjRPVmdKNU9YTWNTS2NfbElWUVNGdHhTdmdTblRTV0tuOEU5eXFIdC1UeDQ?oc=5",
+    "published": "Sun, 30 Aug 2026 13:02:24 GMT",
+    "source_name": "GNews: kantring/vrak/berging",
+    "title": "Passasjerbåt kantret utenfor Kypros - flere døde - Dagbladet"
+  },
+  "passasjerbåt kantret – flere døde - dagbladet": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-08-31T11:42:16.591412+00:00",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4zdk9OQkxodHdIT2ZSaVRlTUF6MlBJTWx6LWluWVRuTFBINXoyQkc4WjFQVi1xMTE5RGJpbU9jelBLVmpjX0FWY01qaEMyem5QY2k1ODdad1ZvZElrbktJbklNMml0SnFYa2JpbXI5SUZqX3pZeWpyZURRSQ?oc=5",
+    "published": "Sun, 30 Aug 2026 13:46:51 GMT",
+    "source_name": "GNews: kantring/vrak/berging",
+    "title": "Passasjerbåt kantret – flere døde - Dagbladet"
+  },
+  "passasjerbåt kantret – flere døde - sol": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-08-31T11:42:16.591412+00:00",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBTM3RqcExsU3BmQVM1QU1pcFpJU0ZaNW4yZmh0UkloZWtVZlp4bEp5UWRNV09DSVdyQXowWjJ3aFdKdFVHR1pYcHZjMDhURWg2eVNsRUVPYWdZTFRESmtvLXpFdk5Mc2xzYnJuNjZn?oc=5",
+    "published": "Sun, 30 Aug 2026 14:43:45 GMT",
+    "source_name": "GNews: kantring/vrak/berging",
+    "title": "Passasjerbåt kantret – flere døde - Sol"
+  },
+  "passasjerbåt kantret – minst seks døde - dagbladet": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-08-31T11:42:16.591412+00:00",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbk9xYjdMLU04RW9YTENSOU5jYzhTY05ZS2tUZE9lbU1NYV9GUEM1UWYwelE1aUNYRWhqQld0ZW5GWW9Tald5VmRIZW9WZGJueGRDSTFlMHZ3dXNMZGVHTk5jYmVKbm1kSUhYbHY3UjUyWVUxRDhFZk92RFk0UE1ObDJB?oc=5",
+    "published": "Sun, 30 Aug 2026 13:46:51 GMT",
+    "source_name": "GNews: kantring/vrak/berging",
+    "title": "Passasjerbåt kantret – minst seks døde - Dagbladet"
+  },
+  "passasjerbåt med 266 personer om bord er kantret utenfor kypros – minst åtte personer døde - aftenposten": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-08-31T11:42:16.591412+00:00",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeHFaZEhVVDJpQzIzRzFwX1FueU51dFdzZ0VhRzJ2U2dtbGFzRnZOOVFpQzVLZlY0VFhsemJqOC1kem5oTDBIbUp3b3hMSEZyUWxVZkVLRUpSWXltU09nZ1pYVlNYeVNiZTJNRGltR05YbnBrUTQtNzc1UmN3OVpwS1hvVWtqZTJGMGZlTDFNVTllVzVqYlM3UVVCYWlkX1Zrb3RaclZ2QjA0dld4clEzTGFNMy1GeHZjOVZsYWFnZVhxWEJsem1nLWFUYTdRUXM?oc=5",
+    "published": "Sun, 30 Aug 2026 11:08:17 GMT",
+    "source_name": "GNews: kantring/vrak/berging",
+    "title": "Passasjerbåt med 266 personer om bord er kantret utenfor Kypros – minst åtte personer døde - Aftenposten"
+  },
+  "passasjerbåt med 266 personer om bord har kantret utenfor kypros – minst seks personer døde - aftenposten": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-08-31T11:42:16.591412+00:00",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRlZTVkVJbFVRUFY2clJtMVJyR2NtLVlBRS13Zk1fd3J1bWsySTZOMGJzNDRkcTRkenlkdnlYemZWRTlhMXh3OEFxbXdNWTYxSXFoajlNVmY2dW9qamIyWThBVlhaQlVOYWFRWHRHVjZGbW1uTHpRS0V4ZjBEZ0ZsRHI2ZHdSa294UWRvVExzQ1Vja0FuWDJwYnptSWppczBBU0xoN1BXSi1KckNFcTRBcHQ5WkRZQ0sxenBYRk9PMjIxTmFsMWdoazFLcnBwdkk?oc=5",
+    "published": "Sun, 30 Aug 2026 11:08:17 GMT",
+    "source_name": "GNews: kantring/vrak/berging",
+    "title": "Passasjerbåt med 266 personer om bord har kantret utenfor Kypros – minst seks personer døde - Aftenposten"
+  },
+  "passasjerbåt med 270 personer om bord har kantret utenfor kypros - aftenposten": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-08-31T11:42:16.591412+00:00",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUGNaOXJJSngwZ042NHgzcERKbGR1aWZBdzBaRW9LaDBuU29PQy1jUGpDZzhlNHZXYlNGVDBCZzZhZThWQ3M4VFZGQm9EVUJnb2c2TU1VSUVIRW13SkFkRUNxWmVvTktxTDkyQ0w0UzhxNy1kOG1LekhCZFN2M0JYRFNXUkZ2bXg4UFo2TEdyelo5ZkNxYTRXOHk2Q3hBanp2Q1dYSWZ5UXZ0dWxJ?oc=5",
+    "published": "Sun, 30 Aug 2026 11:08:17 GMT",
+    "source_name": "GNews: kantring/vrak/berging",
+    "title": "Passasjerbåt med 270 personer om bord har kantret utenfor Kypros - Aftenposten"
+  },
+  "passasjerbåt med rundt 267 personer om bord har kantret utenfor kypros - aftenposten": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-08-31T11:42:16.591412+00:00",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObWpUNDVXOXFsWXBrZW5DeWFwaW9iVXA4Y1JFZVU4QW5hMEFQVjV6S2dtelExZmpFYkJ0UGlLTUx0OHNHM0JDUE5YMG10b0RkVEF4YTNuRzRxaGV2a1RITE9vb05IcDZoZmdRR0tZOVNUdGFURWtkYktBOXVISnhkZDd1RDJTZ3hnR1l1bHFmbm9UNFlDb1FaY05oLXFuYUo5ek04ZlhJTEtMdnZvdGcyRU1Ld0c?oc=5",
+    "published": "Sun, 30 Aug 2026 11:08:17 GMT",
+    "source_name": "GNews: kantring/vrak/berging",
+    "title": "Passasjerbåt med rundt 267 personer om bord har kantret utenfor Kypros - Aftenposten"
+  },
+  "passasjerbåt med rundt 270 personer om bord har kantret utenfor kypros - aftenposten": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-08-31T11:42:16.591412+00:00",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZHRxQnBHV0lsSU14U3g2eUlUelU5aG1pbE9ucHdFSDlLZ3E5aUp4b2libnVJejZPa1I2eGFWUV96d0F1Nmp4VEttWExnSzhYT3VWc29BV2JxMWdrREpIT2ZvVHZMaEtYLTZTNld4ZVh5OUFyNkZjR3NQRUFmOXZnNVFsT25HQ3l3V2xXWjNLdENHcmYtU2t0WlhCMkwzN0hNRGNGdXpxTUl2RmJKQV9GNHJfTUk?oc=5",
+    "published": "Sun, 30 Aug 2026 11:08:17 GMT",
+    "source_name": "GNews: kantring/vrak/berging",
+    "title": "Passasjerbåt med rundt 270 personer om bord har kantret utenfor Kypros - Aftenposten"
+  },
+  "passasjerbåt med rundt 270 personer om bord har kantret utenfor kypros - seks personer døde - aftenposten": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-08-31T11:42:16.591412+00:00",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYlRNcWVKQ2V6YVRod1h0MV90aFcxRlk5OTdRekQ1ajl0SUE4Uk1tRU5PQTUyd2VHN1V5MW1TZ0x4WlFxMWdpaWdBblFYYldZWmpZdU90M0h0Y3dtTjR5OUNHWG9MTUJoTS1URUlfLVRyZGhQbU1kYmRHNFQ1bE82ZHFuNmhfZERTTGhQeDNYRWdaNzBsRHBGZjRUcklPMVNjZWZZU05EZGlhZklJMTN1TTdjVzNhbG5mNnhKWDlMa2RUVmJxNVczUWl5QkNPZUk?oc=5",
+    "published": "Sun, 30 Aug 2026 11:08:17 GMT",
+    "source_name": "GNews: kantring/vrak/berging",
+    "title": "Passasjerbåt med rundt 270 personer om bord har kantret utenfor Kypros - seks personer døde - Aftenposten"
+  },
   "redningsaksjon etter at fiskere falt i namsen": {
     "categories": [
       "havari_berging"
@@ -759,6 +969,16 @@
     "source_name": "GNews site: Kyst.no",
     "title": "Seilbåt krasjet inn i Mowi-merd - Kyst.no"
   },
+  "seks døde etter at passasjerbåt med 267 personer om bord kantret utenfor kypros - abc nyheter": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-08-31T11:42:16.591412+00:00",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa3NhM0QwT0RkdzhQSkVZcEVDNXV1RVA2WmQ4YW5IN3NzTUZxNTVTckRBaVpJTG5ucGpITnVpRGpxdUdfcHlDZWFlZklpNUw1bEtMWXd1d09MX1ZDNFFjUmpzUkFESkFZQWVlQnp5NlB0RC1RdXpQRmZKQmZ1bWpoQjZhU1VaNjBxd2JRaTZmbGpPNDkzdTZZakJoQkZ0d2hhY3FLcGVjdmNYNHFvaDZ3bkR2TDRNX01hRkMxclNn?oc=5",
+    "published": "Sun, 30 Aug 2026 11:07:30 GMT",
+    "source_name": "GNews: kantring/vrak/berging",
+    "title": "Seks døde etter at passasjerbåt med 267 personer om bord kantret utenfor Kypros - ABC Nyheter"
+  },
   "sinna mann på coop førte politiet til kokainparti": {
     "categories": [
       "infrastruktur"
@@ -778,6 +998,16 @@
     "published": "Wed, 05 Aug 2026 16:28:19 +0000",
     "source_name": "iLaks",
     "title": "Sjurelv Fiskeoppdrett vil kjøpe settefiskanlegg av SalMar"
+  },
+  "slakteriet vil ha nytt slakteri – investerte 57 millioner kroner i dagens fabrikker": {
+    "categories": [
+      "oppdrett"
+    ],
+    "first_seen": "2026-08-31T11:42:16.591412+00:00",
+    "link": "https://ilaks.no/slakteriet-vil-ha-nytt-slakteri-investerte-57-millioner-kroner-i-dagens-fabrikker/?mtm_campaign=feed_click&mtm_kwd=slakteriet-vil-ha-nytt-slakteri-investerte-57-millioner-kroner-i-dagens-fabrikker&mtm_source=RSS2&mtm_medium=feed",
+    "published": "Mon, 31 Aug 2026 09:04:45 +0000",
+    "source_name": "iLaks",
+    "title": "Slakteriet vil ha nytt slakteri – investerte 57 millioner kroner i dagens fabrikker"
   },
   "slepebåt: måtte hoppe på sjøen - vgtv": {
     "categories": [
