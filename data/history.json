@@ -579,6 +579,16 @@
     "source_name": "NRK Rogaland",
     "title": "Haaland-bilder funnet i kokainbeslag: – Brukt som markedsføring"
   },
+  "har stått tomt i 20 år – nå kan det bli revet": {
+    "categories": [
+      "industri"
+    ],
+    "first_seen": "2026-09-07T10:33:02.955176+00:00",
+    "link": "https://www.nrk.no/tromsogfinnmark/sor-varanger-kommune-vil-rive-det-historiske-bygget-malmklang-1.18012687",
+    "published": "Mon, 07 Sep 2026 05:08:07 GMT",
+    "source_name": "NRK Troms og Finnmark",
+    "title": "Har stått tomt i 20 år – nå kan det bli revet"
+  },
   "har tegnet flere av norges største foredlingsanlegg: – produksjonen bestemmer bygget": {
     "categories": [
       "industri"
@@ -638,16 +648,6 @@
     "published": "Fri, 14 Aug 2026 12:30:58 GMT",
     "source_name": "GNews site: Kyst.no",
     "title": "Her forlater seilbåten merden - Kyst.no"
-  },
-  "her kjem det ny sjøkabel - vikebladet.no": {
-    "categories": [
-      "infrastruktur"
-    ],
-    "first_seen": "2026-08-08T06:03:28.225783+00:00",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBZb1dESTJoYXBtNmxwdjM0Wk9DbnBzcm05NC12M1lOTEZlemVHMkhMN0FCX0FXeEwyOXN1ZHNIQjRCS3VkMkE1azZ3TmxEdmNRUTZzTEVkX0FZd2kwbUxyaXZHNU9oWEc0U1FVdHBPQkpLVDVv?oc=5",
-    "published": "Fri, 07 Aug 2026 08:00:00 GMT",
-    "source_name": "GNews: sjøkabel/sjøledning",
-    "title": "Her kjem det ny sjøkabel - vikebladet.no"
   },
   "hurtigbåt krasjet i kaia – ute av drift i flere dager": {
     "categories": [
@@ -778,6 +778,16 @@
     "published": "Fri, 21 Aug 2026 11:29:52 GMT",
     "source_name": "NRK Møre og Romsdal",
     "title": "Kaptein bosatt på Sunnmøre er dømt etter grunnstøting"
+  },
+  "kasseriet og astafjord slakteri signerer ny femårskontrakt": {
+    "categories": [
+      "oppdrett"
+    ],
+    "first_seen": "2026-09-07T10:33:02.955176+00:00",
+    "link": "https://ilaks.no/kasseriet-og-astafjord-slakteri-signerer-ny-femarskontrakt/?mtm_campaign=feed_click&mtm_kwd=kasseriet-og-astafjord-slakteri-signerer-ny-femarskontrakt&mtm_source=RSS2&mtm_medium=feed",
+    "published": "Mon, 07 Sep 2026 08:39:23 +0000",
+    "source_name": "iLaks",
+    "title": "Kasseriet og Astafjord Slakteri signerer ny femårskontrakt"
   },
   "kitron bygger ny fabrikk": {
     "categories": [
@@ -1139,6 +1149,26 @@
     "source_name": "NRK Trøndelag",
     "title": "Redningsaksjon etter at fiskere falt i Namsen"
   },
+  "redningsaksjon etter båt kantret i tana - nrk": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-09-07T10:33:02.955176+00:00",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBVaXJtUDk3bUJMczd0Wmw3N1lybWdCT0xTNjl4b1lZUUR4cjVNdi1nTEJyQjg1eWJnMFBzYmR3TV9qY0pveGVzUFZ3am0waTFrb25hdldieXBMUHB5TUJ5OTF3VE4?oc=5",
+    "published": "Sun, 06 Sep 2026 09:13:46 GMT",
+    "source_name": "GNews: kantring/vrak/berging",
+    "title": "Redningsaksjon etter båt kantret i Tana - NRK"
+  },
+  "redningsaksjon etter kantret båt avsluttet – viste seg å være et skjær - tv 2": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-09-07T10:33:02.955176+00:00",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOGZTQ3JxektFd2tfU3ZXRE1tTVhoaUotQ2NVVUhtb3dnSHJOb3JrZzNyR05VeU5lU2xwMklUQW1xcjVmODNZNkhtaFJERGlEYk9zYjJycjFvLWx0QTZMdDJ0aW9JblBBNFFFOTZ0TE93c3RCZjNoVURfRWxMUm9uQmNvTkdEMXJ6UGgxeVVGNnZDX2Uzbm9iQ3c1ZVQ1OXhBeFA0aDNJNHlYOVNiRXRtUTVtdEJaZ2F4dUdCRzRPeWhhMFlqVjhXZ3N3YlpYR3RfN3B1cThB?oc=5",
+    "published": "Sun, 06 Sep 2026 14:44:09 GMT",
+    "source_name": "GNews: kantring/vrak/berging",
+    "title": "Redningsaksjon etter kantret båt avsluttet – viste seg å være et skjær - TV 2"
+  },
   "rekordmange bruktboliger til salgs i oslo - bygg.no": {
     "categories": [
       "infrastruktur"
@@ -1158,6 +1188,16 @@
     "published": "Wed, 19 Aug 2026 07:56:35 GMT",
     "source_name": "NRK Vestfold og Telemark",
     "title": "Retten setter ned foten: Horten kommune må stoppe destruering av omstridte båter"
+  },
+  "satt i gang redningsaksjon etter båtvelt – var et skjær": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-09-07T10:33:02.955176+00:00",
+    "link": "https://www.nrk.no/vestfoldogtelemark/bat-har-gatt-rundt-i-larvik-1.18016020",
+    "published": "Sun, 06 Sep 2026 14:10:47 GMT",
+    "source_name": "NRK Vestfold og Telemark",
+    "title": "Satt i gang redningsaksjon etter båtvelt – var et skjær"
   },
   "seilbåt krasjet inn i mowi-merd - kyst.no": {
     "categories": [
@@ -1309,6 +1349,26 @@
     "source_name": "GNews: kantring/vrak/berging",
     "title": "Sør-Korea leter etter seks savnede personer etter at en båt kantret utenfor kysten av Busan. - Vietnam.vn"
   },
+  "tana, nyhet | redningsaksjon: – båt kantret - ifinnmark": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-09-07T10:33:02.955176+00:00",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeTRuZWNWQVhZeUdCN3VndjAxOVg2Qjh1Z2RYMG12Sl8zbnEzZm1iVDdhRDlFUm9HeWRDZEE4QTh1c0FkemZpdC1ON0NxQWtzODBlRm9TazJmZVlzbjRGSzR1SHN0dDY2bUwxNDhHZk5xcDh0VDJpUl8wT291UHVYRWRocnNzTEtSalZtcjZZN0tIdk5fNXhz?oc=5",
+    "published": "Sun, 06 Sep 2026 10:22:08 GMT",
+    "source_name": "GNews: kantring/vrak/berging",
+    "title": "Tana, Nyhet | Redningsaksjon: – Båt kantret - iFinnmark"
+  },
+  "tana, ulykke | flydd til sykehus etter å ha kantret med båten: – våt og kald - ifinnmark": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-09-07T10:33:02.955176+00:00",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRnZSaG03SHRtVmVQUGQ0YnFTNEstZlpnc1IzcmdHdk9yX3BJTUluNVJuU24zcWJqR29fcE81ei1PZm5OUnB2YXRaZDNHRDFkNVFKc0xVY3BKOFV3dGJJZXQ4dExySTVFcC1icXJxU1pibGV0YXF6NzIxWUgxRHlIT2Z2TGZoMWhpc2RYQV9Gd1lvS05KWF9vQUNKTHE?oc=5",
+    "published": "Sun, 06 Sep 2026 10:20:23 GMT",
+    "source_name": "GNews: kantring/vrak/berging",
+    "title": "Tana, Ulykke | Flydd til sykehus etter å ha kantret med båten: – Våt og kald - iFinnmark"
+  },
   "tidlig slakt og lave priser ga negativt resultat for sandnes fiskeoppdrett": {
     "categories": [
       "oppdrett"
@@ -1318,16 +1378,6 @@
     "published": "Fri, 21 Aug 2026 09:01:49 +0000",
     "source_name": "iLaks",
     "title": "Tidlig slakt og lave priser ga negativt resultat for Sandnes Fiskeoppdrett"
-  },
-  "togtrøbbel på aker stasjon": {
-    "categories": [
-      "havari_berging"
-    ],
-    "first_seen": "2026-08-08T06:03:28.225783+00:00",
-    "link": "https://www.nrk.no/stor-oslo/togtrobbel-pa-aker-stasjon-_-pavirker-enkeltspor-1.17982126",
-    "published": "Fri, 07 Aug 2026 09:12:23 GMT",
-    "source_name": "NRK Østlandssendingen",
-    "title": "Togtrøbbel på Aker stasjon"
   },
   "turgåar berga ned frå fjellet etter bergingsaksjon i rauma": {
     "categories": [
