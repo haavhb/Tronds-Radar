@@ -39,16 +39,6 @@
     "source_name": "GNews site: Bygg.no",
     "title": "(+) Brudd mellom Arkitekt­bedriftene og AFAG - Bygg.no"
   },
-  "(+) bruelement på 44 meter og 75 tonn løftet på plass - anlegg.no": {
-    "categories": [
-      "infrastruktur"
-    ],
-    "first_seen": "2026-08-10T06:49:02.480451+00:00",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOd1NmWnlHbV9qZzM4YVlrUVdObzlRNHcyVTlKdEtXVDlJbzNzaDkxQWIzVU5zNDdNSWE1S05za3hfWFE0X2NYeVRXSm1PRktWQmltSGI5RUJjMkE3N3pFTEhMR1FqYjVzX1lCdXZpdW9ZUktNYzV1M2E5Y3paaVpvM2tlV1RNcmdHN0xneWtxeDZIb2RWVk4wZm81c3dQa19TaGZybVlieWxSLUktUEE?oc=5",
-    "published": "Sun, 09 Aug 2026 13:44:54 GMT",
-    "source_name": "GNews site: Bygg.no",
-    "title": "(+) Bruelement på 44 meter og 75 tonn løftet på plass - Anlegg.no"
-  },
   "(+) brukte 16.600 kubikkmeter betong på 400 meter kulvert - bygg.no": {
     "categories": [
       "infrastruktur"
@@ -78,6 +68,16 @@
     "published": "Thu, 20 Aug 2026 08:25:32 GMT",
     "source_name": "GNews site: Bygg.no",
     "title": "(+) Fire entreprenører er prekvalifisert for å bygge ny bru - Anlegg.no"
+  },
+  "(+) fra rivingsobjekt til material­lager – slik demonteres gamle sætre skole - bygg.no": {
+    "categories": [
+      "industri"
+    ],
+    "first_seen": "2026-09-09T09:56:09.922992+00:00",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNazRSS3JsMnVVNW83THZwTV9GUDJjS00zeFJud1gzLVVtMnEwSXhkZVBkSWxtS3BMREJEczM3cXQ0QTF2WjFScGljS3N3NllEb0kxSG9HTkItX2Z6MDNGQUhidGRuZFV1RnZfeUJ5S1ppMzAwUHppNzlSR01wazZkbE41UHVnZG1TUEdSMWhmWmZ1TFRaOTBUMzRpdFZiS0lMQmlXTExSQ1Rtc2RYaG82OTVwbEJLb1AwSHQza1Zn?oc=5",
+    "published": "Wed, 09 Sep 2026 07:06:01 GMT",
+    "source_name": "GNews site: Bygg.no",
+    "title": "(+) Fra rivingsobjekt til material­lager – Slik demonteres gamle Sætre skole - bygg.no"
   },
   "(+) får ikke teste flytefôr på ny lokalitet - kyst.no": {
     "categories": [
@@ -369,6 +369,16 @@
     "source_name": "GNews: ny kai/molo/bru",
     "title": "Det bemerkelsesverdige er at «ny kai» ikke lenger nevnes - agderposten.no"
   },
+  "det danske kongeskipet har lagt til kai ved rådhuset i oslo": {
+    "categories": [
+      "infrastruktur"
+    ],
+    "first_seen": "2026-09-09T09:56:09.922992+00:00",
+    "link": "https://www.tu.no/artikler/det-danske-kongeskipet-og-flere-marinefartoy-pa-vei-inn-oslofjorden/576807",
+    "published": "Tue, 08 Sep 2026 10:53:30 +0200",
+    "source_name": "Teknisk Ukeblad (TU.no)",
+    "title": "Det danske kongeskipet har lagt til kai ved rådhuset i Oslo"
+  },
   "døde av enorm dose kokain: hva skjedde med amanda?": {
     "categories": [
       "infrastruktur"
@@ -568,16 +578,6 @@
     "published": "Wed, 19 Aug 2026 15:40:20 GMT",
     "source_name": "NRK Vestland",
     "title": "Frivillige utslitne av redningsaksjonar i fjellet"
-  },
-  "fryktar at ny molo vil senda bølgjer mot gamle naust - vestnytt.no": {
-    "categories": [
-      "infrastruktur"
-    ],
-    "first_seen": "2026-08-10T06:49:02.480451+00:00",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORkEzX1U1X2o5WTNmV01yYThOWkVJSW1ZN3pFSW1qSkJMVFo5R0E1bEl6LXlaSE52b0tsVzN5MngwVDFYdFVNNlZYbXd4XzZSTWlKR1dZZDZycUtyTEtSUVB6VmdFX29UN2NRaW9QZzdrMXdmdDZTRGdYZnNuNFc4Ukw3dGpKeXBFc25tanBNQTJLVVNEYzE5V0hB?oc=5",
-    "published": "Mon, 10 Aug 2026 04:00:00 GMT",
-    "source_name": "GNews: ny kai/molo/bru",
-    "title": "Fryktar at ny molo vil senda bølgjer mot gamle naust - vestnytt.no"
   },
   "frøy bestiller to nye brønnbåter – pluss opsjoner på ytterligere fire. de skal bygges i kina": {
     "categories": [
@@ -899,6 +899,16 @@
     "source_name": "NRK Sørlandet",
     "title": "Lette etter kiter i sjøen – var falsk alarm"
   },
+  "lofoten, blålys | turistbåt med 15 personer grunnstøtt: – tar inn mye vann - bladet vesterålen": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-09-09T09:56:09.922992+00:00",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQN0hVdmI0aVd4Qi1JMmxYdFNtc3VRSHpmU2kydkY5aFBJaUNWM25SZDRHeDFMU1ZIVzNIZ2dmVEVkT0FVSTJiNVREdGZHYzZtb2F1WVJ5bFJnNG9EZk92LVl3OE5lNmFFZEhaaEp1RlliNjNFMFdxenFINklaREU0ZnNYQVMzRUNuYzN5bA?oc=5",
+    "published": "Tue, 08 Sep 2026 11:55:57 GMT",
+    "source_name": "GNews: grunnstøting/forlis",
+    "title": "Lofoten, Blålys | Turistbåt med 15 personer grunnstøtt: – Tar inn mye vann - Bladet Vesterålen"
+  },
   "lokalitetsklarering for havbruk – veien mot større forutsigbarhet - kyst.no": {
     "categories": [
       "oppdrett"
@@ -908,6 +918,16 @@
     "published": "Tue, 25 Aug 2026 07:08:12 GMT",
     "source_name": "GNews site: Kyst.no",
     "title": "Lokalitetsklarering for havbruk – veien mot større forutsigbarhet - Kyst.no"
+  },
+  "mer enn 500 kansellerte båtavganger på to år: – sånn skal det ikke være": {
+    "categories": [
+      "infrastruktur"
+    ],
+    "first_seen": "2026-09-09T09:56:09.922992+00:00",
+    "link": "https://www.nrk.no/tromsogfinnmark/500-kansellerte-batavganger-skaper-krise-for-lokalsamfunn-og-turisme-1.18017491",
+    "published": "Tue, 08 Sep 2026 18:59:14 GMT",
+    "source_name": "NRK Troms og Finnmark",
+    "title": "Mer enn 500 kansellerte båtavganger på to år: – Sånn skal det ikke være"
   },
   "minst åtte døde etter at passasjerbåt kantret utenfor kypros - nettavisen": {
     "categories": [
@@ -1008,6 +1028,16 @@
     "published": "Thu, 13 Aug 2026 06:40:51 +0000",
     "source_name": "iLaks",
     "title": "Nytt år med røde tall på bunnlinjen til Fluctus"
+  },
+  "nå starter utbyggingen av kjøllefjord fiskerihavn – inviterer til folkemøte - kystverket": {
+    "categories": [
+      "infrastruktur"
+    ],
+    "first_seen": "2026-09-09T09:56:09.922992+00:00",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNd2tEM3piNGxPdlBPZ19EUVRmR1ZpTlpRZmxKSXVJQXBjRGxOZEQyYUowSUVzeUtMSnBlVkxJMUpMclRPZ0VBb0pBdk9hdGNSVkZqSVBkT2xlOFFSajZYZHcxb3I1ZzNMMFc5cmJCVjNFX3c1cm9UTDlFUkpOOHhIV1I3XzBBWWR4bDd2S0c0TmFaMTZ5SS14S05OWVJrV0NHN1NHMkJkd0laRnpKV1E?oc=5",
+    "published": "Tue, 08 Sep 2026 08:10:30 GMT",
+    "source_name": "GNews site: Kystverket",
+    "title": "Nå starter utbyggingen av Kjøllefjord fiskerihavn – inviterer til folkemøte - Kystverket"
   },
   "nå starter utbyggingen av kjøllefjord fiskerihavn – inviterer til folkemøte - kystverket.no": {
     "categories": [
@@ -1229,6 +1259,16 @@
     "source_name": "GNews site: Fiskeribladet",
     "title": "Redningsaksjon i natt - Fiskeribladet"
   },
+  "redningsaksjon i rognsundet: – vi er nå skikket for sånne oppdrag - fiskeribladet": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-09-09T09:56:09.922992+00:00",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRFFKYjFqMnVsZDFWYXVaREFKLVdRa0VUMmNUNlQtX0dRNlplR3VRWVg3cnl5aV80Z3pQWm56ZGJOa2tQWU1wdEJkbDlJYnJEMjVNaXdHaTQ4RkJyNEV5ME1tT2VIc21aZkZRUVV0TzFUX3ZUMU5KOUthQmFwUWstb1F5aU8xQWVDUFhVRnRHNS1FaVM3SkFINURLWHBzUWpMdkVwTFNRdi1aMEptVjl5WEhVdw?oc=5",
+    "published": "Tue, 08 Sep 2026 05:36:10 GMT",
+    "source_name": "GNews site: Fiskeribladet",
+    "title": "Redningsaksjon i Rognsundet: – Vi er nå skikket for sånne oppdrag - Fiskeribladet"
+  },
   "redningsaksjon i rognsundet: – vi er nå skikket for sånne oppdrag - intrafish": {
     "categories": [
       "havari_berging"
@@ -1369,16 +1409,6 @@
     "source_name": "NRK Vestland",
     "title": "Starter redningsaksjon av superstjernes villa – mangler 37 millioner"
   },
-  "større båt krasja med kai i os": {
-    "categories": [
-      "infrastruktur"
-    ],
-    "first_seen": "2026-08-10T06:49:02.480451+00:00",
-    "link": "https://www.nrk.no/vestland/storre-bat-krasja-med-kai-i-os--1.17984210",
-    "published": "Mon, 10 Aug 2026 05:47:17 GMT",
-    "source_name": "NRK Vestland",
-    "title": "Større båt krasja med kai i Os"
-  },
   "større båt krasja med kai i os – trur tekniske problem er årsaka": {
     "categories": [
       "infrastruktur"
@@ -1449,6 +1479,16 @@
     "source_name": "iLaks",
     "title": "Tidlig slakt og lave priser ga negativt resultat for Sandnes Fiskeoppdrett"
   },
+  "tidligere skipper mener løsningen hans kan øke mengden fisk i merdene for oppdretterne (+) - intrafish": {
+    "categories": [
+      "oppdrett"
+    ],
+    "first_seen": "2026-09-09T09:56:09.922992+00:00",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOGgzMnFyLTF3S1dtS011M0Jnb3dLQ0V4SFVyY3ZSZDd0azd3VnAxM0NaSUVlbHA5WjNwS1JJX0RaZXJZblUzdlNFRkFHbUwzT3dISjdESFp6X1dSUm5JTUJjcWxWYkU0NTNmbURjQ3pXZDRyU2JYb3JyMUwwTUFmUlE4XzdUQzJNV05ZYm9GaHEtUUpoUkNGbTR5LXllOE1tLXdfTUVlMUtlZDVjLUJKZGhGVnZ0YUdVRFZVa0ZmRDlEWmxwMGliSm1jWlBEQjg?oc=5",
+    "published": "Wed, 09 Sep 2026 03:24:49 GMT",
+    "source_name": "GNews site: IntraFish",
+    "title": "Tidligere skipper mener løsningen hans kan øke mengden fisk i merdene for oppdretterne (+) - Intrafish"
+  },
   "turgåar berga ned frå fjellet etter bergingsaksjon i rauma": {
     "categories": [
       "havari_berging"
@@ -1458,6 +1498,16 @@
     "published": "Sat, 22 Aug 2026 18:23:31 GMT",
     "source_name": "NRK Møre og Romsdal",
     "title": "Turgåar berga ned frå fjellet etter bergingsaksjon i Rauma"
+  },
+  "turistbåt fra tromsø grunnstøtte - under slep - nordlys": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-09-09T09:56:09.922992+00:00",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMnlZNWRGTlRMZzJlWXVJTTh4bVE0bGkyVmszMDRwUVhXSVRiUmprUUstNURDS1FVaU1lOExveml0UmhLSGlJbkNrazJDNlpIUkxEV1ByeWhWSWVUeERWOFkxRlJLZFRMaWVOcEphU2JmcDUyTFdLRWJPQ2N1ZjhOc0Q2LUg0and3OS10Y1Z2TmZsQQ?oc=5",
+    "published": "Tue, 08 Sep 2026 14:02:37 GMT",
+    "source_name": "GNews: grunnstøting/forlis",
+    "title": "Turistbåt fra Tromsø grunnstøtte - under slep - Nordlys"
   },
   "tysk ekspert snur: mener ubåt-vraket er norsk eiendom - nationen": {
     "categories": [
@@ -1538,16 +1588,6 @@
     "published": "Wed, 12 Aug 2026 06:48:18 +0000",
     "source_name": "iLaks",
     "title": "Waagan går fra MMC First Process til Brimer"
-  },
-  "wenberg fiskeoppdrett omorganiserer: overfører 219,2 millioner kroner til morselskapet": {
-    "categories": [
-      "oppdrett"
-    ],
-    "first_seen": "2026-08-10T06:49:02.480451+00:00",
-    "link": "https://ilaks.no/wenberg-fiskeoppdrett-omorganiserer-overforer-2192-millioner-kroner-til-morselskapet/?mtm_campaign=feed_click&mtm_kwd=wenberg-fiskeoppdrett-omorganiserer-overforer-2192-millioner-kroner-til-morselskapet&mtm_source=RSS2&mtm_medium=feed",
-    "published": "Mon, 10 Aug 2026 05:57:30 +0000",
-    "source_name": "iLaks",
-    "title": "Wenberg Fiskeoppdrett omorganiserer: Overfører 219,2 millioner kroner til morselskapet"
   },
   "åtte døde i forlis - kapteinen anklages - dagbladet": {
     "categories": [
