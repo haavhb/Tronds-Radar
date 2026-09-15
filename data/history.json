@@ -109,6 +109,16 @@
     "source_name": "GNews site: Kyst.no",
     "title": "(+) Måtte slakte ut merder etter «uforsvarlig fiskevelferd» - Kyst.no"
   },
+  "(+) nå er merdene på vei fra kina - kyst.no": {
+    "categories": [
+      "oppdrett"
+    ],
+    "first_seen": "2026-09-15T10:14:23.696716+00:00",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5iX3lSMlVoOS1WVk5HMld4V055UGF1eVpNNmhaZHM5d3FqN09URGdSVUl0TzJMbTZSYnYtdVBCY3JwMnNqVXIteDRWckNZNWpTdXlaMXlKSUFuVTFkQlktemxhU012TVhl?oc=5",
+    "published": "Mon, 14 Sep 2026 11:21:14 GMT",
+    "source_name": "GNews site: Kyst.no",
+    "title": "(+) Nå er merdene på vei fra Kina - Kyst.no"
+  },
   "(+) starter riving – skal utvikle nytt byområde - bygg.no": {
     "categories": [
       "industri"
@@ -289,6 +299,16 @@
     "source_name": "Teknisk Ukeblad (TU.no)",
     "title": "[Ekstra] TU-redaktøren har misforstått"
   },
+  "arbeidet med å lete etter 129 personer som er savnet etter at ferge kantret i indonesia fortsetter. - vietnam.vn": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-09-15T10:14:23.696716+00:00",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMWJUWmQ5eHkzS0ZORHZqelUyeVJlekM2V3hXaTV1cWJsaEdNODQ4NEgwakIwR3F4LUpfeWFKUU9haEQ2dFJJUkhkTTZXMktvdGlLeXhMbGgteV9Qamo3dkZvME5DblVaRlozUnhSeE5HYlJSanVaOXVxcGtPTkZSelY3V2xLb0NNbVhkaXdsOHo5azU1d1E?oc=5",
+    "published": "Tue, 15 Sep 2026 06:15:39 GMT",
+    "source_name": "GNews: kantring/vrak/berging",
+    "title": "Arbeidet med å lete etter 129 personer som er savnet etter at ferge kantret i Indonesia fortsetter. - Vietnam.vn"
+  },
   "bakterie påvist ved norcod-lokalitet - kyst.no": {
     "categories": [
       "oppdrett"
@@ -318,6 +338,16 @@
     "published": "Fri, 28 Aug 2026 13:55:59 +0000",
     "source_name": "iLaks",
     "title": "Blue Lice styrker laget"
+  },
+  "blålys, folk | fotlandsvatnet: to personar berga etter kantring nær fossen - dalane-tidende.no": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-09-15T10:14:23.696716+00:00",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdWthT0NwbGpJWVU1MVA3Tk1MSGo3NlFSYXBIc3N1SjQ4S1B4dlZDMDJMczJTN2tBX0FFdWV3enBDMXBHZFppVFBPalN4WTJycW1xSmt0WTZXWVpCYVlDYkpfNDVnX3MxdUpJVXlmNmE1N0VNRFd6Mk9vTGpLV0swTnZkdGdOMzZJZ2Y4UQ?oc=5",
+    "published": "Mon, 14 Sep 2026 11:46:14 GMT",
+    "source_name": "GNews: kantring/vrak/berging",
+    "title": "Blålys, Folk | Fotlandsvatnet: To personar berga etter kantring nær fossen - dalane-tidende.no"
   },
   "brann i industribygg i odda: bad folk lukke vindauge": {
     "categories": [
@@ -358,6 +388,26 @@
     "published": "Mon, 14 Sep 2026 09:19:35 GMT",
     "source_name": "GNews: kantring/vrak/berging",
     "title": "Båt kantret på Fotlandsvatnet – begge i sikkerhet - aftenbladet.no"
+  },
+  "båt kantret på fotlandsvatnet – begge i sikkerhet - stavanger aftenblad": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-09-15T10:14:23.696716+00:00",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRnlHVUdGeVdobE9NX28xMDZ5a1pvYzlndWpkZGxVOHBSdEloWDhtM1dtdFFXTDBFeG8weFVxeUxnLTFwSUs0U25nbXRpVU85d0JreFJjQ2kzUExST2p3N012dFdVckRVc2g0WFRLbXZEVmpwY3ZITHdHUW4xS2Vvc1hLNnNUMjN2MHBUaURsaXhvTWlvY1BoQnNJREw?oc=5",
+    "published": "Mon, 14 Sep 2026 09:19:35 GMT",
+    "source_name": "GNews: kantring/vrak/berging",
+    "title": "Båt kantret på Fotlandsvatnet – begge i sikkerhet - Stavanger Aftenblad"
+  },
+  "båt kantret ved fotlandsfossen - dalane-tidende.no": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-09-15T10:14:23.696716+00:00",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4tSzdNZDAzUDRrczlvUi1CYVRhS0g0NjEwbUVkazNGdml2RHFQVWFzQ2dqU1hYVjh1ZUh5YTZsTGxzeDMyLVpteWpYS0FMWkFzM0g1UGwxQmlLdGtoT3Q4ZnBEWFR2X19feDBzSGFzeExvaTdkYWh5dEJIdTh1UQ?oc=5",
+    "published": "Mon, 14 Sep 2026 11:37:49 GMT",
+    "source_name": "GNews: kantring/vrak/berging",
+    "title": "Båt kantret ved Fotlandsfossen - dalane-tidende.no"
   },
   "båt med 279 personer om bord kantret utenfor kysten av kypros. - vietnam.vn": {
     "categories": [
@@ -579,6 +629,16 @@
     "source_name": "iLaks",
     "title": "Frøy Havbruk har sagt opp avtale om samlokalisering med Måsøval"
   },
+  "får legge 700 meter sjøkabel - hitra-froya.no": {
+    "categories": [
+      "infrastruktur"
+    ],
+    "first_seen": "2026-09-15T10:14:23.696716+00:00",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQazQzR1FoNFFBQXFaRE9tSzBYQ3ozOFRjTm5VR1RqNHBCTU1MaXdoOUZqNHpNLU1RRkVJNEYtXzdySk9vNjA2RVBmU0ZxS0Y3UjQ0S2trN1hUeFRiZ2VPRTJrZjQ3RjlhLUdLQ3AwWHRCV0FVbVROa0FQV0txMjg?oc=5",
+    "published": "Tue, 15 Sep 2026 03:30:00 GMT",
+    "source_name": "GNews: sjøkabel/sjøledning",
+    "title": "Får legge 700 meter sjøkabel - hitra-froya.no"
+  },
   "har stått tomt i 20 år – nå kan det bli revet": {
     "categories": [
       "industri"
@@ -699,16 +759,6 @@
     "source_name": "GNews site: Bygg.no",
     "title": "Innlegg: Hvordan brukes treet i Norge – og hva betyr det for klimaet? - Bygg.no"
   },
-  "jakter på den perfekte eika: : treverket til nidarosdomens nye dører må gjennom mange tester": {
-    "categories": [
-      "infrastruktur"
-    ],
-    "first_seen": "2026-08-16T05:50:52.953977+00:00",
-    "link": "https://www.tu.no/artikler/forskere-analyserer-treverket-til-nidarosdomens-nye-dorer/575017",
-    "published": "Sat, 15 Aug 2026 15:00:00 +0200",
-    "source_name": "Teknisk Ukeblad (TU.no)",
-    "title": "Jakter på den perfekte eika: : Treverket til Nidarosdomens nye dører må gjennom mange tester"
-  },
   "kaptein bosatt på sunnmøre er dømt etter grunnstøting": {
     "categories": [
       "havari_berging"
@@ -799,6 +849,16 @@
     "source_name": "GNews: kantring/vrak/berging",
     "title": "Kypros: Kaos etter dramatisk kantring - VGTV"
   },
+  "lam dong-provinsen fokuserer på redningsarbeidet etter en fiskebåt som kantret utenfor phu quy-øya. - vietnam.vn": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-09-15T10:14:23.696716+00:00",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOG5IRTdkZGNGZEVIYjluYzN6V1lJMzNyNVVfWWpOdUJmZzdTS0oyeGZ4QkF0aVhIWm5LYWRJZDE5QnhpRW5TRklmRzlTQm5Fdm9lYmtxX0h5eV8zYzNoYS1zTUJHYzg4QUtYdnFtOTFGNkhzeXZDN05pX2w4cjV4VEJfM2lNWjVrMkNjM2FR?oc=5",
+    "published": "Tue, 15 Sep 2026 05:58:53 GMT",
+    "source_name": "GNews: kantring/vrak/berging",
+    "title": "Lam Dong-provinsen fokuserer på redningsarbeidet etter en fiskebåt som kantret utenfor Phu Quy-øya. - Vietnam.vn"
+  },
   "lang son: syv personer reddet i tide etter at båt kantret under transport av en pasient til sykehuset. - vietnam.vn": {
     "categories": [
       "havari_berging"
@@ -808,6 +868,16 @@
     "published": "Mon, 24 Aug 2026 12:54:23 GMT",
     "source_name": "GNews: kantring/vrak/berging",
     "title": "Lang Son: Syv personer reddet i tide etter at båt kantret under transport av en pasient til sykehuset. - Vietnam.vn"
+  },
+  "lekkasje av brannfarlig væske i tromsø: ikke lenger brann- eller eksplosjonsfare": {
+    "categories": [
+      "industri"
+    ],
+    "first_seen": "2026-09-15T10:14:23.696716+00:00",
+    "link": "https://www.nrk.no/tromsogfinnmark/lekkasje-av-brannfarlig-vaeske-i-tromso_-oppretter-sikkerhetssone-pa-100-meter-1.18025240",
+    "published": "Tue, 15 Sep 2026 08:30:18 GMT",
+    "source_name": "NRK Troms og Finnmark",
+    "title": "Lekkasje av brannfarlig væske i Tromsø: Ikke lenger brann- eller eksplosjonsfare"
   },
   "lette etter kiter i sjøen – var falsk alarm": {
     "categories": [
@@ -889,6 +959,26 @@
     "source_name": "iLaks",
     "title": "Myklebust Verft: – Ettermarkedet har blitt en større del av porteføljen"
   },
+  "myndighetene leter raskt etter de savnede besetningsmedlemmene etter at fiskebåten deres kantret. - vietnam.vn": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-09-15T10:14:23.696716+00:00",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQckpfRGFPeHdmNXF3ajY0bW0xV1B5ZHQ1OWtreEJSRmcyeUNrbWpCRThxZ1dxc0V1ckVDYjI3dkxpR2VHT29qd3lWZ1l1OFJPR2libUk0VTkxdG5iTDk2Ui1EMkJkdTQ0YkptX3hYTXZ2UkJwUW9BdmNKR2NDZy1vSnZsa1RSZmtuT28xZ1BB?oc=5",
+    "published": "Tue, 15 Sep 2026 05:42:44 GMT",
+    "source_name": "GNews: kantring/vrak/berging",
+    "title": "Myndighetene leter raskt etter de savnede besetningsmedlemmene etter at fiskebåten deres kantret. - Vietnam.vn"
+  },
+  "møter i retten: tenåringer tiltalt for foxtrot-rekruttering og kasting av molotovcocktail": {
+    "categories": [
+      "infrastruktur"
+    ],
+    "first_seen": "2026-09-15T10:14:23.696716+00:00",
+    "link": "https://www.nrk.no/rogaland/moter-i-retten_-tre-tenaringer-tiltalt-for-a-hjelpe-stavanger-gutt-med-drapsplaner-i-london-1.18017905",
+    "published": "Tue, 15 Sep 2026 03:54:25 GMT",
+    "source_name": "NRK Rogaland",
+    "title": "Møter i retten: Tenåringer tiltalt for Foxtrot-rekruttering og kasting av molotovcocktail"
+  },
   "nesjane, industri | vil utvide næringsområdet på nesjane – opnar for biogassanlegg og ny kai - firdaposten": {
     "categories": [
       "infrastruktur"
@@ -918,6 +1008,16 @@
     "published": "Mon, 07 Sep 2026 13:27:17 GMT",
     "source_name": "GNews: kantring/vrak/berging",
     "title": "Nord-Korea tar i bruk et tidligere kantret krigsskip. - Vietnam.vn"
+  },
+  "norges første 3d-printede bru åpnet ved ntnu i trondheim - bygg.no": {
+    "categories": [
+      "infrastruktur"
+    ],
+    "first_seen": "2026-09-15T10:14:23.696716+00:00",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNWhBN2d2dFlnN2FpN1Q0MXFsYzAzUzFVRkRrczN6MnUxTHVGR3Y5OXRUMHJON1ZKdVBLdlk1dzNTcWhfVHBpWHNpakxIcHBZMUQyaHpfQ2hxWUdad3dIZmRlVTczY2ZCaTdxbFA4UVN4OWZ5SHVNNnV6clFkcHBHbVJhT1dUUQ?oc=5",
+    "published": "Tue, 15 Sep 2026 10:05:31 GMT",
+    "source_name": "GNews site: Bygg.no",
+    "title": "Norges første 3D-printede bru åpnet ved NTNU i Trondheim - Bygg.no"
   },
   "nova sea forbereder åpning av nytt slakteri: “rigges for en betydelig volumvekst”": {
     "categories": [
@@ -1289,16 +1389,6 @@
     "source_name": "GNews: slep/nødhavn",
     "title": "Slepebåt: måtte hoppe på sjøen - VGTV"
   },
-  "slår alarm etter seks timar lang redningsaksjon – frp vil ha debatt om kven som skal ta rekninga": {
-    "categories": [
-      "havari_berging"
-    ],
-    "first_seen": "2026-08-16T05:50:52.953977+00:00",
-    "link": "https://www.nrk.no/vestland/fire-klatrarar-i-trobbel-etter-a-ha-trassa-atvaringane-ved-ragnarok-ruta-i-via-ferrata-loen-1.17990139",
-    "published": "Sat, 15 Aug 2026 10:00:29 GMT",
-    "source_name": "NRK Vestland",
-    "title": "Slår alarm etter seks timar lang redningsaksjon – Frp vil ha debatt om kven som skal ta rekninga"
-  },
   "smir skal levere fôrlogistikk til andfjord salmon": {
     "categories": [
       "oppdrett"
@@ -1438,16 +1528,6 @@
     "published": "Mon, 24 Aug 2026 23:00:00 GMT",
     "source_name": "GNews: kantring/vrak/berging",
     "title": "Tysk ekspert snur: Mener ubåt-vraket er norsk eiendom - Nationen"
-  },
-  "tyveri i botanisk hage: – jeg blir forbanna": {
-    "categories": [
-      "industri"
-    ],
-    "first_seen": "2026-08-16T05:50:52.953977+00:00",
-    "link": "https://www.nrk.no/stor-oslo/tyveri-i-botanisk-hage_-_-jeg-blir-forbanna-1.17987188",
-    "published": "Sat, 15 Aug 2026 06:18:40 GMT",
-    "source_name": "NRK Østlandssendingen",
-    "title": "Tyveri i Botanisk hage: – Jeg blir forbanna"
   },
   "ubåt, kyst | tysk ekspert snur: meiner ubåt-vraket er norsk eigedom - avisa nordhordland": {
     "categories": [
