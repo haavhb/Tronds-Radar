@@ -39,16 +39,6 @@
     "source_name": "GNews site: Bygg.no",
     "title": "(+) Brukte 16.600 kubikkmeter betong på 400 meter kulvert - Bygg.no"
   },
-  "(+) derfor ble mef-brodtkorb med i kompani lauritzen - bygg.no": {
-    "categories": [
-      "infrastruktur"
-    ],
-    "first_seen": "2026-08-17T05:57:22.739409+00:00",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeWdpN2tGQ21YUjZBUUJJc2hJYUg5TEZ6THhJaFFRU0ZmVk1JYi1oNWlTWEtWN2NBRkIyeHJ3bHVyZ2NnWl9Ba0xVZGowcUg1b0Vmd0VVZnVab2VZd3c1b1hTUmgzV01DZGExSUNxWDJabnVadW1jUVBSUDJEdzFpdVB5TVRqeGM?oc=5",
-    "published": "Sun, 16 Aug 2026 18:06:58 GMT",
-    "source_name": "GNews site: Bygg.no",
-    "title": "(+) Derfor ble MEF-Brodtkorb med i Kompani Lauritzen - Bygg.no"
-  },
   "(+) fire entreprenører er prekvalifisert for å bygge ny bru - anlegg.no": {
     "categories": [
       "infrastruktur"
@@ -138,6 +128,26 @@
     "published": "Tue, 18 Aug 2026 11:33:26 GMT",
     "source_name": "GNews site: Bygg.no",
     "title": "(+) Stor økning i bruks­tillatelser i Oslo – men igangsetting henger etter - Bygg.no"
+  },
+  "(+) teknisk leder advarer bransjen: – det kommer en brutal transformasjon - bygg.no": {
+    "categories": [
+      "infrastruktur"
+    ],
+    "first_seen": "2026-09-16T10:07:06.295871+00:00",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbzNILWplcDVOVllsT2FpVmJrNVRhdEZVbXZqTGxNTUVuSWc0ZjdVeU1FS2d1aTNlOFduOWg2dm4ydFJINWMzUkMtWTcwcnBIQWdxYVRud0lkVDVPeGRGdERqNVlmY1B4di1TeERMWGRwcUpwMXRJeXVJMU91WkxoYXlxYTNWZTZKQTN1Z3N4U0pDUmRMMkhkYUhVcWNIRnFaN056ODUteFhvYk9UQmJac3pNOEFNQQ?oc=5",
+    "published": "Wed, 16 Sep 2026 09:46:07 GMT",
+    "source_name": "GNews site: Bygg.no",
+    "title": "(+) Teknisk leder advarer bransjen: – Det kommer en brutal transformasjon - Bygg.no"
+  },
+  "(+) åpnet norges første 3d-printede bru - bygg.no": {
+    "categories": [
+      "infrastruktur"
+    ],
+    "first_seen": "2026-09-16T10:07:06.295871+00:00",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNWhBN2d2dFlnN2FpN1Q0MXFsYzAzUzFVRkRrczN6MnUxTHVGR3Y5OXRUMHJON1ZKdVBLdlk1dzNTcWhfVHBpWHNpakxIcHBZMUQyaHpfQ2hxWUdad3dIZmRlVTczY2ZCaTdxbFA4UVN4OWZ5SHVNNnV6clFkcHBHbVJhT1dUUQ?oc=5",
+    "published": "Tue, 15 Sep 2026 10:05:31 GMT",
+    "source_name": "GNews site: Bygg.no",
+    "title": "(+) Åpnet Norges første 3D-printede bru - Bygg.no"
   },
   "(+) – automatiserte merder vil bli standarden - kyst.no": {
     "categories": [
@@ -239,16 +249,6 @@
     "source_name": "GNews: grunnstøting/forlis",
     "title": "22 sjøfolk savnet etter forlis i India - TV 2"
   },
-  "97 passasjerar var om bord då hurtigbåten small i kaia – politiet blei aldri varsla": {
-    "categories": [
-      "infrastruktur"
-    ],
-    "first_seen": "2026-08-17T05:57:22.739409+00:00",
-    "link": "https://www.nrk.no/nordland/politiet-blei-ikkje-varsla-etter-hurtigbatkrasj-pa-bolga.-reiarlaget-varsla-ikkje_-rett-ifolge-reglane-1.17987016",
-    "published": "Sun, 16 Aug 2026 18:19:06 GMT",
-    "source_name": "NRK Nordland",
-    "title": "97 passasjerar var om bord då hurtigbåten small i kaia – politiet blei aldri varsla"
-  },
   "97 personar var om bord då hurtigbåten small i kaia – politiet blei aldri varsla": {
     "categories": [
       "infrastruktur"
@@ -278,6 +278,16 @@
     "published": "Tue, 18 Aug 2026 09:36:18 +0200",
     "source_name": "Teknisk Ukeblad (TU.no)",
     "title": "[Ekstra] Havarikommisjonen: Rutine kan ha bidratt til dødsulykke på Gjøvikbanen"
+  },
+  "[ekstra] lyten vil kjøpe morrow: svensk batterifabrikk gir et innblikk i hvordan det kan bli": {
+    "categories": [
+      "industri"
+    ],
+    "first_seen": "2026-09-16T10:07:06.295871+00:00",
+    "link": "https://www.tu.no/artikler/selskapet-som-vil-overta-morrow-vil-forandre-verden/576861",
+    "published": "Tue, 15 Sep 2026 12:18:46 +0200",
+    "source_name": "Teknisk Ukeblad (TU.no)",
+    "title": "[Ekstra] Lyten vil kjøpe Morrow: Svensk batterifabrikk gir et innblikk i hvordan det kan bli"
   },
   "[ekstra] ser ny havvind-trend: – aldri sett et skifte med denne farten": {
     "categories": [
@@ -339,6 +349,16 @@
     "source_name": "iLaks",
     "title": "Blue Lice styrker laget"
   },
+  "blålys, folk | fotlandsvatnet: to personar berga etter kantring nær fossen - dalane tidende": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-09-16T10:07:06.295871+00:00",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdWthT0NwbGpJWVU1MVA3Tk1MSGo3NlFSYXBIc3N1SjQ4S1B4dlZDMDJMczJTN2tBX0FFdWV3enBDMXBHZFppVFBPalN4WTJycW1xSmt0WTZXWVpCYVlDYkpfNDVnX3MxdUpJVXlmNmE1N0VNRFd6Mk9vTGpLV0swTnZkdGdOMzZJZ2Y4UQ?oc=5",
+    "published": "Mon, 14 Sep 2026 11:46:14 GMT",
+    "source_name": "GNews: kantring/vrak/berging",
+    "title": "Blålys, Folk | Fotlandsvatnet: To personar berga etter kantring nær fossen - Dalane Tidende"
+  },
   "blålys, folk | fotlandsvatnet: to personar berga etter kantring nær fossen - dalane-tidende.no": {
     "categories": [
       "havari_berging"
@@ -399,6 +419,16 @@
     "source_name": "GNews: kantring/vrak/berging",
     "title": "Båt kantret på Fotlandsvatnet – begge i sikkerhet - Stavanger Aftenblad"
   },
+  "båt kantret ved fotlandsfossen - dalane tidende": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-09-16T10:07:06.295871+00:00",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4tSzdNZDAzUDRrczlvUi1CYVRhS0g0NjEwbUVkazNGdml2RHFQVWFzQ2dqU1hYVjh1ZUh5YTZsTGxzeDMyLVpteWpYS0FMWkFzM0g1UGwxQmlLdGtoT3Q4ZnBEWFR2X19feDBzSGFzeExvaTdkYWh5dEJIdTh1UQ?oc=5",
+    "published": "Mon, 14 Sep 2026 11:37:49 GMT",
+    "source_name": "GNews: kantring/vrak/berging",
+    "title": "Båt kantret ved Fotlandsfossen - Dalane Tidende"
+  },
   "båt kantret ved fotlandsfossen - dalane-tidende.no": {
     "categories": [
       "havari_berging"
@@ -458,6 +488,16 @@
     "published": "Tue, 08 Sep 2026 10:53:30 +0200",
     "source_name": "Teknisk Ukeblad (TU.no)",
     "title": "Det danske kongeskipet har lagt til kai ved rådhuset i Oslo"
+  },
+  "dette forventer de landbaserte oppdretterne å høste i år": {
+    "categories": [
+      "oppdrett"
+    ],
+    "first_seen": "2026-09-16T10:07:06.295871+00:00",
+    "link": "https://ilaks.no/dette-forventer-de-landbaserte-oppdretterne-a-hoste-i-ar/?mtm_campaign=feed_click&mtm_kwd=dette-forventer-de-landbaserte-oppdretterne-a-hoste-i-ar&mtm_source=RSS2&mtm_medium=feed",
+    "published": "Wed, 16 Sep 2026 08:06:17 +0000",
+    "source_name": "iLaks",
+    "title": "Dette forventer de landbaserte oppdretterne å høste i år"
   },
   "døde av enorm dose kokain: hva skjedde med amanda?": {
     "categories": [
@@ -539,6 +579,16 @@
     "source_name": "GNews: kantring/vrak/berging",
     "title": "Enda en omkommet funnet etter at ferge kantret utenfor Nord-Kypros - ABC Nyheter"
   },
+  "evakuering oppheves etter lekkasje i tromsø": {
+    "categories": [
+      "industri"
+    ],
+    "first_seen": "2026-09-16T10:07:06.295871+00:00",
+    "link": "https://www.nrk.no/tromsogfinnmark/lekkasje-av-brannfarlig-vaeske-i-tromso_-oppretter-sikkerhetssone-pa-100-meter-1.18025240",
+    "published": "Tue, 15 Sep 2026 08:30:18 GMT",
+    "source_name": "NRK Troms og Finnmark",
+    "title": "Evakuering oppheves etter lekkasje i Tromsø"
+  },
   "ferge med 267 mennesker om bord kantret utenfor nord-kypros, minst syv omkomne. - vietnam.vn": {
     "categories": [
       "havari_berging"
@@ -618,6 +668,16 @@
     "published": "Wed, 19 Aug 2026 15:40:20 GMT",
     "source_name": "NRK Vestland",
     "title": "Frivillige utslitne av redningsaksjonar i fjellet"
+  },
+  "frykta skadde personer da bil ble oppdaga i havet – fant dem beruset på overnattingssted": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-09-16T10:07:06.295871+00:00",
+    "link": "https://www.nrk.no/tromsogfinnmark/svensk-bil-funnet-i-havet-i-balsfjord-1.18026355",
+    "published": "Wed, 16 Sep 2026 05:36:19 GMT",
+    "source_name": "NRK Troms og Finnmark",
+    "title": "Frykta skadde personer da bil ble oppdaga i havet – fant dem beruset på overnattingssted"
   },
   "frøy havbruk har sagt opp avtale om samlokalisering med måsøval": {
     "categories": [
@@ -909,6 +969,16 @@
     "source_name": "GNews site: Kyst.no",
     "title": "Lokalitetsklarering for havbruk – veien mot større forutsigbarhet - Kyst.no"
   },
+  "mattilsynet om ila-bølgen i salten-området: – for ny til å kunne være kilden til smitten": {
+    "categories": [
+      "oppdrett"
+    ],
+    "first_seen": "2026-09-16T10:07:06.295871+00:00",
+    "link": "https://ilaks.no/mattilsynet-om-ila-bolgen-i-salten-omradet-for-ny-til-a-kunne-vaere-kilden-til-smitten/?mtm_campaign=feed_click&mtm_kwd=mattilsynet-om-ila-bolgen-i-salten-omradet-for-ny-til-a-kunne-vaere-kilden-til-smitten&mtm_source=RSS2&mtm_medium=feed",
+    "published": "Tue, 15 Sep 2026 11:06:08 +0000",
+    "source_name": "iLaks",
+    "title": "Mattilsynet om ILA-bølgen i Salten-området: – For ny til å kunne være kilden til smitten"
+  },
   "mer enn 500 kansellerte båtavganger på to år: – sånn skal det ikke være": {
     "categories": [
       "infrastruktur"
@@ -968,6 +1038,16 @@
     "published": "Tue, 15 Sep 2026 05:42:44 GMT",
     "source_name": "GNews: kantring/vrak/berging",
     "title": "Myndighetene leter raskt etter de savnede besetningsmedlemmene etter at fiskebåten deres kantret. - Vietnam.vn"
+  },
+  "må bygge ny rakettfabrikk etter test-suksessen på andøya": {
+    "categories": [
+      "industri"
+    ],
+    "first_seen": "2026-09-16T10:07:06.295871+00:00",
+    "link": "https://www.nrk.no/nordland/raketten-pa-andoya_-_-oppnadde-alt-vi-ville-1.18025663",
+    "published": "Tue, 15 Sep 2026 16:51:07 GMT",
+    "source_name": "NRK Nordland",
+    "title": "Må bygge ny rakettfabrikk etter test-suksessen på Andøya"
   },
   "møter i retten: tenåringer tiltalt for foxtrot-rekruttering og kasting av molotovcocktail": {
     "categories": [
@@ -1239,6 +1319,16 @@
     "source_name": "GNews: kantring/vrak/berging",
     "title": "Passasjerbåt med rundt 270 personer om bord har kantret utenfor Kypros - seks personer døde - Aftenposten"
   },
+  "politiet i da nang gjennomfører øvelser for å redde 24 personer som er fanget etter at en båt kantret under en storm. - vietnam.vn": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-09-16T10:07:06.295871+00:00",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVURHMW1vWHF6VjE3WGhlMlJPN3N2Uy1Yc0dreW45dXBBdldPbk5vSmlPYnR2NUh4ZjhJTTIyczZZRVZ5NW0wWmpSNmpQaGhoTm5LdzQxbG5GUmdXQzljSFpfUzVWUlI3OUFtNk96N3BIZDE5ZHU1amhkWDFvRl9udHE5Vl9YN1pMcEg4TExMdjFSQzR4WC1xUVJha0NlaEllc3c?oc=5",
+    "published": "Tue, 15 Sep 2026 20:54:55 GMT",
+    "source_name": "GNews: kantring/vrak/berging",
+    "title": "Politiet i Da Nang gjennomfører øvelser for å redde 24 personer som er fanget etter at en båt kantret under en storm. - Vietnam.vn"
+  },
   "redningsaksjon etter at fiskere falt i namsen": {
     "categories": [
       "havari_berging"
@@ -1338,6 +1428,16 @@
     "published": "Wed, 19 Aug 2026 07:56:35 GMT",
     "source_name": "NRK Vestfold og Telemark",
     "title": "Retten setter ned foten: Horten kommune må stoppe destruering av omstridte båter"
+  },
+  "rivinga av gamle molde sjukehus er i gang": {
+    "categories": [
+      "industri"
+    ],
+    "first_seen": "2026-09-16T10:07:06.295871+00:00",
+    "link": "https://www.nrk.no/mr/rivinga-av-det-gamle-sjukehuset-i-molde-er-i-gang-1.18025489",
+    "published": "Tue, 15 Sep 2026 12:53:03 GMT",
+    "source_name": "NRK Møre og Romsdal",
+    "title": "Rivinga av gamle Molde sjukehus er i gang"
   },
   "satt i gang redningsaksjon etter båtvelt – var et skjær": {
     "categories": [
