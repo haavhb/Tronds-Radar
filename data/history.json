@@ -139,6 +139,16 @@
     "source_name": "GNews site: Bygg.no",
     "title": "(+) Skal teste undervanns­robot for mudring - anlegg.bygg.no"
   },
+  "(+) skal teste undervanns­robot for mudring - anlegg.no": {
+    "categories": [
+      "infrastruktur"
+    ],
+    "first_seen": "2026-09-18T09:56:28.084372+00:00",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSnRfUmwxcGdsckhyYmhkTFJuWGVNTzVjeWQ4aVFGZ0p1WlYtbTlDc0Fmek1GdXZoeENyZjRpLVZtSXRlcXZWUlBBc1phM1dDb0JRRXplNHlvOHpRWGNhS2dPQmxBV05UUVMzaWhUSVNkVFI5dHV1NFJqdE1zVV9zdG5jRTFRMWVuYV9pSHViU2tiRTg?oc=5",
+    "published": "Thu, 17 Sep 2026 08:39:34 GMT",
+    "source_name": "GNews site: Bygg.no",
+    "title": "(+) Skal teste undervanns­robot for mudring - Anlegg.no"
+  },
   "(+) starter riving – skal utvikle nytt byområde - bygg.no": {
     "categories": [
       "industri"
@@ -148,16 +158,6 @@
     "published": "Fri, 28 Aug 2026 13:17:18 GMT",
     "source_name": "GNews site: Bygg.no",
     "title": "(+) Starter riving – skal utvikle nytt byområde - Bygg.no"
-  },
-  "(+) stor økning i bruks­tillatelser i oslo – men igangsetting henger etter - bygg.no": {
-    "categories": [
-      "infrastruktur"
-    ],
-    "first_seen": "2026-08-19T05:53:12.418587+00:00",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOc2o3WFpUR0Q5RWM0b3lxWUtIVVpZa0xZdTI3T3U5VVktSTRDcmVROUNkcEtDNHAzeERmTmpmbnp2eVVfOG5DOGZfenMxMlFlVDZWd1Nid1JBRUVSRjNfY3VYQTRqWGtaazBrcEFsREg5Z1RlbzVHRjE3LTRuVXZxX3BmLWxCQnJucHFwaUllSzdYbFN1dE5nbndKSVZEb2hTRWItUjhEbWNSLUItbkROYWxuakNYXzdPazNN?oc=5",
-    "published": "Tue, 18 Aug 2026 11:33:26 GMT",
-    "source_name": "GNews site: Bygg.no",
-    "title": "(+) Stor økning i bruks­tillatelser i Oslo – men igangsetting henger etter - Bygg.no"
   },
   "(+) teknisk leder advarer bransjen: – det kommer en brutal transformasjon - bygg.no": {
     "categories": [
@@ -278,26 +278,6 @@
     "published": "Sun, 23 Aug 2026 09:32:28 GMT",
     "source_name": "GNews: grunnstøting/forlis",
     "title": "22 sjøfolk savnet etter forlis i India - TV 2"
-  },
-  "[ekstra] bane nor deler ut ørepropper": {
-    "categories": [
-      "infrastruktur"
-    ],
-    "first_seen": "2026-08-19T05:53:12.418587+00:00",
-    "link": "https://www.tu.no/artikler/bane-nor-deler-ut-orepropper-mot-anleggsbrak/575918",
-    "published": "Tue, 18 Aug 2026 11:52:41 +0200",
-    "source_name": "Teknisk Ukeblad (TU.no)",
-    "title": "[Ekstra] Bane Nor deler ut ørepropper"
-  },
-  "[ekstra] havarikommisjonen: rutine kan ha bidratt til dødsulykke på gjøvikbanen": {
-    "categories": [
-      "havari_berging"
-    ],
-    "first_seen": "2026-08-19T05:53:12.418587+00:00",
-    "link": "https://www.tu.no/artikler/havarikommisjonen-rutine-kan-ha-bidratt-til-dodsulykke-pa-gjovikbanen/575909",
-    "published": "Tue, 18 Aug 2026 09:36:18 +0200",
-    "source_name": "Teknisk Ukeblad (TU.no)",
-    "title": "[Ekstra] Havarikommisjonen: Rutine kan ha bidratt til dødsulykke på Gjøvikbanen"
   },
   "[ekstra] lyten vil kjøpe morrow: svensk batterifabrikk gir et innblikk i hvordan det kan bli": {
     "categories": [
@@ -789,6 +769,16 @@
     "source_name": "GNews site: Kyst.no",
     "title": "ILA påvist på denne lokaliteten - Kyst.no"
   },
+  "ila påvist på salmar-lokalitet - kyst.no": {
+    "categories": [
+      "oppdrett"
+    ],
+    "first_seen": "2026-09-18T09:56:28.084372+00:00",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBZdG5OaUJmZEg2TDZzMG9EUVJoYmdVWGJFYWhIQk9MbUNsSHl2Wk5GZXpmYnBBRGo3MUE5NlcteHdINXM1ZEd5RUpqeDVFRXhkV2s4RzlQS0RqZHNwVXlQaHgyQWJZQzZqQTByNEFIQ2l4MXphWVJodQ?oc=5",
+    "published": "Thu, 17 Sep 2026 14:00:06 GMT",
+    "source_name": "GNews site: Kyst.no",
+    "title": "ILA påvist på Salmar-lokalitet - Kyst.no"
+  },
   "ila påvist ved bodø-lokalitet": {
     "categories": [
       "oppdrett"
@@ -849,16 +839,6 @@
     "source_name": "iLaks",
     "title": "ILA-mistanke ved settefiskanlegg i Bodø"
   },
-  "innlegg: hvordan brukes treet i norge – og hva betyr det for klimaet? - bygg.no": {
-    "categories": [
-      "infrastruktur"
-    ],
-    "first_seen": "2026-08-19T05:53:12.418587+00:00",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbUtUQ1hvWkZnMUg5NTJkUjFrcWRpNFJTUUYtUHpQN09WeGVUcWVhTll6NzVNY01Ndm5IZEJQNVZxdm8ySjFVR0NheUQySkk1VXZBY2FGTDdoTnQtMWFVTi1PU3czNVV4VU1JWmJfR01nVlRaNUJVVHlwODBqblU4VVdFOXEwb0JPSmh2ZGJSY3Ixc0dxUmxMcw?oc=5",
-    "published": "Tue, 18 Aug 2026 07:57:52 GMT",
-    "source_name": "GNews site: Bygg.no",
-    "title": "Innlegg: Hvordan brukes treet i Norge – og hva betyr det for klimaet? - Bygg.no"
-  },
   "kaiformannens forsvarer raser mot politiet og aktor (+) - fiskeribladet": {
     "categories": [
       "infrastruktur"
@@ -889,6 +869,16 @@
     "source_name": "iLaks",
     "title": "Kasseriet og Astafjord Slakteri signerer ny femårskontrakt"
   },
+  "kinesisk lakseprodusent sikter på volumhopp neste år": {
+    "categories": [
+      "oppdrett"
+    ],
+    "first_seen": "2026-09-18T09:56:28.084372+00:00",
+    "link": "https://ilaks.no/kinesisk-lakseprodusent-sikter-pa-volumhopp-neste-ar/?mtm_campaign=feed_click&mtm_kwd=kinesisk-lakseprodusent-sikter-pa-volumhopp-neste-ar&mtm_source=RSS2&mtm_medium=feed",
+    "published": "Thu, 17 Sep 2026 13:56:31 +0000",
+    "source_name": "iLaks",
+    "title": "Kinesisk lakseprodusent sikter på volumhopp neste år"
+  },
   "kitron bygger ny fabrikk": {
     "categories": [
       "industri"
@@ -898,16 +888,6 @@
     "published": "Wed, 02 Sep 2026 10:19:57 GMT",
     "source_name": "NRK Sørlandet",
     "title": "Kitron bygger ny fabrikk"
-  },
-  "kveldens tv-sending: lillesand kommune har politianmeldt eieren av gammel forlist båt": {
-    "categories": [
-      "havari_berging"
-    ],
-    "first_seen": "2026-08-19T05:53:12.418587+00:00",
-    "link": "https://www.nrk.no/video/DKSL98081826",
-    "published": "Tue, 18 Aug 2026 17:37:46 GMT",
-    "source_name": "NRK Sørlandet",
-    "title": "Kveldens TV-sending: Lillesand kommune har politianmeldt eieren av gammel forlist båt"
   },
   "kypros: ferje kantret – flere omkommet - tv 2": {
     "categories": [
@@ -1078,16 +1058,6 @@
     "published": "Thu, 03 Sep 2026 13:23:10 +0000",
     "source_name": "iLaks",
     "title": "Mistanke om ILA ved SalMar‑lokalitet i Namsos"
-  },
-  "myklebust verft: – ettermarkedet har blitt en større del av porteføljen": {
-    "categories": [
-      "oppdrett"
-    ],
-    "first_seen": "2026-08-19T05:53:12.418587+00:00",
-    "link": "https://ilaks.no/myklebust-ettermarkedet-har-blitt-en-storre-del-av-portefoljen/?mtm_campaign=feed_click&mtm_kwd=myklebust-ettermarkedet-har-blitt-en-storre-del-av-portefoljen&mtm_source=RSS2&mtm_medium=feed",
-    "published": "Tue, 18 Aug 2026 10:20:07 +0000",
-    "source_name": "iLaks",
-    "title": "Myklebust Verft: – Ettermarkedet har blitt en større del av porteføljen"
   },
   "myndighetene leter raskt etter de savnede besetningsmedlemmene etter at fiskebåten deres kantret. - vietnam.vn": {
     "categories": [
@@ -1509,6 +1479,16 @@
     "source_name": "NRK Møre og Romsdal",
     "title": "Rivinga av gamle Molde sjukehus er i gang"
   },
+  "røde tall for vik settefisk": {
+    "categories": [
+      "oppdrett"
+    ],
+    "first_seen": "2026-09-18T09:56:28.084372+00:00",
+    "link": "https://ilaks.no/rode-tall-for-vik-settefisk/?mtm_campaign=feed_click&mtm_kwd=rode-tall-for-vik-settefisk&mtm_source=RSS2&mtm_medium=feed",
+    "published": "Thu, 17 Sep 2026 14:16:48 +0000",
+    "source_name": "iLaks",
+    "title": "Røde tall for Vik Settefisk"
+  },
   "satser med egen avdeling for akvakultur - kyst.no": {
     "categories": [
       "oppdrett"
@@ -1518,6 +1498,26 @@
     "published": "Thu, 17 Sep 2026 07:19:34 GMT",
     "source_name": "GNews site: Kyst.no",
     "title": "Satser med egen avdeling for akvakultur - Kyst.no"
+  },
+  "satser med egen divisjon for akvakultur - kyst.no": {
+    "categories": [
+      "oppdrett"
+    ],
+    "first_seen": "2026-09-18T09:56:28.084372+00:00",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOc19CV1FSVTJhb01NcXVUNC1mVkNSTWFWYnc2SWRNUWhmelZod28tOU9yUENxRjJkS2FWb3BPZUE2TE4yb21tWTQwNTdaX1lVVW11T1FJQVFtM1lZOEdiRWhvTW81R1Roc1FBVGo4WXZIQk1MZFd6d054SjdTT0ZDV2NyT0laclZ6WFE3cA?oc=5",
+    "published": "Thu, 17 Sep 2026 07:19:34 GMT",
+    "source_name": "GNews site: Kyst.no",
+    "title": "Satser med egen divisjon for akvakultur - Kyst.no"
+  },
+  "satsing på større fisk bar frukter for hardingsmolt": {
+    "categories": [
+      "oppdrett"
+    ],
+    "first_seen": "2026-09-18T09:56:28.084372+00:00",
+    "link": "https://ilaks.no/storsmolt-satsing-baerer-frukter-for-hardingsmolt/?mtm_campaign=feed_click&mtm_kwd=storsmolt-satsing-baerer-frukter-for-hardingsmolt&mtm_source=RSS2&mtm_medium=feed",
+    "published": "Thu, 17 Sep 2026 13:12:56 +0000",
+    "source_name": "iLaks",
+    "title": "Satsing på større fisk bar frukter for Hardingsmolt"
   },
   "satt i gang redningsaksjon etter båtvelt – var et skjær": {
     "categories": [
