@@ -49,16 +49,6 @@
     "source_name": "GNews site: Bygg.no",
     "title": "(+) Fra rivingsobjekt til material­lager – Slik demonteres gamle Sætre skole - bygg.no"
   },
-  "(+) får ikke teste flytefôr på ny lokalitet - kyst.no": {
-    "categories": [
-      "oppdrett"
-    ],
-    "first_seen": "2026-08-24T06:00:10.807213+00:00",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcVBpZVRTT09IWjU5X1hjUlFWRWJLTjJ4YmZ0cUF2SlV6Rzl4SnVVeE1SM1BRMFdkOWc0dmJ4QWgwQlBtSExIaWpIcUl1SzVyU0FnS2cwcFhUeVVyODREaHhLQm9pVkNQU1RYeU9DRkhHVzl4Um15dDk1NWlkdlFyVWVXQ29jSXAzVVNfNFdTWDcwSmJLbzFaU2hRNUVKZw?oc=5",
-    "published": "Mon, 24 Aug 2026 05:02:27 GMT",
-    "source_name": "GNews site: Kyst.no",
-    "title": "(+) Får ikke teste flytefôr på ny lokalitet - Kyst.no"
-  },
   "(+) får sin første betongflåte - kyst.no": {
     "categories": [
       "oppdrett"
@@ -229,15 +219,16 @@
     "source_name": "GNews: kantring/vrak/berging",
     "title": "20 savnede antas omkommet etter at ferge kantret utenfor Nord-Kypros - Teknisk Ukeblad"
   },
-  "22 sjøfolk savnet etter forlis i india - abc nyheter": {
+  "208 millioner til havneprosjekter som styrker sjøtransporten - kystverket": {
     "categories": [
-      "havari_berging"
+      "infrastruktur",
+      "industri"
     ],
-    "first_seen": "2026-08-24T06:00:10.807213+00:00",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOV2ZfN1dQM3JST0xTNDlEQ0d1T1hEYkpsQnU0b05UdUM4aUZjVzAxNW45SGpIR1l3TWpSajZJTmRNMjI2a2c2VWNQMWxSS0lHOWQ3RmpteFAtbFdKbFBGV2Y3NEY2TUNRblVLV2NJOEhaVlZUU0pSRWIxaTNRSzItdmVOWnZ5ejA?oc=5",
-    "published": "Sun, 23 Aug 2026 05:39:08 GMT",
-    "source_name": "GNews: grunnstøting/forlis",
-    "title": "22 sjøfolk savnet etter forlis i India - ABC Nyheter"
+    "first_seen": "2026-09-23T10:10:03.371303+00:00",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQXJnMVNEYV9PWk05NzZWSUdyN1g1Z3VLNmVEVDdQMk5mTnpTT3R2LWdZRnMxaFJQajZQeW5mbHBQVlNiTDNUc0FDY0pxOWs1ZkEyb0NSZ0xPQ1BKejJYbmQ1czJaN21neHNOTmV3Z3prWWNmWG9GV0ZRcXdsLW54MUk4bVEySTIzdmFtM1JneG9nRGN1S3pyMDUxSQ?oc=5",
+    "published": "Tue, 22 Sep 2026 12:29:20 GMT",
+    "source_name": "GNews site: Kystverket",
+    "title": "208 millioner til havneprosjekter som styrker sjøtransporten - Kystverket"
   },
   "22 sjøfolk savnet etter forlis i india - tv 2": {
     "categories": [
@@ -349,6 +340,16 @@
     "source_name": "NRK Vestland",
     "title": "Brann i industribygg i Odda: Bad folk lukke vindauge"
   },
+  "brønnbåt grunnstøtte ved ryvarden fyr. mannskapet hoppet i sjøen": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-09-23T10:10:03.371303+00:00",
+    "link": "https://ilaks.no/bronnbat-grunnstotte-ved-ryvarden-fyr-mannskapet-hoppet-i-sjoen/?mtm_campaign=feed_click&mtm_kwd=bronnbat-grunnstotte-ved-ryvarden-fyr-mannskapet-hoppet-i-sjoen&mtm_source=RSS2&mtm_medium=feed",
+    "published": "Tue, 22 Sep 2026 19:31:56 +0000",
+    "source_name": "iLaks",
+    "title": "Brønnbåt grunnstøtte ved Ryvarden fyr. Mannskapet hoppet i sjøen"
+  },
   "båt kantret på elv i thai nguyen, tre personer savnet. - vietnam.vn": {
     "categories": [
       "havari_berging"
@@ -458,16 +459,6 @@
     "published": "Mon, 21 Sep 2026 03:27:41 GMT",
     "source_name": "GNews site: Fiskeribladet",
     "title": "Disse merdene kan ha ligget forlatt i 15 år – nå har Fiskeridirektoratet tatt grep - Fiskeribladet"
-  },
-  "dømt til fengsel etter grunnstøting - tronderbladet.no": {
-    "categories": [
-      "havari_berging"
-    ],
-    "first_seen": "2026-08-24T06:00:10.807213+00:00",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYm5STkMxOFQxTW5aczN5WkJPaWtRMzZ0SFZYY29KYjJOc3RFRnl1Y0NxOWRxOGJqZTZvNTZPMGhKVUlJRWpvSkF4WGxuYjJ6cFhUdkkzTDhfM0NtTExGRFAxZVFreWJLVF8wSUFDU0RtZmgxaXdubkFKb3JGTUFfOUJ1SFEzRDREajFrTFcyNW50eTJUYVVhOFh5dw?oc=5",
-    "published": "Sat, 22 Aug 2026 07:17:03 GMT",
-    "source_name": "GNews: grunnstøting/forlis",
-    "title": "Dømt til fengsel etter grunnstøting - tronderbladet.no"
   },
   "edelfarm: – foreløpig lav dødelighet og god fiskehelse i skjerstadfjorden": {
     "categories": [
@@ -639,6 +630,16 @@
     "source_name": "GNews: grunnstøting/forlis",
     "title": "Grunnstøting, Gisundet | Fulgte ikke hovedleden før de gikk på grunn: – Vi ønsker ikke å trekke konklusjoner - Nordlys"
   },
+  "har avhøyrt tilsett i utleigefirma etter dødsulykke": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-09-23T10:10:03.371303+00:00",
+    "link": "https://www.nrk.no/mr/har-avhoyrt-tilsett-i-utleigefirma-etter-forliste-og-dodsulykka-ved-oya-grip-i-averoy-1.18033137",
+    "published": "Tue, 22 Sep 2026 16:39:17 GMT",
+    "source_name": "NRK Møre og Romsdal",
+    "title": "Har avhøyrt tilsett i utleigefirma etter dødsulykke"
+  },
   "har stått tomt i 20 år – nå kan det bli revet": {
     "categories": [
       "industri"
@@ -668,6 +669,16 @@
     "published": "Sat, 05 Sep 2026 19:03:36 GMT",
     "source_name": "NRK Sørlandet",
     "title": "Havnaa knuste Løke på hjemmebane"
+  },
+  "heidelberg materials og tkt transport elektrifiserer betongtransporten i oslo - anlegg.no": {
+    "categories": [
+      "industri"
+    ],
+    "first_seen": "2026-09-23T10:10:03.371303+00:00",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZkxybHFIME1GMW9udVNtNjFadmxlNXhoMGZCQ1hDMS1hU2c4YmxQeWpndmlmM1dUeWQ4RlB4b0ppUy1peEtXa3dGeXdJYUY2VlR4a01wS291cjN6RjZvZEFTYWZzVU96U1ZHaDdFMXZNRHNhS0dpSkR4RnFKUUNha0c0UjhzU0duWkVvczJQODZrSS1wSkNQSmoxeTNoeWNtSWcwSlJn?oc=5",
+    "published": "Wed, 23 Sep 2026 08:13:12 GMT",
+    "source_name": "GNews site: Bygg.no",
+    "title": "Heidelberg Materials og TKT Transport elektrifiserer betongtransporten i Oslo - Anlegg.no"
   },
   "horten kommune får tillatelse til å vrake fire båter: – myndighets­misbruk, mener advokat": {
     "categories": [
@@ -788,6 +799,16 @@
     "published": "Thu, 17 Sep 2026 09:45:45 GMT",
     "source_name": "GNews site: Fiskeribladet",
     "title": "Kaiformannens forsvarer raser mot politiet og aktor (+) - Fiskeribladet"
+  },
+  "karmsund havn får 61 millioner til ny kai på husøy - radio haugaland": {
+    "categories": [
+      "infrastruktur"
+    ],
+    "first_seen": "2026-09-23T10:10:03.371303+00:00",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE52azdJNHJFY185TDhrcGUteV9JZ05pekVDbU5aRkNiWWZyNlpSVXhqSDVmU0NXaWIwbEEzR015NWpnc0x4OVVpc280aC0wWGhRVTB1QlFYUjFuVnRDU1p5YWdMUlVka0FBZlZJaUY5dHFlUUhLMmZYSQ?oc=5",
+    "published": "Tue, 22 Sep 2026 17:14:48 GMT",
+    "source_name": "GNews: ny kai/molo/bru",
+    "title": "Karmsund Havn får 61 millioner til ny kai på Husøy - Radio Haugaland"
   },
   "kasseriet og astafjord slakteri signerer ny femårskontrakt": {
     "categories": [
@@ -928,6 +949,16 @@
     "published": "Tue, 25 Aug 2026 07:08:12 GMT",
     "source_name": "GNews site: Kyst.no",
     "title": "Lokalitetsklarering for havbruk – veien mot større forutsigbarhet - Kyst.no"
+  },
+  "mann til sykehus etter grunnstøting – politiet mistenker rus - radio haugaland": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-09-23T10:10:03.371303+00:00",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOWU2X1ZQUU1LMUlLeklHY1k0MTNJak9neC1lbDl4NHZ0YWdmM1IyMW9RcFdycFRwTklNQmlQMUI3c3RZN19TUEY0aUxtNUd2QXdOSjRmbTRheGpWd1Uya2FWR0tJTmxYRzItMmRxci1hdlNWVlkzMkQzd0tCa2dzVk1lQQ?oc=5",
+    "published": "Wed, 23 Sep 2026 08:42:04 GMT",
+    "source_name": "GNews: grunnstøting/forlis",
+    "title": "Mann til sykehus etter grunnstøting – politiet mistenker rus - Radio Haugaland"
   },
   "mattilsynet om ila-bølgen i salten-området: – for ny til å kunne være kilden til smitten": {
     "categories": [
@@ -1138,6 +1169,16 @@
     "published": "Tue, 01 Sep 2026 17:33:17 GMT",
     "source_name": "GNews: ny kai/molo/bru",
     "title": "Opna ny kai og stort påbygg på Mjølstadneset - vestlandsnytt.no"
+  },
+  "ordførar om ny bru: – beredskapen er veldig viktig": {
+    "categories": [
+      "infrastruktur"
+    ],
+    "first_seen": "2026-09-23T10:10:03.371303+00:00",
+    "link": "https://www.nrk.no/sorlandet/stenger-ose-bru-1.18032600",
+    "published": "Tue, 22 Sep 2026 14:05:02 GMT",
+    "source_name": "NRK Sørlandet",
+    "title": "Ordførar om ny bru: – Beredskapen er veldig viktig"
   },
   "overtidstvist endte med tapt egenkapital og forlik på 23 millioner kroner": {
     "categories": [
@@ -1618,6 +1659,16 @@
     "published": "Wed, 09 Sep 2026 03:24:49 GMT",
     "source_name": "GNews site: IntraFish",
     "title": "Tidligere skipper mener løsningen hans kan øke mengden fisk i merdene for oppdretterne (+) - Intrafish"
+  },
+  "til sjukehus etter grunnstøyting": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-09-23T10:10:03.371303+00:00",
+    "link": "https://www.nrk.no/vestland/til-sjukehus-etter-grunnstoyting-1.18033523",
+    "published": "Wed, 23 Sep 2026 03:33:21 GMT",
+    "source_name": "NRK Vestland",
+    "title": "Til sjukehus etter grunnstøyting"
   },
   "tog forsinket etter at strømledning ble revet ned": {
     "categories": [
