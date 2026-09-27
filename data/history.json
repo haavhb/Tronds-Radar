@@ -290,16 +290,6 @@
     "source_name": "GNews site: Kyst.no",
     "title": "Bakterie påvist ved Norcod-lokalitet - Kyst.no"
   },
-  "baring farsund i startgropa: leverte første inntekter": {
-    "categories": [
-      "oppdrett"
-    ],
-    "first_seen": "2026-08-27T16:36:36.762965+00:00",
-    "link": "https://ilaks.no/baring-farsund-i-startgropa-leverte-forste-inntekter/?mtm_campaign=feed_click&mtm_kwd=baring-farsund-i-startgropa-leverte-forste-inntekter&mtm_source=RSS2&mtm_medium=feed",
-    "published": "Thu, 27 Aug 2026 08:31:39 +0000",
-    "source_name": "iLaks",
-    "title": "Baring Farsund i startgropa: Leverte første inntekter"
-  },
   "blue lice styrker laget": {
     "categories": [
       "oppdrett"
@@ -690,16 +680,6 @@
     "source_name": "iLaks",
     "title": "ILA påvist hos SalMar i Namsos"
   },
-  "ila påvist på denne lokaliteten - kyst.no": {
-    "categories": [
-      "oppdrett"
-    ],
-    "first_seen": "2026-08-27T16:36:36.762965+00:00",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQk0zcmlZQVBRMjZqOG8yb3JzbnRSVlZwNDBBZjVEZzZ4YlVrWm02dFphN2JzWHlBX3hSempzRlRabDRMNmxXTlhNQ2VMQzZHVnlnaTczdHhjdTBmc1Jzc19kOGV3RTdSeDR2ZHlRaVVRS1FuNzdYQkcwaWxYbGdYNnRPNFp4ZjNGcGtBeUxoa0cxMWt3Vk9YQWxMMUkxSWs1MnI4?oc=5",
-    "published": "Thu, 27 Aug 2026 07:36:28 GMT",
-    "source_name": "GNews site: Kyst.no",
-    "title": "ILA påvist på denne lokaliteten - Kyst.no"
-  },
   "ila påvist på salmar-lokalitet - kyst.no": {
     "categories": [
       "oppdrett"
@@ -709,16 +689,6 @@
     "published": "Thu, 17 Sep 2026 14:00:06 GMT",
     "source_name": "GNews site: Kyst.no",
     "title": "ILA påvist på Salmar-lokalitet - Kyst.no"
-  },
-  "ila påvist ved bodø-lokalitet": {
-    "categories": [
-      "oppdrett"
-    ],
-    "first_seen": "2026-08-27T16:36:36.762965+00:00",
-    "link": "https://ilaks.no/ila-pavist-i-bodo/?mtm_campaign=feed_click&mtm_kwd=ila-pavist-i-bodo&mtm_source=RSS2&mtm_medium=feed",
-    "published": "Wed, 26 Aug 2026 09:41:16 +0000",
-    "source_name": "iLaks",
-    "title": "ILA påvist ved Bodø-lokalitet"
   },
   "ila påvist ved lokalitet i salten-området": {
     "categories": [
@@ -829,6 +799,16 @@
     "published": "Wed, 02 Sep 2026 10:19:57 GMT",
     "source_name": "NRK Sørlandet",
     "title": "Kitron bygger ny fabrikk"
+  },
+  "kjevik-brua: må bygge ny innan 5-10 år": {
+    "categories": [
+      "infrastruktur"
+    ],
+    "first_seen": "2026-09-27T10:37:56.478072+00:00",
+    "link": "https://www.nrk.no/sorlandet/kjevik-brua-syng-pa-siste-verset-1.18037797",
+    "published": "Sun, 27 Sep 2026 07:18:23 GMT",
+    "source_name": "NRK Sørlandet",
+    "title": "Kjevik-brua: Må bygge ny innan 5-10 år"
   },
   "kypros: ferje kantret – flere omkommet - tv 2": {
     "categories": [
@@ -1679,16 +1659,6 @@
     "published": "Sun, 30 Aug 2026 03:27:00 GMT",
     "source_name": "GNews: kantring/vrak/berging",
     "title": "Ubåt, Kyst | Tysk ekspert snur: Meiner ubåt-vraket er norsk eigedom - Avisa Nordhordland"
-  },
-  "usas hær: vil bruke 20 milliarder kroner på små atomreaktorer": {
-    "categories": [
-      "infrastruktur"
-    ],
-    "first_seen": "2026-08-27T16:36:36.762965+00:00",
-    "link": "https://www.tu.no/artikler/usas-haer-vil-bruke-20-milliarder-kroner-pa-sma-atomreaktorer/576350",
-    "published": "Thu, 27 Aug 2026 07:29:38 +0200",
-    "source_name": "Teknisk Ukeblad (TU.no)",
-    "title": "USAs hær: Vil bruke 20 milliarder kroner på små atomreaktorer"
   },
   "varsler erstatningskrav mot bane nor etter riving av omstridt bygg": {
     "categories": [
