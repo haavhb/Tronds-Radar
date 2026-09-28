@@ -49,6 +49,16 @@
     "source_name": "GNews site: Bygg.no",
     "title": "(+) Brukte 16.600 kubikkmeter betong på 400 meter kulvert - Bygg.no"
   },
+  "(+) fikk smaken på livet på merdkanten - kyst.no": {
+    "categories": [
+      "oppdrett"
+    ],
+    "first_seen": "2026-09-28T11:50:18.015416+00:00",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTUZ5UlFXVVAwb0dGMXdfM05OcmItNzYwbW13VHIxUWJXd29nNkRPVDBTb0w4M1VvekNIdGR2QnlBd3R6b0JLelMwbjltQUNPUjhRYjM2Mmp0blpvQnhzY1BCelI2bnBoeXdHZDQwa0FOYzJtS0xLTk5BTkZGOGI2QkpYa3hJNHNHSnJWS0VhVzROMXM?oc=5",
+    "published": "Mon, 28 Sep 2026 07:11:35 GMT",
+    "source_name": "GNews site: Kyst.no",
+    "title": "(+) Fikk smaken på livet på merdkanten - Kyst.no"
+  },
   "(+) fra rivingsobjekt til material­lager – slik demonteres gamle sætre skole - bygg.no": {
     "categories": [
       "industri"
@@ -118,16 +128,6 @@
     "published": "Thu, 17 Sep 2026 08:39:34 GMT",
     "source_name": "GNews site: Bygg.no",
     "title": "(+) Skal teste undervanns­robot for mudring - Anlegg.no"
-  },
-  "(+) starter riving – skal utvikle nytt byområde - bygg.no": {
-    "categories": [
-      "industri"
-    ],
-    "first_seen": "2026-08-28T17:31:49.764669+00:00",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUDlfMjBxMHdtYklrR202WHNBODNEX0pNWjJyLV9GWUYtMGVSN0hGTVdYalNoa2JLWWx4Y3Y3QjFHWFN1NnpLVzJTOGxMczE0aGRSLWVaQnlGMjQxWTV5U29wSFRVVGR0bmlUTy1KLXhvODBQeFRkVWtrU2dRZnNGeWVNRVpWQzhvVEJNSkZ4OHR1eEljcGFUNjkxVGg2blRNUmtPbA?oc=5",
-    "published": "Fri, 28 Aug 2026 13:17:18 GMT",
-    "source_name": "GNews site: Bygg.no",
-    "title": "(+) Starter riving – skal utvikle nytt byområde - Bygg.no"
   },
   "(+) teknisk leder advarer bransjen: – det kommer en brutal transformasjon - bygg.no": {
     "categories": [
@@ -289,16 +289,6 @@
     "published": "Wed, 02 Sep 2026 06:13:48 GMT",
     "source_name": "GNews site: Kyst.no",
     "title": "Bakterie påvist ved Norcod-lokalitet - Kyst.no"
-  },
-  "blue lice styrker laget": {
-    "categories": [
-      "oppdrett"
-    ],
-    "first_seen": "2026-08-28T17:31:49.764669+00:00",
-    "link": "https://ilaks.no/blue-lice-styrker-laget/?mtm_campaign=feed_click&mtm_kwd=blue-lice-styrker-laget&mtm_source=RSS2&mtm_medium=feed",
-    "published": "Fri, 28 Aug 2026 13:55:59 +0000",
-    "source_name": "iLaks",
-    "title": "Blue Lice styrker laget"
   },
   "blålys, folk | fotlandsvatnet: to personar berga etter kantring nær fossen - dalane tidende": {
     "categories": [
@@ -630,16 +620,6 @@
     "source_name": "NRK Troms og Finnmark",
     "title": "Har stått tomt i 20 år – nå kan det bli revet"
   },
-  "har tegnet flere av norges største foredlingsanlegg: – produksjonen bestemmer bygget": {
-    "categories": [
-      "industri"
-    ],
-    "first_seen": "2026-08-28T17:31:49.764669+00:00",
-    "link": "https://ilaks.no/har-tegnet-flere-av-norges-storste-foredlingsanlegg-produksjonen-bestemmer-bygget/?mtm_campaign=feed_click&mtm_kwd=har-tegnet-flere-av-norges-storste-foredlingsanlegg-produksjonen-bestemmer-bygget&mtm_source=RSS2&mtm_medium=feed",
-    "published": "Fri, 28 Aug 2026 13:43:19 +0000",
-    "source_name": "iLaks",
-    "title": "Har tegnet flere av Norges største foredlingsanlegg: – Produksjonen bestemmer bygget"
-  },
   "havnaa knuste løke på hjemmebane": {
     "categories": [
       "infrastruktur"
@@ -750,6 +730,16 @@
     "source_name": "iLaks",
     "title": "ILA-mistanke ved settefiskanlegg i Bodø"
   },
+  "jeger satt fast i bratt terreng": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-09-28T11:50:18.015416+00:00",
+    "link": "https://www.nrk.no/trondelag/mann-sitter-fast-i-bratt-terreng-ved-fjellet-trollknuten-i-namsos-1.18038146",
+    "published": "Sun, 27 Sep 2026 17:34:09 GMT",
+    "source_name": "NRK Trøndelag",
+    "title": "Jeger satt fast i bratt terreng"
+  },
   "kaiformannens forsvarer raser mot politiet og aktor (+) - fiskeribladet": {
     "categories": [
       "infrastruktur"
@@ -759,6 +749,16 @@
     "published": "Thu, 17 Sep 2026 09:45:45 GMT",
     "source_name": "GNews site: Fiskeribladet",
     "title": "Kaiformannens forsvarer raser mot politiet og aktor (+) - Fiskeribladet"
+  },
+  "karlsøybruket: tiltalt kaiformann måtte svare om beslaglagt almanakk": {
+    "categories": [
+      "infrastruktur"
+    ],
+    "first_seen": "2026-09-28T11:50:18.015416+00:00",
+    "link": "https://www.nrk.no/tromsogfinnmark/nyhetssenter-troms-og-finnmark-1.16139260#1.18038570.1.18038570",
+    "published": "Mon, 28 Sep 2026 09:25:50 GMT",
+    "source_name": "NRK Troms og Finnmark",
+    "title": "Karlsøybruket: Tiltalt kaiformann måtte svare om beslaglagt almanakk"
   },
   "karmsund havn får 61 millioner til ny kai på husøy - radio haugaland": {
     "categories": [
@@ -999,16 +999,6 @@
     "published": "Tue, 15 Sep 2026 03:54:25 GMT",
     "source_name": "NRK Rogaland",
     "title": "Møter i retten: Tenåringer tiltalt for Foxtrot-rekruttering og kasting av molotovcocktail"
-  },
-  "ni fiskere omkom: – kan ikke la ei løgn være sannheten": {
-    "categories": [
-      "havari_berging"
-    ],
-    "first_seen": "2026-08-29T11:42:56.262410+00:00",
-    "link": "https://www.nrk.no/tromsogfinnmark/ni-fiskere-pa-_utvik-senior_-omkom_-kan-bli-ny-gransking-av-myndighetene-1.17999277",
-    "published": "Sat, 29 Aug 2026 06:26:32 GMT",
-    "source_name": "NRK Troms og Finnmark",
-    "title": "Ni fiskere omkom: – Kan ikke la ei løgn være sannheten"
   },
   "nord-korea tar i bruk et tidligere kantret krigsskip. - vietnam.vn": {
     "categories": [
@@ -1410,6 +1400,16 @@
     "source_name": "NRK Møre og Romsdal",
     "title": "Rivinga av gamle Molde sjukehus er i gang"
   },
+  "rivingen er i gang etter storbrannen i krokstadelva - bygg.no": {
+    "categories": [
+      "industri"
+    ],
+    "first_seen": "2026-09-28T11:50:18.015416+00:00",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYUlwMGpKRzVoQUJVSnFMTXFyMkl3MkE3MjFMblJ4ZnFQN3dBYmVZcnBGbW5rU2M0S1Jtc0JhaDBYWmJIVWZLQWpmUTRuNU1LY21VMm0yUEZoNG1QRUFDMDgyMndybFYyX2t2dm1qQ0liZkNBS3RITGtqWXVkYlRSME1GbmF4aXFIZUFCcFF3?oc=5",
+    "published": "Mon, 28 Sep 2026 07:56:21 GMT",
+    "source_name": "GNews site: Bygg.no",
+    "title": "Rivingen er i gang etter storbrannen i Krokstadelva - Bygg.no"
+  },
   "røde tall for vik settefisk": {
     "categories": [
       "oppdrett"
@@ -1529,16 +1529,6 @@
     "published": "Fri, 25 Sep 2026 14:09:48 +0000",
     "source_name": "iLaks",
     "title": "Slik benytter Andfjord Salmon lys for å styrke tilveksten"
-  },
-  "smir skal levere fôrlogistikk til andfjord salmon": {
-    "categories": [
-      "oppdrett"
-    ],
-    "first_seen": "2026-08-28T17:31:49.764669+00:00",
-    "link": "https://ilaks.no/smir-skal-levere-forlogistikk-til-andfjord-salmon/?mtm_campaign=feed_click&mtm_kwd=smir-skal-levere-forlogistikk-til-andfjord-salmon&mtm_source=RSS2&mtm_medium=feed",
-    "published": "Fri, 28 Aug 2026 08:09:46 +0000",
-    "source_name": "iLaks",
-    "title": "Smir skal levere fôrlogistikk til Andfjord Salmon"
   },
   "stim kjøper oceva og etablerer nytt rådgivningsselskap": {
     "categories": [
