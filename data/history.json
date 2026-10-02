@@ -99,6 +99,16 @@
     "source_name": "GNews site: Bygg.no",
     "title": "(+) Nå skal fremtidens bruer diskuteres - anlegg.bygg.no"
   },
+  "(+) saget hull i fabrikk­veggen for verdens høyeste flagg­stang i tre - bygg.no": {
+    "categories": [
+      "industri"
+    ],
+    "first_seen": "2026-10-02T11:12:11.009408+00:00",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMG84WUlLUnp3V3RQS19UVUkwejlUcXFDOWVRT01wVVViUmZVUTBpZU9SNzhxWFRCZGRFc09MS0M5S1dJNTVoeDIxRVdKdnlQaWlzY3ZRZ2lsZFFLSzVPUnNJZFl6ZWg4ZzNsX2RYaW5RaS04OXd0UW05VWRqOXpwSGdoV0hpTjFLbDE3Mzl5YnJhZG5mZ1A2ZUxlMXJBeEVGeXBLZzh3LTMxX1Ix?oc=5",
+    "published": "Fri, 02 Oct 2026 08:29:46 GMT",
+    "source_name": "GNews site: Bygg.no",
+    "title": "(+) Saget hull i fabrikk­veggen for verdens høyeste flagg­stang i tre - Bygg.no"
+  },
   "(+) skal teste undervanns­robot for mudring - anlegg.bygg.no": {
     "categories": [
       "infrastruktur"
@@ -279,16 +289,6 @@
     "published": "Wed, 30 Sep 2026 16:45:41 GMT",
     "source_name": "NRK Vestland",
     "title": "Avsluttar redningsaksjon i Bergen utan funn"
-  },
-  "bakterie påvist ved norcod-lokalitet - kyst.no": {
-    "categories": [
-      "oppdrett"
-    ],
-    "first_seen": "2026-09-02T09:46:11.719980+00:00",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWkZ4cW0xX1VlTmRCUnpScEMzZHBoQmEzSHVrSFQ5eVpxYngyc3ZvbWxVZDRSZFROM2Z4QlJ0TFdQOGZmbGZRR1B0Wi1vUjVzZEZaZUlrSXROMTFrVXdMVjJOTkcwRjBXQ2VuZVhOOG9MRXJJVUlXUDFaRmxpb1p1bEh3SXNod0tNUWNXMHhaeUN4TU1Ianc?oc=5",
-    "published": "Wed, 02 Sep 2026 06:13:48 GMT",
-    "source_name": "GNews site: Kyst.no",
-    "title": "Bakterie påvist ved Norcod-lokalitet - Kyst.no"
   },
   "ber om eit par vilkår for legging av sjøkabel - vikebladet.no": {
     "categories": [
@@ -680,16 +680,6 @@
     "source_name": "GNews site: IntraFish",
     "title": "ILA-mistanke ved Salmar-lokalitet - intrafish.no"
   },
-  "ila-mistanke ved settefiskanlegg - intrafish": {
-    "categories": [
-      "oppdrett"
-    ],
-    "first_seen": "2026-09-02T09:46:11.719980+00:00",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQc1NSRWJlWVNCVjZja3BULTlKREJxamh6ZFNPdnpySU9SaDR6NXBoZVhEZUp5S0JoR1ZENS0wWTZXUXVoQ0h0cFpmV2ZQbUZfUGlHU2JoLW11Wkx6MzRraC1PR2VUa3NCOEprTmJLbUNndDR1LVhOcklGMFJ6Slk1OHhzd25fR0k?oc=5",
-    "published": "Mon, 31 Aug 2026 13:37:21 GMT",
-    "source_name": "GNews site: IntraFish",
-    "title": "ILA-mistanke ved settefiskanlegg - Intrafish"
-  },
   "innlegg: brukt må lønne seg i byggenæringen - bygg.no": {
     "categories": [
       "infrastruktur"
@@ -760,6 +750,16 @@
     "source_name": "iLaks",
     "title": "Kan få nær to millioner kroner i bot for forhold knyttet til denne lokaliteten"
   },
+  "kantring i sørvær dokumenteres i ny tv-serie: – vi er selvsagt veldig stolte - ifinnmark": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-10-02T11:12:11.009408+00:00",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVnB3OU5zUmVpVEpjcHJuZ3dvaXE0dVlCM1hMbGtBRFlRcUh1SGxRS3lqUTZEZjE4Rkd6S25QeTVzWkJoa1hoUS1vdlBuSVo2d0UtVmVXRWg4UEpsODJKelRXSGI4OGxBLXBLS0M2OHk5NGJiX0RhSjhZWHEwaV9WQ0M4OGV3ZlRqRkxZWXMwdUlIV2wxQVg2T05VM1RHaFBXV3BJZ29teDg4c010YkVua0Jn?oc=5",
+    "published": "Wed, 30 Sep 2026 19:06:21 GMT",
+    "source_name": "GNews: kantring/vrak/berging",
+    "title": "Kantring i Sørvær dokumenteres i ny TV-serie: – Vi er selvsagt veldig stolte - iFinnmark"
+  },
   "kantring i sørvær dokumenteres i ny tv-serie: – vi er selvsagt veldig stolte - ifinnmark.no": {
     "categories": [
       "havari_berging"
@@ -829,6 +829,16 @@
     "published": "Sun, 27 Sep 2026 07:18:23 GMT",
     "source_name": "NRK Sørlandet",
     "title": "Kjevik-brua: Må bygge ny innan 5-10 år"
+  },
+  "kraftig vekst i leieprisene – mange bruker sparepengene - bygg.no": {
+    "categories": [
+      "infrastruktur"
+    ],
+    "first_seen": "2026-10-02T11:12:11.009408+00:00",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObmduZjYwYlRQUnVQaU1reklLMk50OW1xRmRxal9iZzBQS2dqZk5VWHZiSUFUQnluVnQ5S25ZWlNSSnliSXZJcDJZTjJTVTFQY0NHeUZUTnJSWUFkN3lTQnZ4VHhuTC1VVGZNUGxjeTJZeW96dFFPWUwwZi1xVWF2WWlDY2JnMkhj?oc=5",
+    "published": "Fri, 02 Oct 2026 08:27:41 GMT",
+    "source_name": "GNews site: Bygg.no",
+    "title": "Kraftig vekst i leieprisene – mange bruker sparepengene - Bygg.no"
   },
   "lam dong-provinsen fokuserer på redningsarbeidet etter en fiskebåt som kantret utenfor phu quy-øya. - vietnam.vn": {
     "categories": [
@@ -1360,16 +1370,6 @@
     "source_name": "GNews: sjøkabel/sjøledning",
     "title": "Sjøledning skal på plass mellom Koigen og Tjuvholmen - Hamar kommune"
   },
-  "skal byggje ny kai - møre": {
-    "categories": [
-      "infrastruktur"
-    ],
-    "first_seen": "2026-09-02T09:46:11.719980+00:00",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1DUGMtYjFrellKU1J3MjVEODhWelhNMmtlSG8xXzFNVjJjdEl2OUhVeXBiVjhUVVk0bnFKMzJzTlNGVTE4NkpKSG5iM2pzNEFVLTJraw?oc=5",
-    "published": "Tue, 01 Sep 2026 12:09:07 GMT",
-    "source_name": "GNews: ny kai/molo/bru",
-    "title": "Skal byggje ny kai - Møre"
-  },
   "skipet gikk til bunns i oslofjorden i 1927. nesten 100 år senere er vraket funnet. - aftenposten": {
     "categories": [
       "havari_berging"
@@ -1389,6 +1389,16 @@
     "published": "Fri, 25 Sep 2026 14:09:48 +0000",
     "source_name": "iLaks",
     "title": "Slik benytter Andfjord Salmon lys for å styrke tilveksten"
+  },
+  "startskotet er gått for ny sjøkabel her - marsteinen.no": {
+    "categories": [
+      "infrastruktur"
+    ],
+    "first_seen": "2026-10-02T11:12:11.009408+00:00",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMmo5dVJvek5iU0JOaHpOLUxrc1BrSkUtVGlXQ0R4N3QxY1Nzb1Rzbnk1ZktSOC14TnBfVkk4TnZzY2YxSEMzSmJzcEpmdHJaQ2YxajYwaWdNYUlTMURIbVZ2aHJNcmROY1duOEw1MkFQS2pTSDR0QTA3QU90R0N3OFF3N1FneE1wY1pkZw?oc=5",
+    "published": "Fri, 02 Oct 2026 07:39:30 GMT",
+    "source_name": "GNews: sjøkabel/sjøledning",
+    "title": "Startskotet er gått for ny sjøkabel her - marsteinen.no"
   },
   "stim kjøper oceva og etablerer nytt rådgivningsselskap": {
     "categories": [
@@ -1499,6 +1509,16 @@
     "published": "Sun, 20 Sep 2026 09:43:26 GMT",
     "source_name": "GNews: grunnstøting/forlis",
     "title": "Tre fortsatt savnet etter Averøy-forlis – én funnet omkommet - Aftenposten"
+  },
+  "tre personer fortsatt savnet etter forlis: avslutter søket - nettavisen": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-10-02T11:12:11.009408+00:00",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNU0FmbWFBbW9wbHBoMHdhcmZFZTVnSWdsLTVDMEtMMDQ4c2R3ZV9RTE43czJmaXlUY25NMHIwYmx4Y2FkV0Vhd1hOS3lsRVQyNFdnM0xWZVBnRjFRZEI4aDM5NmRpMkRjc2hUS2xVUFNHZXY0UDc3WE56bWU1NHViQlJKYXRSandTeWk1cEc1Wk9HUE4tTnJ3VHdPTDNkVElURmZqTHQtUHV2SXl1NkZDX1haZjVuQjhJdk9hTGln?oc=5",
+    "published": "Thu, 01 Oct 2026 12:28:58 GMT",
+    "source_name": "GNews: grunnstøting/forlis",
+    "title": "Tre personer fortsatt savnet etter forlis: Avslutter søket - Nettavisen"
   },
   "turistbåt fra tromsø grunnstøtte - under slep - nordlys": {
     "categories": [
