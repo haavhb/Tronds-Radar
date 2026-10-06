@@ -19,16 +19,6 @@
     "source_name": "GNews site: Kyst.no",
     "title": "(+) Ber myndighetene starte med lokalitetene - Kyst.no"
   },
-  "(+) brudd mellom arkitekt­bedriftene og afag - bygg.no": {
-    "categories": [
-      "infrastruktur"
-    ],
-    "first_seen": "2026-09-06T09:33:07.779690+00:00",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNWhrLTN6SHVCUUpoLURXdWhaUWtOcXFpQXU2aVlLTzU0VDdGWGQtbDhQemtsSW8xR2hwUXpSNllFZWw2Sl9DODFFLVpCNzdRcnkwZTFkX0VPRzBJTHlVUkdtbTZBV3R5UXR6UGxOQlI3ejJkejBab2pMS0ZwYW5mdzZ3ZlE?oc=5",
-    "published": "Sun, 06 Sep 2026 07:45:47 GMT",
-    "source_name": "GNews site: Bygg.no",
-    "title": "(+) Brudd mellom Arkitekt­bedriftene og AFAG - Bygg.no"
-  },
   "(+) fikk smaken på livet på merdkanten - kyst.no": {
     "categories": [
       "oppdrett"
@@ -430,6 +420,16 @@
     "source_name": "NRK Nordland",
     "title": "En samtale bidro til at hurtigbåten smalt i kaia"
   },
+  "erko settefisk blir pilotkunde for omniras": {
+    "categories": [
+      "oppdrett"
+    ],
+    "first_seen": "2026-10-06T12:07:24.978934+00:00",
+    "link": "https://ilaks.no/erko-settefisk-blir-pilotkunde-for-omniras/?mtm_campaign=feed_click&mtm_kwd=erko-settefisk-blir-pilotkunde-for-omniras&mtm_source=RSS2&mtm_medium=feed",
+    "published": "Mon, 05 Oct 2026 11:50:01 +0000",
+    "source_name": "iLaks",
+    "title": "Erko Settefisk blir pilotkunde for OmniRAS"
+  },
   "evakuering oppheves etter lekkasje i tromsø": {
     "categories": [
       "industri"
@@ -440,15 +440,15 @@
     "source_name": "NRK Troms og Finnmark",
     "title": "Evakuering oppheves etter lekkasje i Tromsø"
   },
-  "fikk lokalitet for torskeoppdrett i ibestad: – helt avgjørende": {
+  "fant selvdød laks på vei til slakt og mangelfull avlivning under uanmeldt tilsyn: – to alvorlige forhold": {
     "categories": [
       "oppdrett"
     ],
-    "first_seen": "2026-09-06T09:33:07.779690+00:00",
-    "link": "https://www.nrk.no/tromsogfinnmark/fikk-lokalitet-for-torskeoppdrett-i-ibestad_-_-helt-avgjorende-1.17992441",
-    "published": "Sun, 06 Sep 2026 07:53:51 GMT",
-    "source_name": "NRK Troms og Finnmark",
-    "title": "Fikk lokalitet for torskeoppdrett i Ibestad: – Helt avgjørende"
+    "first_seen": "2026-10-06T12:07:24.978934+00:00",
+    "link": "https://ilaks.no/fant-selvdod-laks-pa-vei-til-slakt-og-mangelfull-avlivning-under-uanmeldt-tilsyn-to-alvorlige-forhold/?mtm_campaign=feed_click&mtm_kwd=fant-selvdod-laks-pa-vei-til-slakt-og-mangelfull-avlivning-under-uanmeldt-tilsyn-to-alvorlige-forhold&mtm_source=RSS2&mtm_medium=feed",
+    "published": "Tue, 06 Oct 2026 07:30:10 +0000",
+    "source_name": "iLaks",
+    "title": "Fant selvdød laks på vei til slakt og mangelfull avlivning under uanmeldt tilsyn: – To alvorlige forhold"
   },
   "fisker funnet etter leteaksjon ved snåsavatnet": {
     "categories": [
@@ -500,6 +500,16 @@
     "source_name": "iLaks",
     "title": "Frøy Havbruk har sagt opp avtale om samlokalisering med Måsøval"
   },
+  "full storm langs kysten: førte til stengde vegar og innstilte ferjer": {
+    "categories": [
+      "infrastruktur"
+    ],
+    "first_seen": "2026-10-06T12:07:24.978934+00:00",
+    "link": "https://www.nrk.no/mr/full-storm-pa-kysten_-vegar-stengt-og-ferjer-innstilt-1.18045964",
+    "published": "Mon, 05 Oct 2026 13:56:36 GMT",
+    "source_name": "NRK Trøndelag",
+    "title": "Full storm langs kysten: Førte til stengde vegar og innstilte ferjer"
+  },
   "får legge 700 meter sjøkabel - hitra-froya.no": {
     "categories": [
       "infrastruktur"
@@ -549,16 +559,6 @@
     "published": "Mon, 07 Sep 2026 05:08:07 GMT",
     "source_name": "NRK Troms og Finnmark",
     "title": "Har stått tomt i 20 år – nå kan det bli revet"
-  },
-  "havnaa knuste løke på hjemmebane": {
-    "categories": [
-      "infrastruktur"
-    ],
-    "first_seen": "2026-09-06T09:33:07.779690+00:00",
-    "link": "https://www.nrk.no/sorlandet/havnaa-knuste-loke-pa-hjemmebane-1.18015446",
-    "published": "Sat, 05 Sep 2026 19:03:36 GMT",
-    "source_name": "NRK Sørlandet",
-    "title": "Havnaa knuste Løke på hjemmebane"
   },
   "heidelberg materials og tkt transport elektrifiserer betongtransporten i oslo - anlegg.no": {
     "categories": [
@@ -1290,6 +1290,16 @@
     "source_name": "iLaks",
     "title": "Slik benytter Andfjord Salmon lys for å styrke tilveksten"
   },
+  "smarte kamerasystemer for landbasert oppdrett - kyst.no": {
+    "categories": [
+      "oppdrett"
+    ],
+    "first_seen": "2026-10-06T12:07:24.978934+00:00",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNN2M4WHFISDBVVlEyT29VRThNaFJPejBraG1KNzdGWWNiS0wwdTJfY2lVY2Q4N1BOSW9tU3E0ZlhIMG5ISmJxYlRPdldnNlhNcTBLMVVNQkpNbmdsM3J4R3QzUWFKc3FkLVlHMEZnWXdBY09CTEZndUxIT3FxdkN5ZHFhOFNXbGx3SVE?oc=5",
+    "published": "Tue, 06 Oct 2026 10:12:53 GMT",
+    "source_name": "GNews site: Kyst.no",
+    "title": "Smarte kamerasystemer for landbasert oppdrett - kyst.no"
+  },
   "startskotet er gått for ny sjøkabel her - marsteinen.no": {
     "categories": [
       "infrastruktur"
@@ -1309,6 +1319,26 @@
     "published": "Fri, 18 Sep 2026 12:13:19 +0000",
     "source_name": "iLaks",
     "title": "STIM kjøper OCEVA og etablerer nytt rådgivningsselskap"
+  },
+  "stor redningsaksjon i øygarden: mann har meldt seg som eigar av båten": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-10-06T12:07:24.978934+00:00",
+    "link": "https://www.nrk.no/vestland/stor-redningsaksjon-ved-tjeldsto-i-oygarden-etter-funn-av-bat-som-kom-drivande-1.18046243",
+    "published": "Mon, 05 Oct 2026 19:25:09 GMT",
+    "source_name": "NRK Vestland",
+    "title": "Stor redningsaksjon i Øygarden: Mann har meldt seg som eigar av båten"
+  },
+  "store kostnadsbesparelser på ny kai - nrk": {
+    "categories": [
+      "infrastruktur"
+    ],
+    "first_seen": "2026-10-06T12:07:24.978934+00:00",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTzVDTHYyQzJ1MFNZSlFyS1hmWmR2OWJyZDM3SHNXU0EtM3lqS3Qtell2MlVGUFlJNzF4amNxakZhTlRPQzN1elkwNUoxS0loWDE5Z2UyVks1eHU1YmRtelg2SFNodkhENFotRC1wa3ZlODFPUjVCSVM3LXRPS1J1LUFXUG9NX3lN?oc=5",
+    "published": "Mon, 05 Oct 2026 07:30:29 GMT",
+    "source_name": "GNews: ny kai/molo/bru",
+    "title": "Store kostnadsbesparelser på ny kai - NRK"
   },
   "støre vil fjerne nødbremsen i kraftsaker – men den er nesten aldri i bruk": {
     "categories": [
@@ -1450,16 +1480,6 @@
     "source_name": "NRK Nordland",
     "title": "Varsler tvangsmulkt mot KI-senter i Narvik"
   },
-  "vikebygd: person fraktet med luftambulanse etter grunnstøting - vg": {
-    "categories": [
-      "havari_berging"
-    ],
-    "first_seen": "2026-09-06T09:33:07.779690+00:00",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZFAybUZORkcyRHVSTEs5ZGJLYzdycXRiQWRWUkYxVE1hRGxqOWg3cGtmeGVuMkFtYmhoU0JyN0lPTEZ1N0lvSU9nNHlKSkEzdHVVOGZYRWNtRmNSczJBRlc0SDFqY2c5WFpQOGtEV2xyaC1CV2M2aEl2aXVzNFd4anVKeVZmNE5CNWkxZGxpRkh5U3lVVW5uYmxhNkM?oc=5",
-    "published": "Sun, 06 Sep 2026 04:12:06 GMT",
-    "source_name": "GNews: grunnstøting/forlis",
-    "title": "Vikebygd: Person fraktet med luftambulanse etter grunnstøting - VG"
-  },
   "vil rive fabrikken og bygge 120 nye leiligheter: – vi snakker noen hundre millioner kroner - agderposten.no": {
     "categories": [
       "industri"
@@ -1499,5 +1519,15 @@
     "published": "Mon, 14 Sep 2026 07:26:22 GMT",
     "source_name": "NRK Nordland",
     "title": "Øker billettprisen på hurtigbåt i Lofoten med 100 kroner – skal finansiere kaier"
+  },
+  "– det er som lungenes betydning for kroppen": {
+    "categories": [
+      "industri"
+    ],
+    "first_seen": "2026-10-06T12:07:24.978934+00:00",
+    "link": "https://www.tu.no/industri/frykter-for-fremtiden-til-smelteverket/5703283",
+    "published": "Tue, 06 Oct 2026 05:00:00 +0200",
+    "source_name": "Teknisk Ukeblad (TU.no)",
+    "title": "– Det er som lungenes betydning for kroppen"
   }
 }
