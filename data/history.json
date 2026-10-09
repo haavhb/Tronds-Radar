@@ -29,16 +29,6 @@
     "source_name": "GNews site: Kyst.no",
     "title": "(+) Fikk smaken på livet på merdkanten - Kyst.no"
   },
-  "(+) fra rivingsobjekt til material­lager – slik demonteres gamle sætre skole - bygg.no": {
-    "categories": [
-      "industri"
-    ],
-    "first_seen": "2026-09-09T09:56:09.922992+00:00",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNazRSS3JsMnVVNW83THZwTV9GUDJjS00zeFJud1gzLVVtMnEwSXhkZVBkSWxtS3BMREJEczM3cXQ0QTF2WjFScGljS3N3NllEb0kxSG9HTkItX2Z6MDNGQUhidGRuZFV1RnZfeUJ5S1ppMzAwUHppNzlSR01wazZkbE41UHVnZG1TUEdSMWhmWmZ1TFRaOTBUMzRpdFZiS0lMQmlXTExSQ1Rtc2RYaG82OTVwbEJLb1AwSHQza1Zn?oc=5",
-    "published": "Wed, 09 Sep 2026 07:06:01 GMT",
-    "source_name": "GNews site: Bygg.no",
-    "title": "(+) Fra rivingsobjekt til material­lager – Slik demonteres gamle Sætre skole - bygg.no"
-  },
   "(+) ny leder i feiring bruk: – blir nok annerledes - bygg.no": {
     "categories": [
       "infrastruktur"
@@ -128,6 +118,16 @@
     "published": "Wed, 16 Sep 2026 09:46:07 GMT",
     "source_name": "GNews site: Bygg.no",
     "title": "(+) Teknisk leder advarer bransjen: – Det kommer en brutal transformasjon - Bygg.no"
+  },
+  "(+) veidekke oppgraderer to ferjekaier i vestland - anlegg.no": {
+    "categories": [
+      "infrastruktur"
+    ],
+    "first_seen": "2026-10-09T11:59:37.681906+00:00",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbjBVOV9vQ08yY2U2S2dlT09ISmNOR0h6VEZITzBDSVFHaThfXzIwUTVkU0MxNDJfc184MVMxa21YQ2pxazR1RE9uU3YyZ0xXQk9Ka3lLQ0d3YWs4Vmx2ZzhJUDNlUmFDUE5BdjN4a2VVa2xHM2JHUmNvWWNQcU9rc2VCZlVQallqaFNITmRFbTI2NzREaFlFLW1Oc2tkck4zRVNDa21lU0dYSG8?oc=5",
+    "published": "Fri, 09 Oct 2026 10:38:52 GMT",
+    "source_name": "GNews site: Bygg.no",
+    "title": "(+) Veidekke oppgraderer to ferjekaier i Vestland - Anlegg.no"
   },
   "(+) vil bruke 32,4 milliarder på jernbanen - bygg.no": {
     "categories": [
@@ -380,16 +380,6 @@
     "source_name": "GNews: kantring/vrak/berging",
     "title": "Båt kantret ved Fotlandsfossen - dalane-tidende.no"
   },
-  "det danske kongeskipet har lagt til kai ved rådhuset i oslo": {
-    "categories": [
-      "infrastruktur"
-    ],
-    "first_seen": "2026-09-09T09:56:09.922992+00:00",
-    "link": "https://www.tu.no/artikler/det-danske-kongeskipet-og-flere-marinefartoy-pa-vei-inn-oslofjorden/576807",
-    "published": "Tue, 08 Sep 2026 10:53:30 +0200",
-    "source_name": "Teknisk Ukeblad (TU.no)",
-    "title": "Det danske kongeskipet har lagt til kai ved rådhuset i Oslo"
-  },
   "dette forventer de landbaserte oppdretterne å høste i år": {
     "categories": [
       "oppdrett"
@@ -470,6 +460,16 @@
     "source_name": "GNews site: Kyst.no",
     "title": "Fikk makrellstørje i nedsenket merd - Kyst.no"
   },
+  "fire kinesere fløy drone over nato-kai": {
+    "categories": [
+      "infrastruktur"
+    ],
+    "first_seen": "2026-10-09T11:59:37.681906+00:00",
+    "link": "https://www.nrk.no/tromsogfinnmark/fire-kinesere-floy-drone-over-nato-kai-1.18049633",
+    "published": "Thu, 08 Oct 2026 13:49:02 GMT",
+    "source_name": "NRK Troms og Finnmark",
+    "title": "Fire kinesere fløy drone over Nato-kai"
+  },
   "fisker funnet etter leteaksjon ved snåsavatnet": {
     "categories": [
       "havari_berging"
@@ -479,6 +479,16 @@
     "published": "Mon, 14 Sep 2026 03:44:46 GMT",
     "source_name": "NRK Trøndelag",
     "title": "Fisker funnet etter leteaksjon ved Snåsavatnet"
+  },
+  "for dyrt med ny ferjekai her: vil vurdere «alternativ transport» - fjt.no": {
+    "categories": [
+      "infrastruktur"
+    ],
+    "first_seen": "2026-10-09T11:59:37.681906+00:00",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOT1FLSTc0S0ZFbzFrZTY4UUNaT245UzQxekg4Ry1OUkJ6TnAwNzlWaFZEdUZMSTNSOHJXOFlueWFobFUzRnY1OHdxNFY3QXh4Mk4waENvVHc1NUJBLXQ0WVNZM0tFY25iZVNNQ3dsSHhjdnZndWVFVW5Qd0tUenZ4VG1XcjctUlZYd1JmNDk1QlNGQQ?oc=5",
+    "published": "Fri, 09 Oct 2026 06:55:00 GMT",
+    "source_name": "GNews: ny kai/molo/bru",
+    "title": "For dyrt med ny ferjekai her: Vil vurdere «alternativ transport» - fjt.no"
   },
   "for ung til å bli tatt seriøst?": {
     "categories": [
@@ -830,16 +840,6 @@
     "source_name": "NRK Troms og Finnmark",
     "title": "Lekkasje av brannfarlig væske i Tromsø: Ikke lenger brann- eller eksplosjonsfare"
   },
-  "lofoten, blålys | turistbåt med 15 personer grunnstøtt: – tar inn mye vann - bladet vesterålen": {
-    "categories": [
-      "havari_berging"
-    ],
-    "first_seen": "2026-09-09T09:56:09.922992+00:00",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQN0hVdmI0aVd4Qi1JMmxYdFNtc3VRSHpmU2kydkY5aFBJaUNWM25SZDRHeDFMU1ZIVzNIZ2dmVEVkT0FVSTJiNVREdGZHYzZtb2F1WVJ5bFJnNG9EZk92LVl3OE5lNmFFZEhaaEp1RlliNjNFMFdxenFINklaREU0ZnNYQVMzRUNuYzN5bA?oc=5",
-    "published": "Tue, 08 Sep 2026 11:55:57 GMT",
-    "source_name": "GNews: grunnstøting/forlis",
-    "title": "Lofoten, Blålys | Turistbåt med 15 personer grunnstøtt: – Tar inn mye vann - Bladet Vesterålen"
-  },
   "makrellstørje tok seg inn i nedsenket lerøy-merd": {
     "categories": [
       "oppdrett"
@@ -880,15 +880,15 @@
     "source_name": "GNews site: Fiskeribladet",
     "title": "Mener meldinger avslører kaiformannen: «Ha auan åpen etter de blank knappan» (+) - Fiskeribladet"
   },
-  "mer enn 500 kansellerte båtavganger på to år: – sånn skal det ikke være": {
+  "moskenes, reine | båten fikk skader igjen: – kort veg til grunnstøting - lofot-tidende": {
     "categories": [
-      "infrastruktur"
+      "havari_berging"
     ],
-    "first_seen": "2026-09-09T09:56:09.922992+00:00",
-    "link": "https://www.nrk.no/tromsogfinnmark/500-kansellerte-batavganger-skaper-krise-for-lokalsamfunn-og-turisme-1.18017491",
-    "published": "Tue, 08 Sep 2026 18:59:14 GMT",
-    "source_name": "NRK Troms og Finnmark",
-    "title": "Mer enn 500 kansellerte båtavganger på to år: – Sånn skal det ikke være"
+    "first_seen": "2026-10-09T11:59:37.681906+00:00",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZDdSVHdCMGJvOU5CVnlPSHAyOGU3TzdWOWdPVEIzRmVUMEljeFlLZWJuU2xNZjU3OHVDNGFBVE5OMEZaZm5veWEwQVJ2LXh0bWJSTVJadGpVNUlNOVJnS1VwckZTbklVMWpHbFpRZ0ItSXZyMU4tVEthWl9CNkhjeWo0NXBRMll0czZKMzd0TXRhMFZuWmZV?oc=5",
+    "published": "Thu, 08 Oct 2026 19:00:00 GMT",
+    "source_name": "GNews: grunnstøting/forlis",
+    "title": "Moskenes, Reine | Båten fikk skader igjen: – Kort veg til grunnstøting - Lofot-Tidende"
   },
   "myndighetene leter raskt etter de savnede besetningsmedlemmene etter at fiskebåten deres kantret. - vietnam.vn": {
     "categories": [
@@ -1010,16 +1010,6 @@
     "source_name": "iLaks",
     "title": "Nytt underskudd for Danish Salmon"
   },
-  "nå starter utbyggingen av kjøllefjord fiskerihavn – inviterer til folkemøte - kystverket": {
-    "categories": [
-      "infrastruktur"
-    ],
-    "first_seen": "2026-09-09T09:56:09.922992+00:00",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNd2tEM3piNGxPdlBPZ19EUVRmR1ZpTlpRZmxKSXVJQXBjRGxOZEQyYUowSUVzeUtMSnBlVkxJMUpMclRPZ0VBb0pBdk9hdGNSVkZqSVBkT2xlOFFSajZYZHcxb3I1ZzNMMFc5cmJCVjNFX3c1cm9UTDlFUkpOOHhIV1I3XzBBWWR4bDd2S0c0TmFaMTZ5SS14S05OWVJrV0NHN1NHMkJkd0laRnpKV1E?oc=5",
-    "published": "Tue, 08 Sep 2026 08:10:30 GMT",
-    "source_name": "GNews site: Kystverket",
-    "title": "Nå starter utbyggingen av Kjøllefjord fiskerihavn – inviterer til folkemøte - Kystverket"
-  },
   "ofoten skal lære redningsarbeid av litauen": {
     "categories": [
       "havari_berging"
@@ -1079,16 +1069,6 @@
     "published": "Mon, 21 Sep 2026 18:21:47 GMT",
     "source_name": "GNews: grunnstøting/forlis",
     "title": "Politiet venter på undersøkelser av båten etter Averøy-forlis - VG"
-  },
-  "redningsaksjon i rognsundet: – vi er nå skikket for sånne oppdrag - fiskeribladet": {
-    "categories": [
-      "havari_berging"
-    ],
-    "first_seen": "2026-09-09T09:56:09.922992+00:00",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRFFKYjFqMnVsZDFWYXVaREFKLVdRa0VUMmNUNlQtX0dRNlplR3VRWVg3cnl5aV80Z3pQWm56ZGJOa2tQWU1wdEJkbDlJYnJEMjVNaXdHaTQ4RkJyNEV5ME1tT2VIc21aZkZRUVV0TzFUX3ZUMU5KOUthQmFwUWstb1F5aU8xQWVDUFhVRnRHNS1FaVM3SkFINURLWHBzUWpMdkVwTFNRdi1aMEptVjl5WEhVdw?oc=5",
-    "published": "Tue, 08 Sep 2026 05:36:10 GMT",
-    "source_name": "GNews site: Fiskeribladet",
-    "title": "Redningsaksjon i Rognsundet: – Vi er nå skikket for sånne oppdrag - Fiskeribladet"
   },
   "redningsaksjon på gaustatoppen": {
     "categories": [
@@ -1320,6 +1300,16 @@
     "source_name": "GNews: ny kai/molo/bru",
     "title": "Store kostnadsbesparelser på ny kai - NRK"
   },
+  "strekker seg langt for havvind": {
+    "categories": [
+      "industri"
+    ],
+    "first_seen": "2026-10-09T11:59:37.681906+00:00",
+    "link": "https://www.tu.no/kommentar/strekker-seg-langt-for-havvind/7144750",
+    "published": "Fri, 09 Oct 2026 13:21:06 +0200",
+    "source_name": "Teknisk Ukeblad (TU.no)",
+    "title": "Strekker seg langt for havvind"
+  },
   "støre vil fjerne nødbremsen i kraftsaker – men den er nesten aldri i bruk": {
     "categories": [
       "infrastruktur"
@@ -1349,16 +1339,6 @@
     "published": "Tue, 22 Sep 2026 04:51:27 GMT",
     "source_name": "GNews site: Kyst.no",
     "title": "Tar lukket merd-teknologi til Canada - Kyst.no"
-  },
-  "tidligere skipper mener løsningen hans kan øke mengden fisk i merdene for oppdretterne (+) - intrafish": {
-    "categories": [
-      "oppdrett"
-    ],
-    "first_seen": "2026-09-09T09:56:09.922992+00:00",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOGgzMnFyLTF3S1dtS011M0Jnb3dLQ0V4SFVyY3ZSZDd0azd3VnAxM0NaSUVlbHA5WjNwS1JJX0RaZXJZblUzdlNFRkFHbUwzT3dISjdESFp6X1dSUm5JTUJjcWxWYkU0NTNmbURjQ3pXZDRyU2JYb3JyMUwwTUFmUlE4XzdUQzJNV05ZYm9GaHEtUUpoUkNGbTR5LXllOE1tLXdfTUVlMUtlZDVjLUJKZGhGVnZ0YUdVRFZVa0ZmRDlEWmxwMGliSm1jWlBEQjg?oc=5",
-    "published": "Wed, 09 Sep 2026 03:24:49 GMT",
-    "source_name": "GNews site: IntraFish",
-    "title": "Tidligere skipper mener løsningen hans kan øke mengden fisk i merdene for oppdretterne (+) - Intrafish"
   },
   "til sjukehus etter grunnstøyting": {
     "categories": [
@@ -1409,16 +1389,6 @@
     "published": "Thu, 01 Oct 2026 12:28:58 GMT",
     "source_name": "GNews: grunnstøting/forlis",
     "title": "Tre personer fortsatt savnet etter forlis: Avslutter søket - Nettavisen"
-  },
-  "turistbåt fra tromsø grunnstøtte - under slep - nordlys": {
-    "categories": [
-      "havari_berging"
-    ],
-    "first_seen": "2026-09-09T09:56:09.922992+00:00",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMnlZNWRGTlRMZzJlWXVJTTh4bVE0bGkyVmszMDRwUVhXSVRiUmprUUstNURDS1FVaU1lOExveml0UmhLSGlJbkNrazJDNlpIUkxEV1ByeWhWSWVUeERWOFkxRlJLZFRMaWVOcEphU2JmcDUyTFdLRWJPQ2N1ZjhOc0Q2LUg0and3OS10Y1Z2TmZsQQ?oc=5",
-    "published": "Tue, 08 Sep 2026 14:02:37 GMT",
-    "source_name": "GNews: grunnstøting/forlis",
-    "title": "Turistbåt fra Tromsø grunnstøtte - under slep - Nordlys"
   },
   "varsler erstatningskrav mot bane nor etter riving av omstridt bygg": {
     "categories": [
