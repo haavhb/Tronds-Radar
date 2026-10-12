@@ -159,16 +159,6 @@
     "source_name": "GNews: grunnstøting/forlis",
     "title": "140 savnet etter forlis - Sol"
   },
-  "15-åring klamret seg fast til kantret båt i flere døgn - vg": {
-    "categories": [
-      "havari_berging"
-    ],
-    "first_seen": "2026-09-12T09:28:22.141713+00:00",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdS03dU9KajFPTWl2NUZJcTU4N2pVdk5YU2NqRkZKOHFCY1hkOE5zeS1xSE5TclRfZG1QMmlTTmZjbURzSjZJZDJjR2xHdEtLTHhlTEZ6SXpBelp0ZWRpUGo5c2djdW1aWXM3WUQ5T05zRjV4bWJNQ0g1amVlRVVPVWljRXNkMzUxUzRJZTE5Tk9lbHljWWkw?oc=5",
-    "published": "Sat, 12 Sep 2026 01:57:18 GMT",
-    "source_name": "GNews: kantring/vrak/berging",
-    "title": "15-åring klamret seg fast til kantret båt i flere døgn - VG"
-  },
   "15-åring reddet etter fire dager på kantret båt i bering­havet - aftenposten": {
     "categories": [
       "havari_berging"
@@ -178,16 +168,6 @@
     "published": "Sun, 13 Sep 2026 09:49:56 GMT",
     "source_name": "GNews: kantring/vrak/berging",
     "title": "15-åring reddet etter fire dager på kantret båt i Bering­havet - Aftenposten"
-  },
-  "15-åring reddet etter to døgn på kantret jolle i beringhavet – siste nytt - nrk": {
-    "categories": [
-      "havari_berging"
-    ],
-    "first_seen": "2026-09-12T09:28:22.141713+00:00",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVy1HZDdoYVpyVndnaDMwV1dWdU8tanNVck9uU2FLbTVxbVpWM1Z0ZFFxVjVfYWxFQUxTZmh6MjlGbWNQeGI0WlFUdmlxRk94aTRIaTl4bTFETkhadFJudUlTV1BXWXFPMklsNmVvbGpWN09LaXlTZk9oY0NfeVBxd3liR09JR1Y5ck9mektKSFVoOHBXQjJhdEhkZk1QZEE?oc=5",
-    "published": "Fri, 11 Sep 2026 23:10:03 GMT",
-    "source_name": "GNews: kantring/vrak/berging",
-    "title": "15-åring reddet etter to døgn på kantret jolle i Beringhavet – Siste nytt - NRK"
   },
   "208 millioner til havneprosjekter som styrker sjøtransporten - kystverket": {
     "categories": [
@@ -219,6 +199,16 @@
     "published": "Tue, 15 Sep 2026 12:18:46 +0200",
     "source_name": "Teknisk Ukeblad (TU.no)",
     "title": "[Ekstra] Lyten vil kjøpe Morrow: Svensk batterifabrikk gir et innblikk i hvordan det kan bli"
+  },
+  "advarer om havbruk til havs - kyst.no": {
+    "categories": [
+      "oppdrett"
+    ],
+    "first_seen": "2026-10-12T13:21:09.122851+00:00",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWXhJTFVDRXhNLWRtWktucHNxUTN2STdfQzFjTWpTS01XWlphZWVtd0s0OW9ib25zeU5Tc05OckllU2l3MV9YbjRXSlpGVWhvdnM0YjZrVHNseWZMYXFIU05mT2M0bjhnRW1sVkgzWlphX05xT0lQMnVuczB6WVlxMkN4VWpYLW1icDVPcktLczF2TU0?oc=5",
+    "published": "Mon, 12 Oct 2026 06:24:43 GMT",
+    "source_name": "GNews site: Kyst.no",
+    "title": "Advarer om havbruk til havs - Kyst.no"
   },
   "aftenposten: knusende rapport om karbonfangstanlegg i oslo": {
     "categories": [
@@ -430,6 +420,16 @@
     "source_name": "iLaks",
     "title": "Erko Settefisk blir pilotkunde for OmniRAS"
   },
+  "et skip kantret utenfor kysten av afrika, og over 200 mennesker ble drept eller savnet. - vietnam.vn": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-10-12T13:21:09.122851+00:00",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONHVKblhNTVZMR3lXOHJUQlNCR0RLcXlydmVDbS1pVERueUh4THZlS1Q1TktxbjFwY3AxVlFlcWtUZE1kT3plcTYyTFNxTzNUX3VfMHI3S1FqNUt5MUV2Y00xOTg5Mlk0WHR6YnNyNUxIR0N5a1Z2cFdUWDdyUHJaeGdiSWlXMTV1dUotVXF5dVBKOVNmOHRLWm1CQng?oc=5",
+    "published": "Sun, 11 Oct 2026 16:11:51 GMT",
+    "source_name": "GNews: kantring/vrak/berging",
+    "title": "Et skip kantret utenfor kysten av Afrika, og over 200 mennesker ble drept eller savnet. - Vietnam.vn"
+  },
   "evakuering oppheves etter lekkasje i tromsø": {
     "categories": [
       "industri"
@@ -479,6 +479,26 @@
     "published": "Mon, 14 Sep 2026 03:44:46 GMT",
     "source_name": "NRK Trøndelag",
     "title": "Fisker funnet etter leteaksjon ved Snåsavatnet"
+  },
+  "fn: minst 139 mennesker omkom da båt kantret utenfor djibouti – 116 savnet - aftenposten": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-10-12T13:21:09.122851+00:00",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYTdFMExQUFNxSFQtY0pid1JxVGxJRGJ0cDI1MU52cXlDaUdEbDdURFZJLW9zWWlTVkxYclV4THNOTDJfbW5HNFBzWklVQ2lRLVlkakRqbU9jRGZxYlc1OTJyTDRkaDI3Wm5fY1BYNGVVVExXMElfZjV5VUM5RWZicGM2WUN0a184ZmtGR2FYUEVIOUdxdHEwSUtHOHg1SXM4TldaQjBqcjhqbnRKVUdNTWYxYnU5Zw?oc=5",
+    "published": "Sun, 11 Oct 2026 16:47:11 GMT",
+    "source_name": "GNews: kantring/vrak/berging",
+    "title": "FN: Minst 139 mennesker omkom da båt kantret utenfor Djibouti – 116 savnet - Aftenposten"
+  },
+  "fn: minst 139 migranter omkom da båt kantret utenfor djibouti – 116 savnet - aftenposten": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-10-12T13:21:09.122851+00:00",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWk9jMU5JT2UyUmxkd05IWVAxWTB2NTIyNjhXZkt5ZGE4OXhveFpkMXlJSW94QmpBZFdpOF9wbnlIQTJpMzFEejN1ZURiUEl3TlNYNXE4aThaMzNPa21LTEFCUTNzd2NhS3NmLWxsejlfMkw5dDZleDh2OXdBbGlrMGZRUUhrVGp6WXhSVkxISS1neTV5NU5sUFZHczlfc1B1bWF5RVVHYVZQaG9HbFV6Q3BhSGtKbTdRUzh6R3ptRThRNzZGbmYyaUJB?oc=5",
+    "published": "Sun, 11 Oct 2026 15:03:14 GMT",
+    "source_name": "GNews: kantring/vrak/berging",
+    "title": "FN: Minst 139 migranter omkom da båt kantret utenfor Djibouti – 116 savnet - Aftenposten"
   },
   "for dyrt med ny ferjekai her: vil vurdere «alternativ transport» - fjt.no": {
     "categories": [
@@ -910,6 +930,16 @@
     "source_name": "GNews site: Fiskeribladet",
     "title": "Mener meldinger avslører kaiformannen: «Ha auan åpen etter de blank knappan» (+) - Fiskeribladet"
   },
+  "migrantbåt, forlis | minst 139 døde og 84 savnet etter forlis utenfor kysten av djibouti, opplyser fn-organisasjon - nettavisen": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-10-12T13:21:09.122851+00:00",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVDRhMGNiNUJsWHJSdEVxcXVQOU5pYUVCQjR1VXNmS2lDV085ZUgzbzlkbFBjdUJQSzlOMVM1eVd5NWphQ1R2ZXFsU0sta1pfWWVreTRWbHFaanFRT3RfSWVfMFg2WFEwRHRXX2JJVHBjaEJWNHhvcWl2V0xUU0ZGSDRCZTlKZ2FiX0VUclZJS3JRQnZqaUNXUkVVbGpuUlRkRVZMWmJMRDZBdGFsVHZWcUdQX2UtYUI4cTlmb1pHeHZ4cnFWYXItWVJxUWJ5Nm9ZWng5NGdMaUM?oc=5",
+    "published": "Mon, 12 Oct 2026 02:49:54 GMT",
+    "source_name": "GNews: grunnstøting/forlis",
+    "title": "Migrantbåt, Forlis | Minst 139 døde og 84 savnet etter forlis utenfor kysten av Djibouti, opplyser FN-organisasjon - Nettavisen"
+  },
   "moskenes, reine | båten fikk skader igjen: – kort veg til grunnstøting - lofot-tidende": {
     "categories": [
       "havari_berging"
@@ -1010,16 +1040,6 @@
     "source_name": "NRK Vestland",
     "title": "Ny rapport: Meldingar på WhatsApp forseinka redningsaksjonen med to timar"
   },
-  "ofoten skal lære redningsarbeid av litauen": {
-    "categories": [
-      "havari_berging"
-    ],
-    "first_seen": "2026-09-12T09:28:22.141713+00:00",
-    "link": "https://www.nrk.no/nordland/nyhetssenter-nordland-1.15898380#1.18021445.1.18021445",
-    "published": "Fri, 11 Sep 2026 12:22:21 GMT",
-    "source_name": "NRK Nordland",
-    "title": "Ofoten skal lære redningsarbeid av Litauen"
-  },
   "ordførar om ny bru: – beredskapen er veldig viktig": {
     "categories": [
       "infrastruktur"
@@ -1029,6 +1049,26 @@
     "published": "Tue, 22 Sep 2026 14:05:02 GMT",
     "source_name": "NRK Sørlandet",
     "title": "Ordførar om ny bru: – Beredskapen er veldig viktig"
+  },
+  "over 200 fryktes omkommet i forlis utenfor djibouti - abc nyheter": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-10-12T13:21:09.122851+00:00",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ1paa1lRbUV4TzhJeU1iNXkyTnlUZGllVk5WOG9vbUNfdlBzRUhBdHRsY0V0dDlIWS1SdnkydVhNemw3WFRoQmM2cWNyYXdJTlQyMjZXdlJJal8yOGlXMTl2dUw4azNOOXUyYlAtdEZYQ3NvVUhVc0lhajMzaldzWHhuNTdiTzZoQ1JFRG1EaHhHMEEtdlRtdg?oc=5",
+    "published": "Sun, 11 Oct 2026 09:18:15 GMT",
+    "source_name": "GNews: grunnstøting/forlis",
+    "title": "Over 200 fryktes omkommet i forlis utenfor Djibouti - ABC Nyheter"
+  },
+  "over 200 fryktes omkommet i forlis utenfor djibouti - tv 2": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-10-12T13:21:09.122851+00:00",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdGg0Z09UX2dDNVk1LW1Ba0hYTzVoWXBhRG9kWi1MeUhnU0I5VlVHOUYtbExVOXNuV0tMSTF0TTRWRU5FRkxxSDVNYkJzUm1KQ3pPSnFUcFR4akkxVGZBQ3hhTi04WTlJVEUtQjBHMnA5WElleklyeW1WX2lxcFgwV0swSnMzMzM0clZRcjBlcFp4OVF0MnVkQW5ZN0pEbUpqRThUa0JTNnRtak5NSHpLUzZfTnJZOHRPa3R6OVVkNkZIYlZQVE53VHoxckFYVl9oNFNqcFdBSmZOR2M?oc=5",
+    "published": "Sun, 11 Oct 2026 10:52:01 GMT",
+    "source_name": "GNews: grunnstøting/forlis",
+    "title": "Over 200 fryktes omkommet i forlis utenfor Djibouti - TV 2"
   },
   "politiet i da nang gjennomfører øvelser for å redde 24 personer som er fanget etter at en båt kantret under en storm. - vietnam.vn": {
     "categories": [
@@ -1290,16 +1330,6 @@
     "source_name": "Teknisk Ukeblad (TU.no)",
     "title": "Strekker seg langt for havvind"
   },
-  "støre vil fjerne nødbremsen i kraftsaker – men den er nesten aldri i bruk": {
-    "categories": [
-      "infrastruktur"
-    ],
-    "first_seen": "2026-09-12T09:28:22.141713+00:00",
-    "link": "https://www.nrk.no/nordland/statsforvalterne-har-ikke-hatt-sa-mange-innsigelser-mot-kraftetablering-1.17986670",
-    "published": "Sat, 12 Sep 2026 06:54:55 GMT",
-    "source_name": "NRK Nordland",
-    "title": "Støre vil fjerne nødbremsen i kraftsaker – men den er nesten aldri i bruk"
-  },
   "suksesshistoria om fjellreven – nesten som tigeren": {
     "categories": [
       "havari_berging"
@@ -1370,16 +1400,6 @@
     "source_name": "GNews: grunnstøting/forlis",
     "title": "Tre personer fortsatt savnet etter forlis: Avslutter søket - Nettavisen"
   },
-  "varsler erstatningskrav mot bane nor etter riving av omstridt bygg": {
-    "categories": [
-      "industri"
-    ],
-    "first_seen": "2026-09-12T09:28:22.141713+00:00",
-    "link": "https://www.nrk.no/trondelag/svartlamon-boligstiftelse-varsler-erstatningskrav-mot-bane-nor-etter-de-rev-strandveien-23-1.18022336",
-    "published": "Fri, 11 Sep 2026 20:10:34 GMT",
-    "source_name": "NRK Trøndelag",
-    "title": "Varsler erstatningskrav mot Bane Nor etter riving av omstridt bygg"
-  },
   "varsler historisk it-løft i politiet – og drysser 190 mill. på nsm": {
     "categories": [
       "industri"
@@ -1439,5 +1459,15 @@
     "published": "Tue, 06 Oct 2026 05:00:00 +0200",
     "source_name": "Teknisk Ukeblad (TU.no)",
     "title": "– Det er som lungenes betydning for kroppen"
+  },
+  "– mattilsynet utfordrer grunnleggende rettssikkerhet": {
+    "categories": [
+      "oppdrett"
+    ],
+    "first_seen": "2026-10-12T13:21:09.122851+00:00",
+    "link": "https://ilaks.no/mattilsynet-utfordrer-grunnleggende-rettssikkerhet/?mtm_campaign=feed_click&mtm_kwd=mattilsynet-utfordrer-grunnleggende-rettssikkerhet&mtm_source=RSS2&mtm_medium=feed",
+    "published": "Sun, 11 Oct 2026 12:33:18 +0000",
+    "source_name": "iLaks",
+    "title": "– Mattilsynet utfordrer grunnleggende rettssikkerhet"
   }
 }
