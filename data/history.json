@@ -9,16 +9,6 @@
     "source_name": "GNews site: Bygg.no",
     "title": "(+) Apila sikret seg bruavtale verdt opptil 100 millioner - Bygg.no"
   },
-  "(+) ber myndighetene starte med lokalitetene - kyst.no": {
-    "categories": [
-      "oppdrett"
-    ],
-    "first_seen": "2026-09-17T10:10:24.410390+00:00",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTjBjVEdabWtjNmNqcDdsTkprUnJoNzdqMlZLbTBCMmV0bjBfWGhBeF9iZDJuRDVJLXR2OV94dTNqdk5aWnNnbXhJaUJXTUhua2VCd2JLcGZvTnQxWDF4eVFfSkdjVFhGaFVYalQtMWpybzJ6ZWhLOG1mTEJBTHVmdURFN1J6SElkc05LbWJzaHRITWlLS1g3aA?oc=5",
-    "published": "Thu, 17 Sep 2026 05:42:02 GMT",
-    "source_name": "GNews site: Kyst.no",
-    "title": "(+) Ber myndighetene starte med lokalitetene - Kyst.no"
-  },
   "(+) fikk smaken på livet på merdkanten - kyst.no": {
     "categories": [
       "oppdrett"
@@ -39,16 +29,6 @@
     "source_name": "GNews site: Bygg.no",
     "title": "(+) Ny leder i Feiring Bruk: – Blir nok annerledes - Bygg.no"
   },
-  "(+) nå skal fremtidens bruer diskuteres - anlegg.bygg.no": {
-    "categories": [
-      "infrastruktur"
-    ],
-    "first_seen": "2026-09-17T10:10:24.410390+00:00",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORE4yWU5zM0g0ZFJpUC1jbS1NUEswOWlDM0NDRTlpU3B0TWlUb25hOV9LLWttOE1VOHBSRGg1SC1GQS1jWVBJYllXNlNlT1lUOWR4Nm51ZWIzeGZvY1lQb0NIVEdndXluM042Q0RvTjVGU1dMZkdCQXZ6WEVMOFcyY1A1S2ZBdm03UkxCWENNVUM?oc=5",
-    "published": "Tue, 15 Sep 2026 12:04:18 GMT",
-    "source_name": "GNews site: Bygg.no",
-    "title": "(+) Nå skal fremtidens bruer diskuteres - anlegg.bygg.no"
-  },
   "(+) saget hull i fabrikk­veggen for verdens høyeste flagg­stang i tre - bygg.no": {
     "categories": [
       "industri"
@@ -68,16 +48,6 @@
     "published": "Wed, 07 Oct 2026 09:35:06 GMT",
     "source_name": "GNews site: Kyst.no",
     "title": "(+) Sier nei til nedsenkbare merder - Kyst.no"
-  },
-  "(+) skal teste undervanns­robot for mudring - anlegg.bygg.no": {
-    "categories": [
-      "infrastruktur"
-    ],
-    "first_seen": "2026-09-17T10:10:24.410390+00:00",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSnRfUmwxcGdsckhyYmhkTFJuWGVNTzVjeWQ4aVFGZ0p1WlYtbTlDc0Fmek1GdXZoeENyZjRpLVZtSXRlcXZWUlBBc1phM1dDb0JRRXplNHlvOHpRWGNhS2dPQmxBV05UUVMzaWhUSVNkVFI5dHV1NFJqdE1zVV9zdG5jRTFRMWVuYV9pSHViU2tiRTg?oc=5",
-    "published": "Thu, 17 Sep 2026 08:39:34 GMT",
-    "source_name": "GNews site: Bygg.no",
-    "title": "(+) Skal teste undervanns­robot for mudring - anlegg.bygg.no"
   },
   "(+) skal teste undervanns­robot for mudring - anlegg.no": {
     "categories": [
@@ -260,6 +230,16 @@
     "source_name": "iLaks",
     "title": "Brønnbåt Nord sikrer seg nybygg ved spansk verft"
   },
+  "båt med ti personer har grunnstøtt": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-10-18T09:44:51.553362+00:00",
+    "link": "https://www.nrk.no/nordland/lastebat-har-gatt-pa-grunn-utenfor-bodo-1.18057813",
+    "published": "Sun, 18 Oct 2026 09:14:34 GMT",
+    "source_name": "NRK Nordland",
+    "title": "Båt med ti personer har grunnstøtt"
+  },
   "båt, ankenes | båt har grunnstøtt på ankenes: etterlyser eier – og det brennkvikt - fremover": {
     "categories": [
       "havari_berging"
@@ -299,6 +279,16 @@
     "published": "Mon, 28 Sep 2026 12:02:34 GMT",
     "source_name": "GNews site: IntraFish",
     "title": "Egil Kristoffersen og sønner søker på ny om lokalitet i omstridt område (+) - intrafish.no"
+  },
+  "elleve savnet etter kantring i mexico – overlevende bitt av hai - abc nyheter": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-10-18T09:44:51.553362+00:00",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMkhScjBTaWdVeUdlc292SG90NUZKRDRnQ01JLUpGemp2M1laOThmRTNMMUYxaGFrVndhSjdMZVo4VC1ldTB4MUV6ZWJ4dmVrYVN1MFRLVG03MXBKWVhPc21CTWdXNkp3VUlhYXphZjBmbC1qLTUwTU85d0pQRzNubHBwLWRPYzNEdmFzU25WNV9Yc0lQTVpMRFhGLUsyTm9PaHBGUEVn?oc=5",
+    "published": "Sun, 18 Oct 2026 02:11:39 GMT",
+    "source_name": "GNews: kantring/vrak/berging",
+    "title": "Elleve savnet etter kantring i Mexico – overlevende bitt av hai - ABC Nyheter"
   },
   "erko settefisk blir pilotkunde for omniras": {
     "categories": [
@@ -360,6 +350,16 @@
     "source_name": "NRK Troms og Finnmark",
     "title": "Fire kinesere fløy drone over Nato-kai"
   },
+  "flys til ullevål sykehus etter dykkerulykke: – ukjent skadeomfang": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-10-18T09:44:51.553362+00:00",
+    "link": "https://www.nrk.no/sorlandet/luftambulanse-kalt-ut-_-dykker-skal-ha-fatt-problemer-1.18057833",
+    "published": "Sun, 18 Oct 2026 08:53:10 GMT",
+    "source_name": "NRK Sørlandet",
+    "title": "Flys til Ullevål sykehus etter dykkerulykke: – Ukjent skadeomfang"
+  },
   "fn: minst 139 mennesker omkom da båt kantret utenfor djibouti – 116 savnet - aftenposten": {
     "categories": [
       "havari_berging"
@@ -410,6 +410,16 @@
     "source_name": "GNews: sjøkabel/sjøledning",
     "title": "Forkastar sjøkabel og nytt fjordspenn - morenytt.no"
   },
+  "forsvarsevne kan ikke hastebestilles": {
+    "categories": [
+      "infrastruktur"
+    ],
+    "first_seen": "2026-10-18T09:44:51.553362+00:00",
+    "link": "https://www.tu.no/debatt/forsvarsevne-kan-ikke-hastebestilles/7146119",
+    "published": "Sun, 18 Oct 2026 07:41:49 +0200",
+    "source_name": "Teknisk Ukeblad (TU.no)",
+    "title": "Forsvarsevne kan ikke hastebestilles"
+  },
   "full storm langs kysten: førte til stengde vegar og innstilte ferjer": {
     "categories": [
       "infrastruktur"
@@ -430,6 +440,16 @@
     "source_name": "iLaks",
     "title": "Grieg tapte 1.000 tonn biomasse av gjelleskader fra algeangrep"
   },
+  "grunnstøting, blålys | båt med ti personer om bord har grunnstøtt - lofotposten": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-10-18T09:44:51.553362+00:00",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMFgzVW52YlhoYjdQamk0MHFEQXI2N0tvVjA3Z3dyQU5XSV9FNFh1c1J3VURXMmRhRS1WZ0lTTkE1VERXdklzRDVhUC1pYnhPVXNsLVl6SDRRZDNwZDhlYkl3NUJSS2s2VHJMLTVTcVlkX2hQZXA1clhNUU9uMDk4VUpBTUJZVERjb0dV?oc=5",
+    "published": "Sun, 18 Oct 2026 09:06:33 GMT",
+    "source_name": "GNews: grunnstøting/forlis",
+    "title": "Grunnstøting, Blålys | Båt med ti personer om bord har grunnstøtt - Lofotposten"
+  },
   "grunnstøting, gisundet | feilvurderte – gikk på grunn - nordlys": {
     "categories": [
       "havari_berging"
@@ -449,6 +469,16 @@
     "published": "Sun, 20 Sep 2026 13:05:52 GMT",
     "source_name": "GNews: grunnstøting/forlis",
     "title": "Grunnstøting, Gisundet | Fulgte ikke hovedleden før de gikk på grunn: – Vi ønsker ikke å trekke konklusjoner - Nordlys"
+  },
+  "grunnstøting, hovedredningssentralen nord-norge | båt med 10 personer om bord grunnstøtte ved bodø - rana blad": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-10-18T09:44:51.553362+00:00",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZG5tS3JPUERhM1NqU0JBcjJ1aEkycFpQRWxrOURSLWhheWRCcFZ3ZXBlaUEzRG8wbkVkNFZ5NlhveE9CSHoyTlNXUlhmclZxUmFQYkIxQlotczJvVW5kWXZtM2VTRU45aWI5SS1JQWlka0hEeHBNTjg5S3NBTG1VYTJmNzl6TjVlU3I4aExHVQ?oc=5",
+    "published": "Sun, 18 Oct 2026 09:03:04 GMT",
+    "source_name": "GNews: grunnstøting/forlis",
+    "title": "Grunnstøting, Hovedredningssentralen Nord-Norge | Båt med 10 personer om bord grunnstøtte ved Bodø - Rana Blad"
   },
   "hamarøy, trafikk | har ventet i timevis på hjelp – nå er slepebåten på plass - avisa nordland": {
     "categories": [
@@ -550,15 +580,15 @@
     "source_name": "NRK Møre og Romsdal",
     "title": "Her kolliderer dei tre skipa med kvarandre: – Eg trudde det var krig"
   },
-  "horten kommune får tillatelse til å vrake fire båter: – myndighets­misbruk, mener advokat": {
+  "hurtigbåten truer med å innstille avganger i musken: – vi må tenke på sikkerhet": {
     "categories": [
-      "havari_berging"
+      "infrastruktur"
     ],
-    "first_seen": "2026-09-17T10:10:24.410390+00:00",
-    "link": "https://www.nrk.no/vestfoldogtelemark/horten-kommune-vant-i-retten-mot-batfolge-1.18026761",
-    "published": "Wed, 16 Sep 2026 10:57:28 GMT",
-    "source_name": "NRK Vestfold og Telemark",
-    "title": "Horten kommune får tillatelse til å vrake fire båter: – Myndighets­misbruk, mener advokat"
+    "first_seen": "2026-10-18T09:44:51.553362+00:00",
+    "link": "https://www.nrk.no/sapmi/hurtigbaten-truer-med-a-innstille-avganger-i-musken_-_-vi-ma-tenke-pa-sikkerhet-1.18055596",
+    "published": "Fri, 16 Oct 2026 18:06:22 GMT",
+    "source_name": "NRK Nordland",
+    "title": "Hurtigbåten truer med å innstille avganger i Musken: – Vi må tenke på sikkerhet"
   },
   "høyre gir grønt lys: sikrer framtiden til gigantisk havvindprosjekt": {
     "categories": [
@@ -609,16 +639,6 @@
     "published": "Wed, 14 Oct 2026 07:27:49 +0200",
     "source_name": "Teknisk Ukeblad (TU.no)",
     "title": "I dag starter rettssaken"
-  },
-  "ila påvist hos salmar i namsos": {
-    "categories": [
-      "oppdrett"
-    ],
-    "first_seen": "2026-09-17T10:10:24.410390+00:00",
-    "link": "https://ilaks.no/ila-pavist-hos-salmar-i-namsos/?mtm_campaign=feed_click&mtm_kwd=ila-pavist-hos-salmar-i-namsos&mtm_source=RSS2&mtm_medium=feed",
-    "published": "Thu, 17 Sep 2026 09:18:00 +0000",
-    "source_name": "iLaks",
-    "title": "ILA påvist hos SalMar i Namsos"
   },
   "ila påvist på salmar-lokalitet - kyst.no": {
     "categories": [
@@ -689,16 +709,6 @@
     "published": "Mon, 28 Sep 2026 20:35:39 GMT",
     "source_name": "NRK Troms og Finnmark",
     "title": "Kaiformann i retten: – Lurte på om eg hadde drepe nokon"
-  },
-  "kaiformannens forsvarer raser mot politiet og aktor (+) - fiskeribladet": {
-    "categories": [
-      "infrastruktur"
-    ],
-    "first_seen": "2026-09-17T10:10:24.410390+00:00",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRVB1OVRpeUtwclhsalBzd05tTndxdFhnWG5sOEIxS3pIb09hTmpWazR5a0JfLWhoRmVQQ1JhbnkxLVE0dzB3VDdMaVM5eDU4NXJDeWozaS1VbFByQzZOdG1sLXVTSUlhWVNMbFotM3hiY3dfQkVtZ1U2X1lKdEZqLWFueEZFN3l4RlRMcFJZSU9SdWRqWTBJeUx3dXk3bEJPOEE?oc=5",
-    "published": "Thu, 17 Sep 2026 09:45:45 GMT",
-    "source_name": "GNews site: Fiskeribladet",
-    "title": "Kaiformannens forsvarer raser mot politiet og aktor (+) - Fiskeribladet"
   },
   "kaiformannens skyggeregnskap er hovedbevis i fiskekrimsaken (+) - fiskeribladet": {
     "categories": [
@@ -839,16 +849,6 @@
     "published": "Wed, 23 Sep 2026 08:42:04 GMT",
     "source_name": "GNews: grunnstøting/forlis",
     "title": "Mann til sykehus etter grunnstøting – politiet mistenker rus - Radio Haugaland"
-  },
-  "mener meldinger avslører kaiformannen: «ha auan åpen etter de blank knappan» (+) - fiskeribladet": {
-    "categories": [
-      "infrastruktur"
-    ],
-    "first_seen": "2026-09-17T10:10:24.410390+00:00",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVS1aaGNlWW40WnhXRTdSZzlyUTBQaGNCeVFpeFBzUy12SDZIdlhvaFVyZDI5OVFqZS1UcDUyMzlTVTBSWGJHUkt5X0E4Uk1PTjJ5NWItN3lTN0lZWEFXX2Q0UkZEVmN0OVJYSzBudGNKTGRpRHUxOHZRWGp0bkJxZ0RJWEdTYWNfcWFSREdsd2o1SVlTWVEtTU1MY2oxSmc0Zmx6d3JsaFI5UDhiT2xvbnU1SE90Y2tjOTR0SUNtX3A?oc=5",
-    "published": "Thu, 17 Sep 2026 03:14:44 GMT",
-    "source_name": "GNews site: Fiskeribladet",
-    "title": "Mener meldinger avslører kaiformannen: «Ha auan åpen etter de blank knappan» (+) - Fiskeribladet"
   },
   "migrantbåt, forlis | minst 139 døde og 84 savnet etter forlis utenfor kysten av djibouti, opplyser fn-organisasjon - nettavisen": {
     "categories": [
@@ -1020,16 +1020,6 @@
     "source_name": "NRK Vestland",
     "title": "Redningsaksjon ved Ryvarden fyr - to personar berga"
   },
-  "regjeringen har brukt sju millioner på advokater for å motkjempe trump-toll - bygg.no": {
-    "categories": [
-      "infrastruktur"
-    ],
-    "first_seen": "2026-09-17T10:10:24.410390+00:00",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLTBoQXNhWkhhcGNxWk11VkxLMWVCQ2xLTElHRjJpWnZHVWYyRTNORm82WFhEMmM5VVRoTTcxVXdZSWJhTnVYeGVibXFCOUh2WEphTU15dUY5djZfYXk3WHBEby00Ukc2c25EUzN0RVJCVE1iaUxXNXBXX0l5VlVNUTZDVHFMS3VmeVpCME9WN3lFNzVFLXFsNXI4aUJqXy04LXBfeXVR?oc=5",
-    "published": "Wed, 16 Sep 2026 18:51:50 GMT",
-    "source_name": "GNews site: Bygg.no",
-    "title": "Regjeringen har brukt sju millioner på advokater for å motkjempe Trump-toll - Bygg.no"
-  },
   "regjeringen vil bruke 650 millioner kroner på ny rakettrampe på andøya - bygg.no": {
     "categories": [
       "infrastruktur"
@@ -1101,16 +1091,6 @@
     "source_name": "iLaks",
     "title": "Salthammer Båtbyggeri har overlevert sitt første nybygg til Freyja Fleet Management"
   },
-  "satser med egen avdeling for akvakultur - kyst.no": {
-    "categories": [
-      "oppdrett"
-    ],
-    "first_seen": "2026-09-17T10:10:24.410390+00:00",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYmNKa1d0VC00Z01YQlBjX0dhbVRFeFZiTzk5X0JfcFJFUHpOWEt5V04wVC1TaDN1RGZVZWNTdmRUSUlIRVhUZzBoM2l0UkNVN3l0MURQNGVHWWdYcktGOFVhVVJfU2tQbnlSVWgxR1psb2l4U0hDVWhGc083NElhelZlUzVwc2RWbjdQdQ?oc=5",
-    "published": "Thu, 17 Sep 2026 07:19:34 GMT",
-    "source_name": "GNews site: Kyst.no",
-    "title": "Satser med egen avdeling for akvakultur - Kyst.no"
-  },
   "satser med egen divisjon for akvakultur - kyst.no": {
     "categories": [
       "oppdrett"
@@ -1130,26 +1110,6 @@
     "published": "Thu, 17 Sep 2026 13:12:56 +0000",
     "source_name": "iLaks",
     "title": "Satsing på større fisk bar frukter for Hardingsmolt"
-  },
-  "sjekk listen over hvilke fiskeri - og havbruksfartøy som er under bygging – og er levert i år (+) - fiskeribladet": {
-    "categories": [
-      "oppdrett"
-    ],
-    "first_seen": "2026-09-17T10:10:24.410390+00:00",
-    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdVRRejZaV1hpSy1xTjUtbmZnZmhCN0dZUGJfckl5LXhMNXhpQzUtMC1jYk9HeUowSXJMbF9iZW5HclpPS012TTZ3ekhpOXJZelhkX1BNdm9JMHFDMzBDQ0p6Sm1zVkd6Sl9xZ29HX0ppZ2FKTmI5VzhTQnNPSExJTnFCVDdpV2lMNUhyVW0zUlcyQUlEdUp6OFFkWGNHdVh2ZVlYRkR5djJnWTJuaUlWMXgxQnpxcHBtdG1IdW0tTWNsc1VBd2ZscWlHRlc4bWtxYWV3N3RydmE?oc=5",
-    "published": "Thu, 17 Sep 2026 03:10:04 GMT",
-    "source_name": "GNews site: Fiskeribladet",
-    "title": "Sjekk listen over hvilke fiskeri - og havbruksfartøy som er under bygging – og er levert i år (+) - Fiskeribladet"
-  },
-  "sjekk listen over hvilke havbruks- og fiskefartøy som er under bygging – og er levert i år (+) - intrafish": {
-    "categories": [
-      "oppdrett"
-    ],
-    "first_seen": "2026-09-17T10:10:24.410390+00:00",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNa3pYcE5PUFRvR1hNZzRYR0NQQUdQdEpKNDV5V0pQemNha0FxRFk2R1p0d3hYTUNqZHQ2VDdMQ3gtemxPSnJMZmczeFJvS0U0VktKTUR6bmJHQjZsX3R2SVdzdy1vaEdPR1RVS2lkbEhBdFgwSTBXa3k5OW9pWEJUZjVTcGZIUFpZRWhsTUVTNjlXTHNuMGFFQXI4alNLWWUyNXV3UndUMXlSY2JTaUVxWGctTlJvRzEyX1RUb085MEN5dnpNMW5HQ1RB?oc=5",
-    "published": "Wed, 16 Sep 2026 04:24:01 GMT",
-    "source_name": "GNews site: IntraFish",
-    "title": "Sjekk listen over hvilke havbruks- og fiskefartøy som er under bygging – og er levert i år (+) - Intrafish"
   },
   "sjøkabel avslørte eus politikk - forskning.no": {
     "categories": [
@@ -1400,6 +1360,16 @@
     "published": "Tue, 29 Sep 2026 10:14:15 GMT",
     "source_name": "NRK Nordland",
     "title": "Varsler tvangsmulkt mot KI-senter i Narvik"
+  },
+  "vil ha sjøkabel tilbake på bordet - morenytt.no": {
+    "categories": [
+      "infrastruktur"
+    ],
+    "first_seen": "2026-10-18T09:44:51.553362+00:00",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYmxpVGZYYnlEMU9DWFMyZmVmV0paOHNXUFFWQVVEM3VRSXhIUWNiYUJFdXBQM2ZKRF9EMHR1SXp5d1hzVVhRSGpoWERkNkNiTjhYbzJSdzNRNEZWLUxpcHkydUZzWmJQOHFDbXUycS1iMHZnMDFDVkJOd3AxbE11eWNwSQ?oc=5",
+    "published": "Sat, 17 Oct 2026 09:30:00 GMT",
+    "source_name": "GNews: sjøkabel/sjøledning",
+    "title": "Vil ha sjøkabel tilbake på bordet - morenytt.no"
   },
   "vil rive fabrikken og bygge 120 nye leiligheter: – vi snakker noen hundre millioner kroner - agderposten.no": {
     "categories": [
