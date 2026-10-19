@@ -49,16 +49,6 @@
     "source_name": "GNews site: Kyst.no",
     "title": "(+) Sier nei til nedsenkbare merder - Kyst.no"
   },
-  "(+) skal teste undervanns­robot for mudring - anlegg.no": {
-    "categories": [
-      "infrastruktur"
-    ],
-    "first_seen": "2026-09-18T09:56:28.084372+00:00",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSnRfUmwxcGdsckhyYmhkTFJuWGVNTzVjeWQ4aVFGZ0p1WlYtbTlDc0Fmek1GdXZoeENyZjRpLVZtSXRlcXZWUlBBc1phM1dDb0JRRXplNHlvOHpRWGNhS2dPQmxBV05UUVMzaWhUSVNkVFI5dHV1NFJqdE1zVV9zdG5jRTFRMWVuYV9pSHViU2tiRTg?oc=5",
-    "published": "Thu, 17 Sep 2026 08:39:34 GMT",
-    "source_name": "GNews site: Bygg.no",
-    "title": "(+) Skal teste undervanns­robot for mudring - Anlegg.no"
-  },
   "(+) startar arbeidet med ny sjøkabel til reksteren - tysnesbladet": {
     "categories": [
       "infrastruktur"
@@ -140,15 +130,15 @@
     "source_name": "GNews site: Kyst.no",
     "title": "Advarer om havbruk til havs - Kyst.no"
   },
-  "aftenposten: knusende rapport om karbonfangstanlegg i oslo": {
+  "amokabel er valgt til kabelleverandør til et av europas største landbaserte oppdrettsanlegg": {
     "categories": [
-      "industri"
+      "oppdrett"
     ],
-    "first_seen": "2026-09-19T09:37:47.744314+00:00",
-    "link": "https://www.nrk.no/stor-oslo/knusende-rapport-om-karbonfangstanlegget-pa-klemetsrud-i-oslo-1.18029273",
-    "published": "Fri, 18 Sep 2026 12:14:19 GMT",
-    "source_name": "NRK Østlandssendingen",
-    "title": "Aftenposten: Knusende rapport om karbonfangstanlegg i Oslo"
+    "first_seen": "2026-10-19T10:59:58.779200+00:00",
+    "link": "https://ilaks.no/amokabel-er-valgt-til-kabelleverandor-til-et-av-europas-storste-landbaserte-oppdrettsanlegg/?mtm_campaign=feed_click&mtm_kwd=amokabel-er-valgt-til-kabelleverandor-til-et-av-europas-storste-landbaserte-oppdrettsanlegg&mtm_source=RSS2&mtm_medium=feed",
+    "published": "Mon, 19 Oct 2026 10:23:43 +0000",
+    "source_name": "iLaks",
+    "title": "Amokabel er valgt til kabelleverandør til et av Europas største landbaserte oppdrettsanlegg"
   },
   "avsluttar redningsaksjon i bergen utan funn": {
     "categories": [
@@ -189,6 +179,16 @@
     "published": "Tue, 29 Sep 2026 06:35:02 +0000",
     "source_name": "iLaks",
     "title": "Bluefront kjøper aksjemajoriteten i Alvestad Marin"
+  },
+  "brann på fiskebåt: fire personer funnet på flåte": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-10-19T10:59:58.779200+00:00",
+    "link": "https://www.nrk.no/sorlandet/brann-pa-fiskebat_-fire-personer-funnet-pa-flate-1.18057957",
+    "published": "Sun, 18 Oct 2026 13:35:03 GMT",
+    "source_name": "NRK Vestfold og Telemark",
+    "title": "Brann på fiskebåt: Fire personer funnet på flåte"
   },
   "brugata 3 - byggeprosjekter": {
     "categories": [
@@ -350,6 +350,16 @@
     "source_name": "NRK Troms og Finnmark",
     "title": "Fire kinesere fløy drone over Nato-kai"
   },
+  "flakstad uten mobildekning siden fredag: – trolig brudd på sjøkabel - lofotposten": {
+    "categories": [
+      "infrastruktur"
+    ],
+    "first_seen": "2026-10-19T10:59:58.779200+00:00",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOS3IxaXNQNl9fQ09pNnFrc0ZLMmlRMFllVnlXdWpqWmFka2VaQ2pjdUs3c1BWVDYtR1lIb1BXWS16c2N1eEs2SmVSWWowSFJNVG50alJtVWFtUFBONHZKclR0WlV1SUQ1SHBheFNXb0Q0b1pXUGtNdk5nNWZ0TUthSTlrZ0p4UDVsM0IxNEdJOWdwQ0diQUVodk1JaXljR0pyLWNGdk84aFlMWnQ5clE?oc=5",
+    "published": "Sat, 17 Oct 2026 15:51:05 GMT",
+    "source_name": "GNews: sjøkabel/sjøledning",
+    "title": "Flakstad uten mobildekning siden fredag: – Trolig brudd på sjøkabel - Lofotposten"
+  },
   "flys til ullevål sykehus etter dykkerulykke: – ukjent skadeomfang": {
     "categories": [
       "havari_berging"
@@ -439,6 +449,16 @@
     "published": "Fri, 02 Oct 2026 17:21:50 +0000",
     "source_name": "iLaks",
     "title": "Grieg tapte 1.000 tonn biomasse av gjelleskader fra algeangrep"
+  },
+  "grunnstøting, blålys | båt med ti personer om bord grunnstøtte - lofotposten": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-10-19T10:59:58.779200+00:00",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMFgzVW52YlhoYjdQamk0MHFEQXI2N0tvVjA3Z3dyQU5XSV9FNFh1c1J3VURXMmRhRS1WZ0lTTkE1VERXdklzRDVhUC1pYnhPVXNsLVl6SDRRZDNwZDhlYkl3NUJSS2s2VHJMLTVTcVlkX2hQZXA1clhNUU9uMDk4VUpBTUJZVERjb0dV?oc=5",
+    "published": "Sun, 18 Oct 2026 13:31:20 GMT",
+    "source_name": "GNews: grunnstøting/forlis",
+    "title": "Grunnstøting, Blålys | Båt med ti personer om bord grunnstøtte - Lofotposten"
   },
   "grunnstøting, blålys | båt med ti personer om bord har grunnstøtt - lofotposten": {
     "categories": [
@@ -640,16 +660,6 @@
     "source_name": "Teknisk Ukeblad (TU.no)",
     "title": "I dag starter rettssaken"
   },
-  "ila påvist på salmar-lokalitet - kyst.no": {
-    "categories": [
-      "oppdrett"
-    ],
-    "first_seen": "2026-09-18T09:56:28.084372+00:00",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBZdG5OaUJmZEg2TDZzMG9EUVJoYmdVWGJFYWhIQk9MbUNsSHl2Wk5GZXpmYnBBRGo3MUE5NlcteHdINXM1ZEd5RUpqeDVFRXhkV2s4RzlQS0RqZHNwVXlQaHgyQWJZQzZqQTByNEFIQ2l4MXphWVJodQ?oc=5",
-    "published": "Thu, 17 Sep 2026 14:00:06 GMT",
-    "source_name": "GNews site: Kyst.no",
-    "title": "ILA påvist på Salmar-lokalitet - Kyst.no"
-  },
   "ila påvist ved lokalitet i salten-området": {
     "categories": [
       "oppdrett"
@@ -769,16 +779,6 @@
     "published": "Tue, 22 Sep 2026 17:14:48 GMT",
     "source_name": "GNews: ny kai/molo/bru",
     "title": "Karmsund Havn får 61 millioner til ny kai på Husøy - Radio Haugaland"
-  },
-  "kinesisk lakseprodusent sikter på volumhopp neste år": {
-    "categories": [
-      "oppdrett"
-    ],
-    "first_seen": "2026-09-18T09:56:28.084372+00:00",
-    "link": "https://ilaks.no/kinesisk-lakseprodusent-sikter-pa-volumhopp-neste-ar/?mtm_campaign=feed_click&mtm_kwd=kinesisk-lakseprodusent-sikter-pa-volumhopp-neste-ar&mtm_source=RSS2&mtm_medium=feed",
-    "published": "Thu, 17 Sep 2026 13:56:31 +0000",
-    "source_name": "iLaks",
-    "title": "Kinesisk lakseprodusent sikter på volumhopp neste år"
   },
   "kjevik-brua: må bygge ny innan 5-10 år": {
     "categories": [
@@ -1070,16 +1070,6 @@
     "source_name": "NRK Trøndelag",
     "title": "Rykket ut til brann i næringsbygg – var fare for spredning"
   },
-  "røde tall for vik settefisk": {
-    "categories": [
-      "oppdrett"
-    ],
-    "first_seen": "2026-09-18T09:56:28.084372+00:00",
-    "link": "https://ilaks.no/rode-tall-for-vik-settefisk/?mtm_campaign=feed_click&mtm_kwd=rode-tall-for-vik-settefisk&mtm_source=RSS2&mtm_medium=feed",
-    "published": "Thu, 17 Sep 2026 14:16:48 +0000",
-    "source_name": "iLaks",
-    "title": "Røde tall for Vik Settefisk"
-  },
   "salthammer båtbyggeri har overlevert sitt første nybygg til freyja fleet management": {
     "categories": [
       "infrastruktur",
@@ -1090,26 +1080,6 @@
     "published": "Wed, 14 Oct 2026 13:25:20 +0000",
     "source_name": "iLaks",
     "title": "Salthammer Båtbyggeri har overlevert sitt første nybygg til Freyja Fleet Management"
-  },
-  "satser med egen divisjon for akvakultur - kyst.no": {
-    "categories": [
-      "oppdrett"
-    ],
-    "first_seen": "2026-09-18T09:56:28.084372+00:00",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOc19CV1FSVTJhb01NcXVUNC1mVkNSTWFWYnc2SWRNUWhmelZod28tOU9yUENxRjJkS2FWb3BPZUE2TE4yb21tWTQwNTdaX1lVVW11T1FJQVFtM1lZOEdiRWhvTW81R1Roc1FBVGo4WXZIQk1MZFd6d054SjdTT0ZDV2NyT0laclZ6WFE3cA?oc=5",
-    "published": "Thu, 17 Sep 2026 07:19:34 GMT",
-    "source_name": "GNews site: Kyst.no",
-    "title": "Satser med egen divisjon for akvakultur - Kyst.no"
-  },
-  "satsing på større fisk bar frukter for hardingsmolt": {
-    "categories": [
-      "oppdrett"
-    ],
-    "first_seen": "2026-09-18T09:56:28.084372+00:00",
-    "link": "https://ilaks.no/storsmolt-satsing-baerer-frukter-for-hardingsmolt/?mtm_campaign=feed_click&mtm_kwd=storsmolt-satsing-baerer-frukter-for-hardingsmolt&mtm_source=RSS2&mtm_medium=feed",
-    "published": "Thu, 17 Sep 2026 13:12:56 +0000",
-    "source_name": "iLaks",
-    "title": "Satsing på større fisk bar frukter for Hardingsmolt"
   },
   "sjøkabel avslørte eus politikk - forskning.no": {
     "categories": [
@@ -1181,6 +1151,16 @@
     "source_name": "GNews site: Kyst.no",
     "title": "Smarte kamerasystemer for landbasert oppdrett - kyst.no"
   },
+  "smelteverket vil bli først i verden: men først må de stå i strømkø": {
+    "categories": [
+      "industri"
+    ],
+    "first_seen": "2026-10-19T10:59:58.779200+00:00",
+    "link": "https://www.nrk.no/tromsogfinnmark/finnfjord-as-vil-bli-forst-i-verden_-men-forst-ma-de-sta-i-stromko-1.18054865",
+    "published": "Mon, 19 Oct 2026 03:15:45 GMT",
+    "source_name": "NRK Troms og Finnmark",
+    "title": "Smelteverket vil bli først i verden: Men først må de stå i strømkø"
+  },
   "startskotet er gått for ny sjøkabel her - marsteinen.no": {
     "categories": [
       "infrastruktur"
@@ -1210,16 +1190,6 @@
     "published": "Fri, 16 Oct 2026 11:47:49 GMT",
     "source_name": "NRK Nordland",
     "title": "Stenger molo etter at turistbåt havnet i fjæra"
-  },
-  "stim kjøper oceva og etablerer nytt rådgivningsselskap": {
-    "categories": [
-      "oppdrett"
-    ],
-    "first_seen": "2026-09-19T09:37:47.744314+00:00",
-    "link": "https://ilaks.no/stim-kjoper-oceva-og-etablerer-nytt-radgivningsselskap/?mtm_campaign=feed_click&mtm_kwd=stim-kjoper-oceva-og-etablerer-nytt-radgivningsselskap&mtm_source=RSS2&mtm_medium=feed",
-    "published": "Fri, 18 Sep 2026 12:13:19 +0000",
-    "source_name": "iLaks",
-    "title": "STIM kjøper OCEVA og etablerer nytt rådgivningsselskap"
   },
   "stor redningsaksjon i øygarden: mann har meldt seg som eigar av båten": {
     "categories": [
@@ -1290,16 +1260,6 @@
     "published": "Wed, 30 Sep 2026 14:46:37 GMT",
     "source_name": "GNews site: Fiskeribladet",
     "title": "Tiltalt fisker konfronterte kaiformannen: – Den boken skal du ikke nevne (+) - Fiskeribladet"
-  },
-  "tog forsinket etter at strømledning ble revet ned": {
-    "categories": [
-      "industri"
-    ],
-    "first_seen": "2026-09-19T09:37:47.744314+00:00",
-    "link": "https://www.nrk.no/sorlandet/stromledning-revet-ned-_-togforsinkelse-1.18029311",
-    "published": "Fri, 18 Sep 2026 12:52:42 GMT",
-    "source_name": "NRK Sørlandet",
-    "title": "Tog forsinket etter at strømledning ble revet ned"
   },
   "tollere undersøker båt etter havari i larvik": {
     "categories": [
