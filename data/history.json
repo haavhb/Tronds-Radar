@@ -19,6 +19,16 @@
     "source_name": "GNews site: Bygg.no",
     "title": "(+) Forsvarer å bruke fire millioner i året på samferdsels­stilling i Brussel - Bygg.no"
   },
+  "(+) lerøy får leggja sjøkabel til djupestallen - tysnesbladet": {
+    "categories": [
+      "infrastruktur"
+    ],
+    "first_seen": "2026-10-30T11:29:17.310631+00:00",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZWFoS29sV1loWVg0clYwb0lROTI0NGFVb2o0YlRmX29tdWVkSFhJTFRMblJzbEJEZjhPcTBpazN1OGYxNTlYVEtSU1hDVXQ0eVJVenFQekZQV1JNNVBMREwxT19vRFpUcXFYcXFtNWpnUUNEdWtXTmJLMHpnUnV4UVAxWjFSalhMYmRvOHN3?oc=5",
+    "published": "Fri, 30 Oct 2026 10:00:00 GMT",
+    "source_name": "GNews: sjøkabel/sjøledning",
+    "title": "(+) Lerøy får leggja sjøkabel til Djupestallen - tysnesbladet"
+  },
   "(+) norsk sjøkabel skal gjøre canada uavhengig av usa - digi.no": {
     "categories": [
       "infrastruktur"
@@ -149,16 +159,6 @@
     "source_name": "NRK Vestland",
     "title": "Avsluttar redningsaksjon i Bergen utan funn"
   },
-  "ber om eit par vilkår for legging av sjøkabel - vikebladet.no": {
-    "categories": [
-      "infrastruktur"
-    ],
-    "first_seen": "2026-09-30T11:15:01.591070+00:00",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQc1pOc1NzS3ZodVo5Vk9CbnB5cU5lX3YwR3cyVXY2VlZwWm9LN0tFdmNjTGZRYWRNUzQyZTZsU0ZZVW9fU1JNTThTZkEyWXAtaklBR2ZpbUEtdW1DMXA0eW1QTXFJQlJONmp6UW1seEpzUGd4blNhOE9hMm9qOS0wVU00dUN5WC14N0pBc29PWHZsN2sz?oc=5",
-    "published": "Wed, 30 Sep 2026 04:00:00 GMT",
-    "source_name": "GNews: sjøkabel/sjøledning",
-    "title": "Ber om eit par vilkår for legging av sjøkabel - vikebladet.no"
-  },
   "biomassen flater ut – på høyt nivå": {
     "categories": [
       "oppdrett"
@@ -188,16 +188,6 @@
     "published": "Fri, 23 Oct 2026 07:49:33 GMT",
     "source_name": "GNews: sjøkabel/sjøledning",
     "title": "Brudd i sjøkabel – uten dekning i en uke - vaganavisa.no"
-  },
-  "brugata 3 - byggeprosjekter.bygg.no": {
-    "categories": [
-      "infrastruktur"
-    ],
-    "first_seen": "2026-09-30T11:15:01.591070+00:00",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9fWlVMakwtYzNVNDZKdEtLOG9TMVQ2VDhWVUloaDZ1aXNuekQ1ZnBfamdCcFBET3F3TzZBZlZiYUxfVFA3WGpYOVBuN0lFMTl5aXpMRVVLVUJvVXprdy11Q3VtWXdhRXZLOURN?oc=5",
-    "published": "Tue, 29 Sep 2026 07:00:41 GMT",
-    "source_name": "GNews site: Bygg.no",
-    "title": "Brugata 3 - byggeprosjekter.bygg.no"
   },
   "båt med ti personer har grunnstøtt": {
     "categories": [
@@ -238,6 +228,16 @@
     "published": "Sun, 18 Oct 2026 02:11:39 GMT",
     "source_name": "GNews: kantring/vrak/berging",
     "title": "Elleve savnet etter kantring i Mexico – overlevende bitt av hai - ABC Nyheter"
+  },
+  "enova gir 3,9 milliarder til to flytende havvindanlegg": {
+    "categories": [
+      "industri"
+    ],
+    "first_seen": "2026-10-30T11:29:17.310631+00:00",
+    "link": "https://www.tu.no/energi/endelig-havvind-svar-enova-gir-39-milliarder-til-to-flytende-havvindanlegg/7179951",
+    "published": "Fri, 30 Oct 2026 08:53:49 +0100",
+    "source_name": "Teknisk Ukeblad (TU.no)",
+    "title": "Enova gir 3,9 milliarder til to flytende havvindanlegg"
   },
   "erko settefisk blir pilotkunde for omniras": {
     "categories": [
@@ -428,6 +428,16 @@
     "published": "Mon, 05 Oct 2026 13:56:36 GMT",
     "source_name": "NRK Trøndelag",
     "title": "Full storm langs kysten: Førte til stengde vegar og innstilte ferjer"
+  },
+  "får milliardbeløp for å gjøre havvind billigere": {
+    "categories": [
+      "industri"
+    ],
+    "first_seen": "2026-10-30T11:29:17.310631+00:00",
+    "link": "https://www.nrk.no/rogaland/enova-bevilger-4-milliarder-til-prosjekt-som-skal-gjore-havvind-billigere-1.18069163",
+    "published": "Fri, 30 Oct 2026 10:16:12 GMT",
+    "source_name": "NRK Rogaland",
+    "title": "Får milliardbeløp for å gjøre havvind billigere"
   },
   "grieg tapte 1.000 tonn biomasse av gjelleskader fra algeangrep": {
     "categories": [
@@ -668,16 +678,6 @@
     "published": "Wed, 14 Oct 2026 07:27:49 +0200",
     "source_name": "Teknisk Ukeblad (TU.no)",
     "title": "I dag starter rettssaken"
-  },
-  "innlegg: vi må lære kunsten å bruke det gamle på nytt - bygg.no": {
-    "categories": [
-      "infrastruktur"
-    ],
-    "first_seen": "2026-09-30T11:15:01.591070+00:00",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWHl4dURaQmE4bGl3VDFBZXBIM2Z2N2E3WndSYU5aM1FJcG5ra2hDdmsxY3FQYjFVM19QOHh3dzhLemxCMHVfWjlWOXE1YmpQelZ2WWFnaWtMUmhLS2RhazhYVUl1UTAyV0cyS1ZRdWE4aFhFa3YzMVNSajViZWRVcUFDM3o2bkhPaUtUOEFSeTVOUDBBcTlKLXlWRGxzZVhORWZ5S3FKcWpQTVdzWTh1RFp3cWU4VHN5Y2FXV0NLRmt4bS1DTmc?oc=5",
-    "published": "Wed, 30 Sep 2026 09:42:38 GMT",
-    "source_name": "GNews site: Bygg.no",
-    "title": "Innlegg: Vi må lære kunsten å bruke det gamle på nytt - Bygg.no"
   },
   "kaiformannens skyggeregnskap er hovedbevis i fiskekrimsaken (+) - fiskeribladet": {
     "categories": [
@@ -972,6 +972,16 @@
     "source_name": "GNews: grunnstøting/forlis",
     "title": "Over 200 fryktes omkommet i forlis utenfor Djibouti - TV 2"
   },
+  "pareto: – flere tilbakeslag enn jubelscener for landbasert oppdrett": {
+    "categories": [
+      "oppdrett"
+    ],
+    "first_seen": "2026-10-30T11:29:17.310631+00:00",
+    "link": "https://ilaks.no/pareto-flere-tilbakeslag-enn-jubelscener-for-landbasert-oppdrett/?mtm_campaign=feed_click&mtm_kwd=pareto-flere-tilbakeslag-enn-jubelscener-for-landbasert-oppdrett&mtm_source=RSS2&mtm_medium=feed",
+    "published": "Thu, 29 Oct 2026 16:22:56 +0000",
+    "source_name": "iLaks",
+    "title": "Pareto: – Flere tilbakeslag enn jubelscener for landbasert oppdrett"
+  },
   "redningsaksjon etter tenåring i hadsel": {
     "categories": [
       "havari_berging"
@@ -991,16 +1001,6 @@
     "published": "Mon, 12 Oct 2026 18:50:06 GMT",
     "source_name": "NRK Møre og Romsdal",
     "title": "Redningsaksjon i Innfjorden"
-  },
-  "regjeringen vil bruke 650 millioner kroner på ny rakettrampe på andøya - bygg.no": {
-    "categories": [
-      "infrastruktur"
-    ],
-    "first_seen": "2026-09-30T11:15:01.591070+00:00",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOclFXNVZBZHF2T0VHN0tpMV9KRDJnN2Z0YVNNYW5IRk80V2tNbEtuSXZtRkJ0OTgxdk1Kd01wSHFaUFZGT0NOT1J5bGJ3SE4yZEFzdHdoX1lGY2VMMTFpNEdiSUFFbjJoWDVabncxUlBKbHRmdnlFZm9XUzA3RGxWcFVGbDNRSHVOTk9JRGNZSkRKeW5xNnNJOTFKRE1Zc2lGVE05VUhXendSS3ZqVGc?oc=5",
-    "published": "Wed, 30 Sep 2026 09:26:45 GMT",
-    "source_name": "GNews site: Bygg.no",
-    "title": "Regjeringen vil bruke 650 millioner kroner på ny rakettrampe på Andøya - Bygg.no"
   },
   "reparasjon av bruddet på undersjøisk kabel på 110 kv mellom ha tien og phu quoc, klargjøring av kraftinfrastruktur for apec 2027. - vietnam.vn": {
     "categories": [
@@ -1153,6 +1153,16 @@
     "source_name": "NRK Møre og Romsdal",
     "title": "Statens havarikommisjon åpner ikke gransking av skipskollisjonen utenfor Ålesund"
   },
+  "statnett: norsk havvind vil trolig aldri lønne seg uten støtte": {
+    "categories": [
+      "industri"
+    ],
+    "first_seen": "2026-10-30T11:29:17.310631+00:00",
+    "link": "https://www.tu.no/energi/statnett-norsk-havvind-vil-trolig-aldri-lonne-seg-uten-stotte/7179911",
+    "published": "Fri, 30 Oct 2026 07:39:57 +0100",
+    "source_name": "Teknisk Ukeblad (TU.no)",
+    "title": "Statnett: Norsk havvind vil trolig aldri lønne seg uten støtte"
+  },
   "statsforvalteren sier nei til lukkede grieg-anlegg: – bekymret for utviklingen i fjorden": {
     "categories": [
       "oppdrett"
@@ -1233,6 +1243,16 @@
     "source_name": "GNews: grunnstøting/forlis",
     "title": "Surnadal, Kvanne-Rykkjem | Oljesøl etter grunnstøting: – Regner med å bruke hele natta - Tidens Krav"
   },
+  "teknisk ukeblad brøt god presseskikk": {
+    "categories": [
+      "industri"
+    ],
+    "first_seen": "2026-10-30T11:29:17.310631+00:00",
+    "link": "https://www.tu.no/industri/teknisk-ukeblad-brot-god-presseskikk/7179742",
+    "published": "Thu, 29 Oct 2026 15:47:42 +0100",
+    "source_name": "Teknisk Ukeblad (TU.no)",
+    "title": "Teknisk Ukeblad brøt god presseskikk"
+  },
   "tiltalt fisker konfronterte kaiformannen: – den boken skal du ikke nevne (+) - fiskeribladet": {
     "categories": [
       "infrastruktur"
@@ -1262,6 +1282,16 @@
     "published": "Thu, 22 Oct 2026 14:58:53 GMT",
     "source_name": "NRK Sørlandet",
     "title": "Tomme verft og permitteringer: Frp tror løsningen ligger i Arktis"
+  },
+  "tre funnet døde etter borr-forlis - e24": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-10-30T11:29:17.310631+00:00",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PMDF5Q0FfbG1BSlJsMm11dGUxcE1tRFFHWjFfbS1nQkk0dlJrcTlvMHcwNU44blRuNnVpWVFDUTlzQldSVUdBcGhOc0xpb0w5WXBpRzg3VzdKYnlXenB5MEtXNDRrM1ZBVXIwcVNvd3lGYTl6Vk9NZkFCcWFLUVk?oc=5",
+    "published": "Thu, 29 Oct 2026 12:16:36 GMT",
+    "source_name": "GNews: grunnstøting/forlis",
+    "title": "Tre funnet døde etter Borr-forlis - E24"
   },
   "tre personer fortsatt savnet etter forlis: avslutter søket - nettavisen": {
     "categories": [
@@ -1313,6 +1343,16 @@
     "source_name": "Teknisk Ukeblad (TU.no)",
     "title": "Varsler historisk IT-løft i politiet – og drysser 190 mill. på NSM"
   },
+  "vil bytte til seg eiendom for å sikre vei til ny molo - altaposten.no": {
+    "categories": [
+      "infrastruktur"
+    ],
+    "first_seen": "2026-10-30T11:29:17.310631+00:00",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa1NMQlJtMnNtaTY3SHRLa3FQR1NkMEtaXzdKVmxFVFM4NkxzcURlNGZaY1FFQ0NWOVA4QTA5bE9sWl93eEhjdHF6WWhBLTNyMGlSUXVNeUxELXJJQkZuZERqYXBwQWJMMnYzdVdyVVluSjJqYWEzOWpfNzRCMlVFR3BrSTRybmo0UkVRS2pDN0pCSnRCOENoQURTbmtRQQ?oc=5",
+    "published": "Thu, 29 Oct 2026 13:00:00 GMT",
+    "source_name": "GNews: ny kai/molo/bru",
+    "title": "Vil bytte til seg eiendom for å sikre vei til ny molo - altaposten.no"
+  },
   "vil ha sjøkabel tilbake på bordet - morenytt.no": {
     "categories": [
       "infrastruktur"
@@ -1343,6 +1383,16 @@
     "source_name": "iLaks",
     "title": "Økonomisk tvist knyttet til det nye Lovund-slakteriet endte i forlik"
   },
+  "– arkitekter må ta sin del av ansvaret": {
+    "categories": [
+      "infrastruktur"
+    ],
+    "first_seen": "2026-10-30T11:29:17.310631+00:00",
+    "link": "https://www.tu.no/podkast/arkitekter-ma-ta-sin-del-av-ansvaret/7179360",
+    "published": "Fri, 30 Oct 2026 11:59:59 +0100",
+    "source_name": "Teknisk Ukeblad (TU.no)",
+    "title": "– Arkitekter må ta sin del av ansvaret"
+  },
   "– det er som lungenes betydning for kroppen": {
     "categories": [
       "industri"
@@ -1362,6 +1412,16 @@
     "published": "Wed, 21 Oct 2026 03:35:06 +0000",
     "source_name": "iLaks",
     "title": "– En offensiv og ambisiøs selger som brenner for akvakultur"
+  },
+  "– kan ikke investere før vi har krafttilgang": {
+    "categories": [
+      "industri"
+    ],
+    "first_seen": "2026-10-30T11:29:17.310631+00:00",
+    "link": "https://www.tu.no/energi/lyten-legger-frem-morrow-planer-i-arendal/7179655",
+    "published": "Thu, 29 Oct 2026 16:36:40 +0100",
+    "source_name": "Teknisk Ukeblad (TU.no)",
+    "title": "– Kan ikke investere før vi har krafttilgang"
   },
   "– mattilsynet utfordrer grunnleggende rettssikkerhet": {
     "categories": [
