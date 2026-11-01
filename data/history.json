@@ -79,16 +79,6 @@
     "source_name": "GNews site: Bygg.no",
     "title": "(+) Rapport: KI-bruken skyter fart i bygg og anlegg - Bygg.no"
   },
-  "(+) saget hull i fabrikk­veggen for verdens høyeste flagg­stang i tre - bygg.no": {
-    "categories": [
-      "industri"
-    ],
-    "first_seen": "2026-10-02T11:12:11.009408+00:00",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMG84WUlLUnp3V3RQS19UVUkwejlUcXFDOWVRT01wVVViUmZVUTBpZU9SNzhxWFRCZGRFc09MS0M5S1dJNTVoeDIxRVdKdnlQaWlzY3ZRZ2lsZFFLSzVPUnNJZFl6ZWg4ZzNsX2RYaW5RaS04OXd0UW05VWRqOXpwSGdoV0hpTjFLbDE3Mzl5YnJhZG5mZ1A2ZUxlMXJBeEVGeXBLZzh3LTMxX1Ix?oc=5",
-    "published": "Fri, 02 Oct 2026 08:29:46 GMT",
-    "source_name": "GNews site: Bygg.no",
-    "title": "(+) Saget hull i fabrikk­veggen for verdens høyeste flagg­stang i tre - Bygg.no"
-  },
   "(+) sier nei til nedsenkbare merder - kyst.no": {
     "categories": [
       "oppdrett"
@@ -198,16 +188,6 @@
     "published": "Fri, 30 Oct 2026 11:59:59 +0100",
     "source_name": "Teknisk Ukeblad (TU.no)",
     "title": "Arkitekt: Vi bygger mye dårligere enn før"
-  },
-  "avsluttar redningsaksjon i bergen utan funn": {
-    "categories": [
-      "havari_berging"
-    ],
-    "first_seen": "2026-10-01T11:42:35.024208+00:00",
-    "link": "https://www.nrk.no/vestland/mogleg-luftsportsulykke-i-bergen-1.18041459",
-    "published": "Wed, 30 Sep 2026 16:45:41 GMT",
-    "source_name": "NRK Vestland",
-    "title": "Avsluttar redningsaksjon i Bergen utan funn"
   },
   "biomassen flater ut – på høyt nivå": {
     "categories": [
@@ -489,6 +469,16 @@
     "source_name": "NRK Trøndelag",
     "title": "Full storm langs kysten: Førte til stengde vegar og innstilte ferjer"
   },
+  "funnet død 600 kilometer unna forlis - tv 2 play": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-11-01T11:55:40.807301+00:00",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9wYUFUZmJ3bk9OY3JxMmtXMTRVaXBoaUlLcEg3SkRhNWo3OWloUUFjZWpqanp4cVBKUFdJSXdZYWJtX1lxd1FCTGw2OF85NmdVWHdfSzc1cTMwb3ZsRHNaNkhIS0hhMk5lWHVyOXdYcVVWZzZhbEFLV1NyTWs?oc=5",
+    "published": "Sun, 01 Nov 2026 05:54:52 GMT",
+    "source_name": "GNews: grunnstøting/forlis",
+    "title": "Funnet død 600 kilometer unna forlis - TV 2 Play"
+  },
   "får milliardbeløp for å gjøre havvind billigere": {
     "categories": [
       "industri"
@@ -759,26 +749,6 @@
     "source_name": "GNews site: Fiskeribladet",
     "title": "Kaiformannens skyggeregnskap er hovedbevis i fiskekrimsaken (+) - Fiskeribladet"
   },
-  "kantring i sørvær dokumenteres i ny tv-serie: – vi er selvsagt veldig stolte - ifinnmark": {
-    "categories": [
-      "havari_berging"
-    ],
-    "first_seen": "2026-10-02T11:12:11.009408+00:00",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVnB3OU5zUmVpVEpjcHJuZ3dvaXE0dVlCM1hMbGtBRFlRcUh1SGxRS3lqUTZEZjE4Rkd6S25QeTVzWkJoa1hoUS1vdlBuSVo2d0UtVmVXRWg4UEpsODJKelRXSGI4OGxBLXBLS0M2OHk5NGJiX0RhSjhZWHEwaV9WQ0M4OGV3ZlRqRkxZWXMwdUlIV2wxQVg2T05VM1RHaFBXV3BJZ29teDg4c010YkVua0Jn?oc=5",
-    "published": "Wed, 30 Sep 2026 19:06:21 GMT",
-    "source_name": "GNews: kantring/vrak/berging",
-    "title": "Kantring i Sørvær dokumenteres i ny TV-serie: – Vi er selvsagt veldig stolte - iFinnmark"
-  },
-  "kantring i sørvær dokumenteres i ny tv-serie: – vi er selvsagt veldig stolte - ifinnmark.no": {
-    "categories": [
-      "havari_berging"
-    ],
-    "first_seen": "2026-10-01T11:42:35.024208+00:00",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVnB3OU5zUmVpVEpjcHJuZ3dvaXE0dVlCM1hMbGtBRFlRcUh1SGxRS3lqUTZEZjE4Rkd6S25QeTVzWkJoa1hoUS1vdlBuSVo2d0UtVmVXRWg4UEpsODJKelRXSGI4OGxBLXBLS0M2OHk5NGJiX0RhSjhZWHEwaV9WQ0M4OGV3ZlRqRkxZWXMwdUlIV2wxQVg2T05VM1RHaFBXV3BJZ29teDg4c010YkVua0Jn?oc=5",
-    "published": "Wed, 30 Sep 2026 19:06:21 GMT",
-    "source_name": "GNews: kantring/vrak/berging",
-    "title": "Kantring i Sørvær dokumenteres i ny TV-serie: – Vi er selvsagt veldig stolte - ifinnmark.no"
-  },
   "kirkevegg blåste bort": {
     "categories": [
       "industri"
@@ -808,16 +778,6 @@
     "published": "Tue, 13 Oct 2026 07:16:04 GMT",
     "source_name": "GNews site: Bygg.no",
     "title": "Kongsberg skal bygge fabrikk for droneforsvar i Polen - Bygg.no"
-  },
-  "kraftig vekst i leieprisene – mange bruker sparepengene - bygg.no": {
-    "categories": [
-      "infrastruktur"
-    ],
-    "first_seen": "2026-10-02T11:12:11.009408+00:00",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObmduZjYwYlRQUnVQaU1reklLMk50OW1xRmRxal9iZzBQS2dqZk5VWHZiSUFUQnluVnQ5S25ZWlNSSnliSXZJcDJZTjJTVTFQY0NHeUZUTnJSWUFkN3lTQnZ4VHhuTC1VVGZNUGxjeTJZeW96dFFPWUwwZi1xVWF2WWlDY2JnMkhj?oc=5",
-    "published": "Fri, 02 Oct 2026 08:27:41 GMT",
-    "source_name": "GNews site: Bygg.no",
-    "title": "Kraftig vekst i leieprisene – mange bruker sparepengene - Bygg.no"
   },
   "krever lokalitetsstopp: – hvor sterkt vern har villfisken? - fiskeribladet": {
     "categories": [
@@ -952,16 +912,6 @@
     "source_name": "GNews: grunnstøting/forlis",
     "title": "Moskenes, Reine | Båten fikk skader igjen: – Kort veg til grunnstøting - Lofot-Tidende"
   },
-  "naturvernforbundet om tillatelse til dumping av gruveavfall i førdefjorden: – grovt brudd på høyesteretts dom - bygg.no": {
-    "categories": [
-      "infrastruktur"
-    ],
-    "first_seen": "2026-10-01T11:42:35.024208+00:00",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMWNrZU1OS1Fma3ItVjZUdUVRa3BqQThnYWoxdmNXaXZsUVJJU19rMm5MV1ZHdWlvRTBQa0hNTmw0MFVjLU13bUxtYXMwVGkxTjJ2eWFuYVdGaDhRQjV1N0dYN21YS0I4OE1UY3M5czgzS25YUG9vS2xaQWZFR3NrSzNhejFBWGRIYXdNSUVuS0Z3RURIM3ktZlVIUXlLZktRVjFwS3RjMVlXRHpTY21zME1xSzJBaF9IODVJQjJHVGtGdFB0VGs3SUV3eF91cWM?oc=5",
-    "published": "Wed, 30 Sep 2026 17:18:57 GMT",
-    "source_name": "GNews site: Bygg.no",
-    "title": "Naturvernforbundet om tillatelse til dumping av gruveavfall i Førdefjorden: – Grovt brudd på Høyesteretts dom - Bygg.no"
-  },
   "nekton settefisk - byggeprosjekter": {
     "categories": [
       "oppdrett"
@@ -971,16 +921,6 @@
     "published": "Tue, 13 Oct 2026 07:02:34 GMT",
     "source_name": "GNews site: Bygg.no",
     "title": "Nekton Settefisk - Byggeprosjekter"
-  },
-  "no startar rivingsarbeidet for stad skipstunnel - kystverket": {
-    "categories": [
-      "industri"
-    ],
-    "first_seen": "2026-10-01T11:42:35.024208+00:00",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQnUyaDVmRzVrUG5ucDIwRjNoanNOQkN4Q0gwSFBVOWplU29zclo1VS1yQ3g1Vjk2MGhZaFhPNzZwc1dCSEJUQ25jX2FtRTZsdVdYSWFvU281MERqVmNjSmY4QlRHWEU2YmRGeVVPczlyZ2F6U2hXLUVLcndReEFmbnBWdHRYYkxNblE?oc=5",
-    "published": "Thu, 01 Oct 2026 05:19:25 GMT",
-    "source_name": "GNews site: Kystverket",
-    "title": "No startar rivingsarbeidet for Stad skipstunnel - Kystverket"
   },
   "normal trafikk etter ferge-havari": {
     "categories": [
@@ -1021,6 +961,16 @@
     "published": "Mon, 19 Oct 2026 09:48:47 +0200",
     "source_name": "Teknisk Ukeblad (TU.no)",
     "title": "NVE: Havvind og kjernekraft langt dyrere enn vannkraft"
+  },
+  "nyheter, næringsliv | bruker 790 000 kroner på sjøkabel for tre kunder i follsjøen - telemarksavisa": {
+    "categories": [
+      "infrastruktur"
+    ],
+    "first_seen": "2026-11-01T11:55:40.807301+00:00",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNenBlbXVtMG5qNkR0clE0bjAyWjF6WWRyOTY0ZV9YRjNoVGYxUWN2aTE1NzFWVWJlSHp3LVNDempvbXctQ1FnYk5tOHFMTkp4bDkxY0U0a0hlaUV6SFFueE12RHgxSThzWVdNbUVqTl80cG8tNXpjNnVFekF3Um9sWHBHbXpKZzlsdElsV3NHWmkwM3BqdENR?oc=5",
+    "published": "Sat, 31 Oct 2026 19:52:11 GMT",
+    "source_name": "GNews: sjøkabel/sjøledning",
+    "title": "Nyheter, Næringsliv | Bruker 790 000 kroner på sjøkabel for tre kunder i Follsjøen - Telemarksavisa"
   },
   "nå er equinors havvindpark 80 prosent ferdig": {
     "categories": [
@@ -1223,16 +1173,6 @@
     "source_name": "NRK Troms og Finnmark",
     "title": "Smelteverket vil bli først i verden: Men først må de stå i strømkø"
   },
-  "startskotet er gått for ny sjøkabel her - marsteinen.no": {
-    "categories": [
-      "infrastruktur"
-    ],
-    "first_seen": "2026-10-02T11:12:11.009408+00:00",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMmo5dVJvek5iU0JOaHpOLUxrc1BrSkUtVGlXQ0R4N3QxY1Nzb1Rzbnk1ZktSOC14TnBfVkk4TnZzY2YxSEMzSmJzcEpmdHJaQ2YxajYwaWdNYUlTMURIbVZ2aHJNcmROY1duOEw1MkFQS2pTSDR0QTA3QU90R0N3OFF3N1FneE1wY1pkZw?oc=5",
-    "published": "Fri, 02 Oct 2026 07:39:30 GMT",
-    "source_name": "GNews: sjøkabel/sjøledning",
-    "title": "Startskotet er gått for ny sjøkabel her - marsteinen.no"
-  },
   "statens havarikommisjon åpner ikke gransking av skipskollisjonen utenfor ålesund": {
     "categories": [
       "havari_berging"
@@ -1343,16 +1283,6 @@
     "source_name": "Teknisk Ukeblad (TU.no)",
     "title": "Teknisk Ukeblad brøt god presseskikk"
   },
-  "tiltalt fisker konfronterte kaiformannen: – den boken skal du ikke nevne (+) - fiskeribladet": {
-    "categories": [
-      "infrastruktur"
-    ],
-    "first_seen": "2026-10-01T11:42:35.024208+00:00",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTkxEOXBlVjJMUnR1YzFrb2d0dHItNWpDZ0hCdV90TUowYU1LczhOTTFDMTc4STRnRmNNTlpRektSMXF4bU1rOFcwOVdoanpNVzJwc3BhTTZpRmdEZ080NG1UeXNRTHlyMkNYOTFwS0dLeGQ3SUVtWXlmMGhsUkpmYk9jaVJaX3EtTTF0Smh5T2Y2dnNwd3pYdHQ0SlJBZUlkMllwMjV4cXd2MmtTallJMTRUbHNQZHM1cXR3?oc=5",
-    "published": "Wed, 30 Sep 2026 14:46:37 GMT",
-    "source_name": "GNews site: Fiskeribladet",
-    "title": "Tiltalt fisker konfronterte kaiformannen: – Den boken skal du ikke nevne (+) - Fiskeribladet"
-  },
   "tollere undersøker båt etter havari i larvik": {
     "categories": [
       "havari_berging"
@@ -1382,16 +1312,6 @@
     "published": "Thu, 29 Oct 2026 12:16:36 GMT",
     "source_name": "GNews: grunnstøting/forlis",
     "title": "Tre funnet døde etter Borr-forlis - E24"
-  },
-  "tre personer fortsatt savnet etter forlis: avslutter søket - nettavisen": {
-    "categories": [
-      "havari_berging"
-    ],
-    "first_seen": "2026-10-02T11:12:11.009408+00:00",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNU0FmbWFBbW9wbHBoMHdhcmZFZTVnSWdsLTVDMEtMMDQ4c2R3ZV9RTE43czJmaXlUY25NMHIwYmx4Y2FkV0Vhd1hOS3lsRVQyNFdnM0xWZVBnRjFRZEI4aDM5NmRpMkRjc2hUS2xVUFNHZXY0UDc3WE56bWU1NHViQlJKYXRSandTeWk1cEc1Wk9HUE4tTnJ3VHdPTDNkVElURmZqTHQtUHV2SXl1NkZDX1haZjVuQjhJdk9hTGln?oc=5",
-    "published": "Thu, 01 Oct 2026 12:28:58 GMT",
-    "source_name": "GNews: grunnstøting/forlis",
-    "title": "Tre personer fortsatt savnet etter forlis: Avslutter søket - Nettavisen"
   },
   "tromsømann var kaptein under redningsaksjonen i svartehavet": {
     "categories": [
