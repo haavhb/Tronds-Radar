@@ -79,6 +79,16 @@
     "source_name": "GNews site: Bygg.no",
     "title": "(+) Rapport: KI-bruken skyter fart i bygg og anlegg - Bygg.no"
   },
+  "(+) ringalm og begna bruk samler salgs­virksomheten - bygg.no": {
+    "categories": [
+      "infrastruktur"
+    ],
+    "first_seen": "2026-11-02T13:41:53.828974+00:00",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRm1PbVNINWpBOHlYTGtFcVp1bFA4YjM1RUFTNzRLREJwa3RLem1QSU9MOENib3BGcUJ2UzAxQkZyYjNQX0I5cE9VVm5UcUloQ01IZmtycXdlRFR1NlBYd1Z3T2lCdnlMVG1XXy1VSEhfUk9OQ1pPMTcxcFM1M1FTclJsQ0ZkaHZUNUZWMUNab2o0N1c1?oc=5",
+    "published": "Mon, 02 Nov 2026 08:38:47 GMT",
+    "source_name": "GNews site: Bygg.no",
+    "title": "(+) RingAlm og Begna bruk samler salgs­virksomheten - Bygg.no"
+  },
   "(+) sier nei til nedsenkbare merder - kyst.no": {
     "categories": [
       "oppdrett"
@@ -188,6 +198,17 @@
     "published": "Fri, 30 Oct 2026 11:59:59 +0100",
     "source_name": "Teknisk Ukeblad (TU.no)",
     "title": "Arkitekt: Vi bygger mye dårligere enn før"
+  },
+  "bakkafrost-eid fôrflåte forliste": {
+    "categories": [
+      "havari_berging",
+      "oppdrett"
+    ],
+    "first_seen": "2026-11-02T13:41:53.828974+00:00",
+    "link": "https://ilaks.no/bakkafrost-eid-forflate-forliste/?mtm_campaign=feed_click&mtm_kwd=bakkafrost-eid-forflate-forliste&mtm_source=RSS2&mtm_medium=feed",
+    "published": "Mon, 02 Nov 2026 09:18:27 +0000",
+    "source_name": "iLaks",
+    "title": "Bakkafrost-eid fôrflåte forliste"
   },
   "biomassen flater ut – på høyt nivå": {
     "categories": [
@@ -488,16 +509,6 @@
     "published": "Fri, 30 Oct 2026 10:16:12 GMT",
     "source_name": "NRK Rogaland",
     "title": "Får milliardbeløp for å gjøre havvind billigere"
-  },
-  "grieg tapte 1.000 tonn biomasse av gjelleskader fra algeangrep": {
-    "categories": [
-      "oppdrett"
-    ],
-    "first_seen": "2026-10-03T10:29:51.453847+00:00",
-    "link": "https://ilaks.no/grieg-tapte-1-000-tonn-biomasse-av-gjelleskader-fra-algeangrep/?mtm_campaign=feed_click&mtm_kwd=grieg-tapte-1-000-tonn-biomasse-av-gjelleskader-fra-algeangrep&mtm_source=RSS2&mtm_medium=feed",
-    "published": "Fri, 02 Oct 2026 17:21:50 +0000",
-    "source_name": "iLaks",
-    "title": "Grieg tapte 1.000 tonn biomasse av gjelleskader fra algeangrep"
   },
   "grunnstøting, blålys | båt med ti personer om bord grunnstøtte - lofotposten": {
     "categories": [
@@ -972,6 +983,16 @@
     "source_name": "GNews: sjøkabel/sjøledning",
     "title": "Nyheter, Næringsliv | Bruker 790 000 kroner på sjøkabel for tre kunder i Follsjøen - Telemarksavisa"
   },
+  "nytt datasenterforslag: vil kopiere kjøpesenter-stopp fra 1999": {
+    "categories": [
+      "infrastruktur"
+    ],
+    "first_seen": "2026-11-02T13:41:53.828974+00:00",
+    "link": "https://www.tu.no/datasenter/nytt-datasenterforslag-vil-kopiere-kjopesenterstopp-fra-1999/7180568",
+    "published": "Mon, 02 Nov 2026 07:25:12 +0100",
+    "source_name": "Teknisk Ukeblad (TU.no)",
+    "title": "Nytt datasenterforslag: Vil kopiere kjøpesenter-stopp fra 1999"
+  },
   "nå er equinors havvindpark 80 prosent ferdig": {
     "categories": [
       "industri"
@@ -1041,6 +1062,16 @@
     "published": "Mon, 12 Oct 2026 18:50:06 GMT",
     "source_name": "NRK Møre og Romsdal",
     "title": "Redningsaksjon i Innfjorden"
+  },
+  "regjeringen godkjenner plan for batterifabrikk og gigantdatasenter i orkland - bygg.no": {
+    "categories": [
+      "industri"
+    ],
+    "first_seen": "2026-11-02T13:41:53.828974+00:00",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSFR2TkpSakF5NW9ySzdWUjRXM1dVOEdTRHFObGVLRERzdkFyOFl0T3BnRXRNZlhyRFpQTFBDM0hLN3pESWQ0cWtjSzdoaldPTC1vMlBtMXBSX0Y0LWhvVDREdjZOcVQ3THM1U0hYeE5EMEVzb0g2bXRaa3JSZ2l4OUN4Qzk3TllSQVBMODVJTThkRmpWTno3X2xmNXZ2N2Q2YWg4d1Y5Ynd6YmZmZTk4d0IwdEpCbXpoU29pLVZYU0hRLTA?oc=5",
+    "published": "Mon, 02 Nov 2026 10:33:48 GMT",
+    "source_name": "GNews site: Bygg.no",
+    "title": "Regjeringen godkjenner plan for batterifabrikk og gigantdatasenter i Orkland - Bygg.no"
   },
   "reparasjon av bruddet på undersjøisk kabel på 110 kv mellom ha tien og phu quoc, klargjøring av kraftinfrastruktur for apec 2027. - vietnam.vn": {
     "categories": [
@@ -1172,6 +1203,16 @@
     "published": "Mon, 19 Oct 2026 03:15:45 GMT",
     "source_name": "NRK Troms og Finnmark",
     "title": "Smelteverket vil bli først i verden: Men først må de stå i strømkø"
+  },
+  "sola skinner, men flåten må stå: – kan ikke bare diktere at vi skal vike": {
+    "categories": [
+      "infrastruktur"
+    ],
+    "first_seen": "2026-11-02T13:41:53.828974+00:00",
+    "link": "https://www.nrk.no/nordland/andoya-space-uenige-med-fiskere---nho-og-andoya-space-krever-regjeringen-pa-banen-1.18068037",
+    "published": "Sun, 01 Nov 2026 18:49:57 GMT",
+    "source_name": "NRK Nordland",
+    "title": "Sola skinner, men flåten må stå: – Kan ikke bare diktere at vi skal vike"
   },
   "statens havarikommisjon åpner ikke gransking av skipskollisjonen utenfor ålesund": {
     "categories": [
