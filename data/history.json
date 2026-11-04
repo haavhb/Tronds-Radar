@@ -109,6 +109,16 @@
     "source_name": "GNews: sjøkabel/sjøledning",
     "title": "(+) Startar arbeidet med ny sjøkabel til Reksteren - tysnesbladet"
   },
+  "(+) tre bruer i ett prosjekt: skal bygge en 925 meter lang betongkassebru - anlegg.no": {
+    "categories": [
+      "infrastruktur"
+    ],
+    "first_seen": "2026-11-04T13:07:53.033064+00:00",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPR0hTTTFsSXNxMXE4RkxIMmVHaFBBOEp6dkc3TzFZYnJzWkVob25pOXMyeDhnU3YzSm94TXV0SjdaTVhHX1dZYjJMWHczLWN3TU9hZEtabnV2OXdXcGZMMHkwdHRFQjM1NlVrTUtqRjU1ZkpsNzJiUlpYQ3lwRG5zNThMUXRIdWhkRGRPNjFvMzE3SFJFdlkwc2U3cDVtQ3ZmNUVZcmR3SzFleFl1aVo5cktVa2k?oc=5",
+    "published": "Wed, 04 Nov 2026 10:20:25 GMT",
+    "source_name": "GNews site: Bygg.no",
+    "title": "(+) Tre bruer i ett prosjekt: Skal bygge en 925 meter lang betongkassebru - Anlegg.no"
+  },
   "(+) veidekke oppgraderer to ferjekaier i vestland - anlegg.no": {
     "categories": [
       "infrastruktur"
@@ -188,6 +198,16 @@
     "published": "Fri, 30 Oct 2026 14:38:21 +0000",
     "source_name": "iLaks",
     "title": "Analytiker om landbasert: – Sektoren har kommet et steg videre"
+  },
+  "aquatraz-merdene har kommet til norge - kyst.no": {
+    "categories": [
+      "oppdrett"
+    ],
+    "first_seen": "2026-11-04T13:07:53.033064+00:00",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSVZza1BmZmJUR2hrQzR5SGxnVnFzWmV2dEsyb3VVMi1LZ0tnT1NQZ29yR2stenZoTUFNUEl2STBZYnRENFpHVU9ES0ZQb2V0c2hNa0szTVdveXc1OWpvOVZSUUdkclR1YXdGakUxZVNuQ2wtb0lqUU02blJBVElDY0p3VVVIRlE?oc=5",
+    "published": "Wed, 04 Nov 2026 06:11:16 GMT",
+    "source_name": "GNews site: Kyst.no",
+    "title": "Aquatraz-merdene har kommet til Norge - Kyst.no"
   },
   "arkitekt: vi bygger mye dårligere enn før": {
     "categories": [
@@ -269,6 +289,16 @@
     "published": "Fri, 16 Oct 2026 14:35:38 GMT",
     "source_name": "GNews: grunnstøting/forlis",
     "title": "Båt, Ankenes | Båt har grunnstøtt på Ankenes: Etterlyser eier – og det brennkvikt - Fremover"
+  },
+  "de første tre av lerøys lukkede merder har ankommet norge - intrafish": {
+    "categories": [
+      "oppdrett"
+    ],
+    "first_seen": "2026-11-04T13:07:53.033064+00:00",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM2l0UVhGOHlrZGhaQWNKeDJlTkFwOThkaURXMzViS2Z0MkRjODVtQks4N1lWcUIzbUJyNWl6VFY2ZUtJa0RVMG5xSFVIM2ZqU3BOclpCLXE4aTFUVVdVWDdHRXdpWEVYY3A2UTFHNm1oZkNBR0Rzb2ZoV1RjNEJBcFdoNEhJTzlfVFRDazl6OERvb3B0SFgwNnN2Q1Y0SzV4TTlXZmMtSQ?oc=5",
+    "published": "Wed, 04 Nov 2026 09:39:57 GMT",
+    "source_name": "GNews site: IntraFish",
+    "title": "De første tre av Lerøys lukkede merder har ankommet Norge - Intrafish"
   },
   "den første smolten er satt ut i tankene hos arctic seafarm på nesna": {
     "categories": [
@@ -460,16 +490,6 @@
     "source_name": "GNews: ny kai/molo/bru",
     "title": "For dyrt med ny ferjekai her: Vil vurdere «alternativ transport» - fjt.no"
   },
-  "forkastar sjøkabel og nytt fjordspenn - morenytt.no": {
-    "categories": [
-      "infrastruktur"
-    ],
-    "first_seen": "2026-10-05T12:25:59.220307+00:00",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNblpwaHdBUFRpWkszMHRYbGUwVnpBZVp2OXJLakplOC0tSmxMX24taU1rMUJVUWtlamhCQWJYdDFQcHNKYTI3MG4xakNoRkZFdkRBRkdwbE95Uk1RUjBNUENuNUNsWWdhTGM0YjF4MGVPeHV6SmdtaHNYRTFvWXAxUElCYzIxWDg?oc=5",
-    "published": "Mon, 05 Oct 2026 11:00:00 GMT",
-    "source_name": "GNews: sjøkabel/sjøledning",
-    "title": "Forkastar sjøkabel og nytt fjordspenn - morenytt.no"
-  },
   "forsvarsevne kan ikke hastebestilles": {
     "categories": [
       "infrastruktur"
@@ -650,15 +670,17 @@
     "source_name": "GNews: ny kai/molo/bru",
     "title": "Her er dei i gang – ny kai skal vera ferdig i juli - oyposten.no"
   },
-  "her kolliderer dei tre skipa med kvarandre: – eg trudde det var krig": {
+  "her kommer byggesettet til lerøy og salmar sine lukkede merder": {
     "categories": [
-      "havari_berging"
+      "infrastruktur",
+      "oppdrett",
+      "industri"
     ],
-    "first_seen": "2026-10-05T12:25:59.220307+00:00",
-    "link": "https://www.nrk.no/mr/her-kolliderer-tre-skip-med-kvarandre-i-valderhaugfjorden-utanfor-alesund-1.18045337",
-    "published": "Mon, 05 Oct 2026 10:06:04 GMT",
-    "source_name": "NRK Møre og Romsdal",
-    "title": "Her kolliderer dei tre skipa med kvarandre: – Eg trudde det var krig"
+    "first_seen": "2026-11-04T13:07:53.033064+00:00",
+    "link": "https://ilaks.no/her-kommer-byggesettet-til-leroy-og-salmar-sine-lukkede-meder/?mtm_campaign=feed_click&mtm_kwd=her-kommer-byggesettet-til-leroy-og-salmar-sine-lukkede-meder&mtm_source=RSS2&mtm_medium=feed",
+    "published": "Wed, 04 Nov 2026 06:15:59 +0000",
+    "source_name": "iLaks",
+    "title": "Her kommer byggesettet til Lerøy og SalMar sine lukkede merder"
   },
   "her starta rivinga ved stad skipstunnel": {
     "categories": [
@@ -770,16 +792,6 @@
     "source_name": "NRK Troms og Finnmark",
     "title": "Kirkevegg blåste bort"
   },
-  "knuser alle drømmer om mer sjøkabel (+) - europower.no": {
-    "categories": [
-      "infrastruktur"
-    ],
-    "first_seen": "2026-10-05T12:25:59.220307+00:00",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWmp2SE1Hd0R2RFAzc0JFZkw4Z0JYMXkwZW9zT2RlY2R3bFVCRHJuMHZ3dk91Yy1HZmpZcjlDa0RhanQ2bmpZNjlOTnk0d1p4NWNHZkxiRnhMWDdjdE4xZk1Ld1hNY21WM0FwdjQ2Q1RFT21CLTVrQW5xRVE3Y0ZIUTF1MA?oc=5",
-    "published": "Mon, 05 Oct 2026 08:54:30 GMT",
-    "source_name": "GNews: sjøkabel/sjøledning",
-    "title": "Knuser alle drømmer om mer sjøkabel (+) - europower.no"
-  },
   "kongsberg skal bygge fabrikk for droneforsvar i polen - bygg.no": {
     "categories": [
       "industri"
@@ -789,16 +801,6 @@
     "published": "Tue, 13 Oct 2026 07:16:04 GMT",
     "source_name": "GNews site: Bygg.no",
     "title": "Kongsberg skal bygge fabrikk for droneforsvar i Polen - Bygg.no"
-  },
-  "krever lokalitetsstopp: – hvor sterkt vern har villfisken? - fiskeribladet": {
-    "categories": [
-      "oppdrett"
-    ],
-    "first_seen": "2026-10-05T12:25:59.220307+00:00",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRWpIY2lyWHhjeEc0X3Q4aFI2MkhpN0Q4UzZETUg3ODBrQnZaQkVpWFRLLXZrNUp6T1ptV0RYbTd0LXAzUEZ4aWdrbnJFamhtWjdqVFluLWlYZzBtUGJlbndiR3FEZFpHeEZ4emJmOS1PYlVqWTVaWlZ6V0hudFQxckNIbXRYOVNhLWZDN3VWYVJNdDROdk43Vkd1NXYxZEtGSFRTUHBDbw?oc=5",
-    "published": "Mon, 05 Oct 2026 05:47:59 GMT",
-    "source_name": "GNews site: Fiskeribladet",
-    "title": "Krever lokalitetsstopp: – Hvor sterkt vern har villfisken? - Fiskeribladet"
   },
   "kristiansand vil selge havvind-aksjer": {
     "categories": [
@@ -922,6 +924,16 @@
     "published": "Thu, 08 Oct 2026 19:00:00 GMT",
     "source_name": "GNews: grunnstøting/forlis",
     "title": "Moskenes, Reine | Båten fikk skader igjen: – Kort veg til grunnstøting - Lofot-Tidende"
+  },
+  "mulig hackerangrep mot norsk varehus: – skade av betydelig omfang": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-11-04T13:07:53.033064+00:00",
+    "link": "https://www.nrk.no/stor-oslo/mulig-hackerangrep-mot-norsk-varehus_-_-skade-av-betydelig-omfang-1.18072469",
+    "published": "Tue, 03 Nov 2026 14:59:27 GMT",
+    "source_name": "NRK Østlandssendingen",
+    "title": "Mulig hackerangrep mot norsk varehus: – Skade av betydelig omfang"
   },
   "nekton settefisk - byggeprosjekter": {
     "categories": [
@@ -1404,16 +1416,6 @@
     "source_name": "NRK Troms og Finnmark",
     "title": "Vannbrudd i Kirkenes: Vannflasker rives fra butikkhyllene"
   },
-  "varsler historisk it-løft i politiet – og drysser 190 mill. på nsm": {
-    "categories": [
-      "industri"
-    ],
-    "first_seen": "2026-10-05T12:25:59.220307+00:00",
-    "link": "https://www.tu.no/digitalisering-og-offentlig-it/varsler-historisk-it-loft-i-politiet/7143534",
-    "published": "Mon, 05 Oct 2026 13:17:52 +0200",
-    "source_name": "Teknisk Ukeblad (TU.no)",
-    "title": "Varsler historisk IT-løft i politiet – og drysser 190 mill. på NSM"
-  },
   "vil bytte til seg eiendom for å sikre vei til ny molo - altaposten.no": {
     "categories": [
       "infrastruktur"
@@ -1443,6 +1445,16 @@
     "published": "Wed, 21 Oct 2026 19:30:57 GMT",
     "source_name": "GNews: ny kai/molo/bru",
     "title": "Ytterøya | Koster 213 millioner: Ja til ny ferjekai - iLevanger"
+  },
+  "«banque populaire» har kantret - seilmagasinet": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-11-04T13:07:53.033064+00:00",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObmtTTGEwYWVING1xaFYzYXZHOXpQb3I4NVlPMzdhWmRRSWRPWjZ6SHEzN0swNkw4djhWVDF6cHQzQ2lqY19sVFIzVkpwSndGZ0c4b2VkWjFIS2Nldm5jYUtWb1NyTU0tZUVpS2ZEYnp5NVFmaGc1eVVvbG9pZ1B4YzFBOGFGREFaZWRQYU5yQ0VHVGRmT2NsV19lM3hsWHo0UmVKd0dB?oc=5",
+    "published": "Wed, 04 Nov 2026 10:04:55 GMT",
+    "source_name": "GNews: kantring/vrak/berging",
+    "title": "«Banque Populaire» har kantret - SEILmagasinet"
   },
   "økonomisk tvist knyttet til det nye lovund-slakteriet endte i forlik": {
     "categories": [
