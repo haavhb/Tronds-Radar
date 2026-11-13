@@ -19,6 +19,16 @@
     "source_name": "GNews site: Bygg.no",
     "title": "(+) Betong Øst bygger ny fabrikk i Nittedal - Anlegg.no"
   },
+  "(+) bmo entreprenør skal bygge bru i holtålen - anlegg.no": {
+    "categories": [
+      "infrastruktur"
+    ],
+    "first_seen": "2026-11-13T13:16:45.170575+00:00",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNM1JnQmhrdVdIdWFUN1MxV0NBTW5sdnRKZmRQNm4yTWRTbTl3SU9Pck5TaW1NVXBnZTAzWlEybkkxT25oX3lBeE5CTEJMQXJIZG9NZU13aUZJa01jUGE4dEdwc21hSnBPMWRNY00zRE55cEdobnkzdFVVSnE1M3hHWjY5c0xSRlNJVkU4aHp1d3VEelNWWUtkZTN0WFI?oc=5",
+    "published": "Fri, 13 Nov 2026 08:22:12 GMT",
+    "source_name": "GNews site: Bygg.no",
+    "title": "(+) BMO Entreprenør skal bygge bru i Holtålen - Anlegg.no"
+  },
   "(+) fire kjempet om bru­prosjektet – starter bygging i desember - anlegg.no": {
     "categories": [
       "infrastruktur"
@@ -109,6 +119,16 @@
     "source_name": "GNews site: Bygg.no",
     "title": "(+) RingAlm og Begna bruk samler salgs­virksomheten - Bygg.no"
   },
+  "(+) stanser karbon­fangst­prosjekt på sement­fabrikk - bygg.no": {
+    "categories": [
+      "industri"
+    ],
+    "first_seen": "2026-11-13T13:16:45.170575+00:00",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcms1NmxHOWRuanN3T2VpWUY2ODN3TmNaU3FfTm1nMk1NMWg4Z0FINUdxS1R0Sk91LVl3dHBTQm9XZ2xZMHlpMndVZDVoWHk4Qkc1eVAtV1JOVThqTnR5TU9JbVBDUWpHSklWOERJVEJqWTAxUF9HTzd2RFowd1dGcXpQdjRVT1oydGE1WkcweFUwWTVIQl9TejBzVG5PaGhGdEVNZWVUdmNzeEk?oc=5",
+    "published": "Fri, 13 Nov 2026 12:31:21 GMT",
+    "source_name": "GNews site: Bygg.no",
+    "title": "(+) Stanser karbon­fangst­prosjekt på sement­fabrikk - Bygg.no"
+  },
   "(+) tre bruer i ett prosjekt: skal bygge en 925 meter lang betongkassebru - anlegg.no": {
     "categories": [
       "infrastruktur"
@@ -128,16 +148,6 @@
     "published": "Fri, 06 Nov 2026 11:58:43 GMT",
     "source_name": "GNews site: Kyst.no",
     "title": "(+) Vil erstatte alle merdene med Watermoon - Kyst.no"
-  },
-  "13 barn døde da festivalbåt kantret i india - radio haugaland": {
-    "categories": [
-      "havari_berging"
-    ],
-    "first_seen": "2026-10-14T10:23:01.112101+00:00",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5vYXdENlJORERZUmxSRzYxVUF1bDZaY21WREkzTV91XzZZY29GeXgtVEw5ck1UN2tIdUdzamNRcGtsNGdVT2E5YmFldlJSYWlWMDZpQXJNOVBIZWxmN0sxcjQ5dUVCNGxLVzd5V0Fzbw?oc=5",
-    "published": "Wed, 14 Oct 2026 03:46:40 GMT",
-    "source_name": "GNews: kantring/vrak/berging",
-    "title": "13 barn døde da festivalbåt kantret i India - Radio Haugaland"
   },
   "1500 boliger i oslo uten varme og varmtvann etter brudd på fjernvarmeledning - bygg.no": {
     "categories": [
@@ -460,16 +470,6 @@
     "source_name": "GNews site: Bygg.no",
     "title": "EU gir 3,3 milliarder kroner til norske havvind- og karbonfangst­prosjekter - Bygg.no"
   },
-  "ferge med 18 passasjerer fikk motorstans – må vente fire timer på hjelp": {
-    "categories": [
-      "havari_berging"
-    ],
-    "first_seen": "2026-10-14T10:23:01.112101+00:00",
-    "link": "https://www.nrk.no/nordland/ferge-med-18-passasjerer-fikk-motorstans-_-ma-vente-fire-timer-pa-hjelp-1.18053831",
-    "published": "Tue, 13 Oct 2026 13:53:50 GMT",
-    "source_name": "NRK Nordland",
-    "title": "Ferge med 18 passasjerer fikk motorstans – må vente fire timer på hjelp"
-  },
   "fergen havnet i småbåthavna: – teknisk svikt": {
     "categories": [
       "havari_berging"
@@ -600,16 +600,6 @@
     "source_name": "Teknisk Ukeblad (TU.no)",
     "title": "Grønt lys til å bygge datasenter og batterifabrikk i Orkanger"
   },
-  "hamarøy, trafikk | har ventet i timevis på hjelp – nå er slepebåten på plass - avisa nordland": {
-    "categories": [
-      "havari_berging"
-    ],
-    "first_seen": "2026-10-14T10:23:01.112101+00:00",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMjNpS05BLUZqbnVwcVV6b3ExbzZORW52bFNzUldEY1RaRFI4bi1MSVdhM3RWSnpOTkdRcFpBZ2NyZXdLY3I3bVo2Rl9BMUNjeEJsRktFc241YXpaQXU0aTFQdFFyVmxvaHlzOGtqemdqbndmVEtFY0oxVG5OTjdPb3h2d1NNU0ZrTVJNdTJrWQ?oc=5",
-    "published": "Tue, 13 Oct 2026 18:00:48 GMT",
-    "source_name": "GNews: slep/nødhavn",
-    "title": "Hamarøy, Trafikk | Har ventet i timevis på hjelp – nå er slepebåten på plass - Avisa Nordland"
-  },
   "han blir ny fabrikksjef i kjøpsvik": {
     "categories": [
       "industri"
@@ -629,26 +619,6 @@
     "published": "Fri, 16 Oct 2026 11:37:42 +0200",
     "source_name": "Teknisk Ukeblad (TU.no)",
     "title": "Har havvinden et Kina-problem?"
-  },
-  "har skaffa ny slepebåt - fjt.no": {
-    "categories": [
-      "havari_berging"
-    ],
-    "first_seen": "2026-10-14T10:23:01.112101+00:00",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE16aHFaZ0FWbU9TeW5NUkhFbXBKY0tyVVV2dHl5dnBzeFJWUEE2MWZ0aHVkQmlHTTM4Rl84MWRpMFJvamhRUS1kdkJ1X0tRMldaRnFIRXN0V21ya3JEeTV2c1BMNDZib1dEMXo4UW1HRWo2WTlQ?oc=5",
-    "published": "Tue, 13 Oct 2026 07:41:54 GMT",
-    "source_name": "GNews: slep/nødhavn",
-    "title": "Har skaffa ny slepebåt - fjt.no"
-  },
-  "har skaffa ny slepebåt - går truleg inn mot ålesund - smp.no": {
-    "categories": [
-      "havari_berging"
-    ],
-    "first_seen": "2026-10-14T10:23:01.112101+00:00",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1aMTV0UDQ5YW1zZk9OQUtZM3Z3SkVkUVlYd0o1LXFHWjF3dE9lZ21ha2tjZWhqcHpjREcyVFdvaEtpX2w2ZTRiRFNHRGdTRUJ2bEJUVTVaZzFHdXUzOFZkSDZidnpoTDFZeGxjZ2tobUM3dmdr?oc=5",
-    "published": "Wed, 14 Oct 2026 07:54:19 GMT",
-    "source_name": "GNews: slep/nødhavn",
-    "title": "Har skaffa ny slepebåt - går truleg inn mot Ålesund - smp.no"
   },
   "havarikommisjonen mener at dette manglet i forkant av dødsulykken på fôrbåten": {
     "categories": [
@@ -741,16 +711,6 @@
     "published": "Fri, 16 Oct 2026 18:06:22 GMT",
     "source_name": "NRK Nordland",
     "title": "Hurtigbåten truer med å innstille avganger i Musken: – Vi må tenke på sikkerhet"
-  },
-  "i dag starter rettssaken": {
-    "categories": [
-      "infrastruktur"
-    ],
-    "first_seen": "2026-10-14T10:23:01.112101+00:00",
-    "link": "https://www.tu.no/energi/nord-stream-rettssaken-starter-i-dag/7146309",
-    "published": "Wed, 14 Oct 2026 07:27:49 +0200",
-    "source_name": "Teknisk Ukeblad (TU.no)",
-    "title": "I dag starter rettssaken"
   },
   "innlegg: datasenter­stansen gir et tidsvindu – bruk det til å modne tomtene - bygg.no": {
     "categories": [
@@ -925,16 +885,6 @@
     "source_name": "NRK Troms og Finnmark",
     "title": "No kastar forskarane loss mot den mest avsidesliggande øya i verda"
   },
-  "normal trafikk etter ferge-havari": {
-    "categories": [
-      "havari_berging"
-    ],
-    "first_seen": "2026-10-14T10:23:01.112101+00:00",
-    "link": "https://www.nrk.no/nordland/normal-trafikk-etter-ferge-havari-1.18054301",
-    "published": "Wed, 14 Oct 2026 05:16:00 GMT",
-    "source_name": "NRK Nordland",
-    "title": "Normal trafikk etter ferge-havari"
-  },
   "norsk selskap har startet stridsvognbygging": {
     "categories": [
       "industri"
@@ -1045,6 +995,16 @@
     "source_name": "iLaks",
     "title": "Pareto: – Flere tilbakeslag enn jubelscener for landbasert oppdrett"
   },
+  "pedersen stoler hundre prosent på kaiformannen (+) - fiskeribladet": {
+    "categories": [
+      "infrastruktur"
+    ],
+    "first_seen": "2026-11-13T13:16:45.170575+00:00",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQlQ5a1pOZ1NjWE9GYWxzdzIzZnloYk93ajkyc2poaVdvbmp1RENYUlNSNVRDTTZyNjUzZEN1aE9kS3FxdnkybUQtQUI1eGI5YmlHVjA5OEkyd3NLQ09oZmVKNUlFWjYxeEtHYnZvUWhBaFdYUUd0R09CekpRQVlhWTB1RmotakpxcDFWRVpfcENuenpsel9zNkNtYw?oc=5",
+    "published": "Thu, 12 Nov 2026 15:31:15 GMT",
+    "source_name": "GNews site: Fiskeribladet",
+    "title": "Pedersen stoler hundre prosent på kaiformannen (+) - Fiskeribladet"
+  },
   "planlegg utbygging like ved urørt foss i otra": {
     "categories": [
       "oppdrett"
@@ -1145,16 +1105,6 @@
     "published": "Mon, 26 Oct 2026 17:23:54 GMT",
     "source_name": "GNews site: IntraFish",
     "title": "Skatteetaten vil slå verft for lukkede merder konkurs (+) - Intrafish"
-  },
-  "skip i drift – slepebåt på veg - rbnett.no": {
-    "categories": [
-      "havari_berging"
-    ],
-    "first_seen": "2026-10-14T10:23:01.112101+00:00",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBSTFJZMkhwSm9YUGEtZ0lkMk5DTkVKVzJsQTlKcG4tZW9PZm5lRjg0VmlwTUNSbWw4NFdFYzEwRklGT1VlX2t0bjIxTmRoaTNRTWprT0lyZ183M3NrNzZxa01wWmV5eWJHbVJFekw4bUFfTHdRNV9r?oc=5",
-    "published": "Tue, 13 Oct 2026 10:24:10 GMT",
-    "source_name": "GNews: slep/nødhavn",
-    "title": "Skip i drift – slepebåt på veg - rbnett.no"
   },
   "skip, grunnstøting | cruiseskip som skal til lofoten gikk på grunn - lofotposten": {
     "categories": [
@@ -1375,6 +1325,16 @@
     "published": "Thu, 12 Nov 2026 13:42:00 GMT",
     "source_name": "GNews site: Kyst.no",
     "title": "Vikan satser tungt på havbruk til havs - Kyst.no"
+  },
+  "vil byggje industripark i urørt natur – øyfolket gir klare beskjeder til kommunen": {
+    "categories": [
+      "industri"
+    ],
+    "first_seen": "2026-11-13T13:16:45.170575+00:00",
+    "link": "https://www.nrk.no/mr/mange-innspel-om-industripark-i-urort-natur-pa-kverve-pa-ellingsoya-i-alesund-kommune-1.18079220",
+    "published": "Fri, 13 Nov 2026 08:43:58 GMT",
+    "source_name": "NRK Møre og Romsdal",
+    "title": "Vil byggje industripark i urørt natur – øyfolket gir klare beskjeder til kommunen"
   },
   "vil bytte til seg eiendom for å sikre vei til ny molo - altaposten.no": {
     "categories": [
