@@ -49,6 +49,16 @@
     "source_name": "GNews site: Bygg.no",
     "title": "(+) Forsvarer å bruke fire millioner i året på samferdsels­stilling i Brussel - Bygg.no"
   },
+  "(+) frodig fabrikk kåret til verdens beste bygning - bygg.no": {
+    "categories": [
+      "industri"
+    ],
+    "first_seen": "2026-11-16T13:51:46.677691+00:00",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbU1KUDJQMWpQRDFnajNNb0owTVNJaFVCUlhyU09MbDl3STZXU0FWNTBxUk9WTHAzS3M2U0stN2ktWk5lM2lFU19QMVl0Y19IX3VMWlV3YS1aMm1uNzR1TjNtNVNXbkZ6STMyUmlqWWVTRUt2dzcxNllGQUl4UDdpdFZQS3pacm5RWTVhczhtcmdhZVJxTkYzZHVDWU13b1Y4b3o0cUhDWXU?oc=5",
+    "published": "Mon, 16 Nov 2026 06:07:14 GMT",
+    "source_name": "GNews site: Bygg.no",
+    "title": "(+) Frodig fabrikk kåret til verdens beste bygning - Bygg.no"
+  },
   "(+) fôrflåte sank i skottland - kyst.no": {
     "categories": [
       "oppdrett"
@@ -379,16 +389,6 @@
     "published": "Sun, 18 Oct 2026 09:14:34 GMT",
     "source_name": "NRK Nordland",
     "title": "Båt med ti personer har grunnstøtt"
-  },
-  "båt, ankenes | båt har grunnstøtt på ankenes: etterlyser eier – og det brennkvikt - fremover": {
-    "categories": [
-      "havari_berging"
-    ],
-    "first_seen": "2026-10-17T09:31:17.855202+00:00",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPX2VpeXN6ME5tSGV1VGhVYnRPRVdmSlpQTlUxeGhfczBhNnNQbkZPcFlMcWEwN0NpYWhhZHRLcVdWR3hvVUxPend6bFBicmFKU2RCNndsVXdjM3U1UzdPcjY0RFlRRndQNEgzUzhsaVFXWFI1dzlQbmVicDcxUjdjNEREUVMxMUZobmNpZmpVMmxoTlRqcjdKSmpscGV5dzBwcmVZ?oc=5",
-    "published": "Fri, 16 Oct 2026 14:35:38 GMT",
-    "source_name": "GNews: grunnstøting/forlis",
-    "title": "Båt, Ankenes | Båt har grunnstøtt på Ankenes: Etterlyser eier – og det brennkvikt - Fremover"
   },
   "cermaq bygger fabrikk i usa (+) - intrafish": {
     "categories": [
@@ -865,16 +865,6 @@
     "source_name": "NRK Troms og Finnmark",
     "title": "No kastar forskarane loss mot den mest avsidesliggande øya i verda"
   },
-  "norsk selskap har startet stridsvognbygging": {
-    "categories": [
-      "industri"
-    ],
-    "first_seen": "2026-10-17T09:31:17.855202+00:00",
-    "link": "https://www.tu.no/forsvar/norsk-selskap-har-startet-stridsvognbygging/7147321",
-    "published": "Fri, 16 Oct 2026 15:46:15 +0200",
-    "source_name": "Teknisk Ukeblad (TU.no)",
-    "title": "Norsk selskap har startet stridsvognbygging"
-  },
   "norsk sjøkabel kan gjøre canada uavhengig av usa": {
     "categories": [
       "infrastruktur"
@@ -1004,6 +994,16 @@
     "published": "Wed, 11 Nov 2026 20:52:57 GMT",
     "source_name": "GNews: grunnstøting/forlis",
     "title": "Politiloggen, Flekkefjord | Fant båten etter mulig grunnstøting - Avisen Agder"
+  },
+  "rakett havarerte med 40 amazon-satellitter i florida": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-11-16T13:51:46.677691+00:00",
+    "link": "https://www.tu.no/romfart/rakett-havarerte-med-40-amazon-satellitter-i-florida/7184692",
+    "published": "Mon, 16 Nov 2026 07:49:03 +0100",
+    "source_name": "Teknisk Ukeblad (TU.no)",
+    "title": "Rakett havarerte med 40 Amazon-satellitter i Florida"
   },
   "redningsaksjon etter tenåring i hadsel": {
     "categories": [
@@ -1135,16 +1135,6 @@
     "source_name": "iLaks",
     "title": "Statsforvalteren sier nei til lukkede Grieg-anlegg: – Bekymret for utviklingen i fjorden"
   },
-  "stenger molo etter at turistbåt havnet i fjæra": {
-    "categories": [
-      "infrastruktur"
-    ],
-    "first_seen": "2026-10-17T09:31:17.855202+00:00",
-    "link": "https://www.nrk.no/nordland/bat-slet-seg-i-uvaeret-_-moloen-i-nyksund-stenges-1.18056797",
-    "published": "Fri, 16 Oct 2026 11:47:49 GMT",
-    "source_name": "NRK Nordland",
-    "title": "Stenger molo etter at turistbåt havnet i fjæra"
-  },
   "styrker satsing på nanobobler i bassengene på andøya": {
     "categories": [
       "oppdrett"
@@ -1244,16 +1234,6 @@
     "published": "Sat, 14 Nov 2026 09:43:35 GMT",
     "source_name": "NRK Troms og Finnmark",
     "title": "Tror fortøyninger ble løsnet med vilje: – Kunne fått alvorlige konsekvenser"
-  },
-  "ulykker, øksnes | holder grunnstøtt båt på plass med gravemaskin - bladet vesterålen": {
-    "categories": [
-      "havari_berging"
-    ],
-    "first_seen": "2026-10-17T09:31:17.855202+00:00",
-    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE94SmFWX3h5djhEZFpUa0lDTThsd2hOVjdSYl9RcU8wc0pPd0JkNE9KQlQ1Q3RGejhPQXBHQVJWQkJXSGk3Z1dlam56cTN6S3RxVmJjcjhHbHg4S2RwejRzYVpWZnc2aUJSei15eTJhdXBWRWNsbjRNNHhFdw?oc=5",
-    "published": "Fri, 16 Oct 2026 15:01:48 GMT",
-    "source_name": "GNews: grunnstøting/forlis",
-    "title": "Ulykker, Øksnes | Holder grunnstøtt båt på plass med gravemaskin - Bladet Vesterålen"
   },
   "vannbrudd i kirkenes: vannflasker rives fra butikkhyllene": {
     "categories": [
