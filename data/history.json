@@ -129,6 +129,16 @@
     "source_name": "GNews site: Bygg.no",
     "title": "(+) RingAlm og Begna bruk samler salgs­virksomheten - Bygg.no"
   },
+  "(+) spuntarbeider forårsaket strømbrudd i sarpsborg - anlegg.no": {
+    "categories": [
+      "infrastruktur"
+    ],
+    "first_seen": "2026-11-17T14:43:52.252811+00:00",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNb2ZSYVFrRU1GNVFhcGdlTGp4UlNLYmZLV3RHdUhGZzhNeGdrREZEVHBWV3Q2MFJjT3BCOWNjNVF0bjNGRXhmbXEtTlpELWVmUklQeHZtVC1Qd1hZdGhfZENQenZ3TERGY0dQTDBkQ1pPVmRITXZDRW9qWjFjbU9IdVBwdThzQm9WYV9DeC1jSUZ5VEVIb3EteE9XUWRlUk9vOExjR3AzbGdjQmc0OURNbA?oc=5",
+    "published": "Tue, 17 Nov 2026 10:50:59 GMT",
+    "source_name": "GNews site: Bygg.no",
+    "title": "(+) Spuntarbeider forårsaket strømbrudd i Sarpsborg - Anlegg.no"
+  },
   "(+) stanser karbon­fangst­prosjekt på sement­fabrikk - bygg.no": {
     "categories": [
       "industri"
@@ -380,16 +390,6 @@
     "source_name": "GNews site: IntraFish",
     "title": "Bygger merder til halve prisen av stål (+) - Intrafish"
   },
-  "båt med ti personer har grunnstøtt": {
-    "categories": [
-      "havari_berging"
-    ],
-    "first_seen": "2026-10-18T09:44:51.553362+00:00",
-    "link": "https://www.nrk.no/nordland/lastebat-har-gatt-pa-grunn-utenfor-bodo-1.18057813",
-    "published": "Sun, 18 Oct 2026 09:14:34 GMT",
-    "source_name": "NRK Nordland",
-    "title": "Båt med ti personer har grunnstøtt"
-  },
   "cermaq bygger fabrikk i usa (+) - intrafish": {
     "categories": [
       "industri"
@@ -459,16 +459,6 @@
     "published": "Sun, 08 Nov 2026 19:59:21 GMT",
     "source_name": "GNews: kantring/vrak/berging",
     "title": "Dødstallet stiger etter at migrantbåt kantret utenfor Senegal - VG"
-  },
-  "elleve savnet etter kantring i mexico – overlevende bitt av hai - abc nyheter": {
-    "categories": [
-      "havari_berging"
-    ],
-    "first_seen": "2026-10-18T09:44:51.553362+00:00",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMkhScjBTaWdVeUdlc292SG90NUZKRDRnQ01JLUpGemp2M1laOThmRTNMMUYxaGFrVndhSjdMZVo4VC1ldTB4MUV6ZWJ4dmVrYVN1MFRLVG03MXBKWVhPc21CTWdXNkp3VUlhYXphZjBmbC1qLTUwTU85d0pQRzNubHBwLWRPYzNEdmFzU25WNV9Yc0lQTVpMRFhGLUsyTm9PaHBGUEVn?oc=5",
-    "published": "Sun, 18 Oct 2026 02:11:39 GMT",
-    "source_name": "GNews: kantring/vrak/berging",
-    "title": "Elleve savnet etter kantring i Mexico – overlevende bitt av hai - ABC Nyheter"
   },
   "enova gir 3,9 milliarder til to flytende havvindanlegg": {
     "categories": [
@@ -540,26 +530,6 @@
     "source_name": "NRK Sørlandet",
     "title": "Flere hundre leter etter savnet: – Familien setter stor pris på det"
   },
-  "flys til ullevål sykehus etter dykkerulykke: – ukjent skadeomfang": {
-    "categories": [
-      "havari_berging"
-    ],
-    "first_seen": "2026-10-18T09:44:51.553362+00:00",
-    "link": "https://www.nrk.no/sorlandet/luftambulanse-kalt-ut-_-dykker-skal-ha-fatt-problemer-1.18057833",
-    "published": "Sun, 18 Oct 2026 08:53:10 GMT",
-    "source_name": "NRK Sørlandet",
-    "title": "Flys til Ullevål sykehus etter dykkerulykke: – Ukjent skadeomfang"
-  },
-  "forsvarsevne kan ikke hastebestilles": {
-    "categories": [
-      "infrastruktur"
-    ],
-    "first_seen": "2026-10-18T09:44:51.553362+00:00",
-    "link": "https://www.tu.no/debatt/forsvarsevne-kan-ikke-hastebestilles/7146119",
-    "published": "Sun, 18 Oct 2026 07:41:49 +0200",
-    "source_name": "Teknisk Ukeblad (TU.no)",
-    "title": "Forsvarsevne kan ikke hastebestilles"
-  },
   "funnet død 600 kilometer unna forlis - tv 2 play": {
     "categories": [
       "havari_berging"
@@ -589,26 +559,6 @@
     "published": "Sun, 18 Oct 2026 13:31:20 GMT",
     "source_name": "GNews: grunnstøting/forlis",
     "title": "Grunnstøting, Blålys | Båt med ti personer om bord grunnstøtte - Lofotposten"
-  },
-  "grunnstøting, blålys | båt med ti personer om bord har grunnstøtt - lofotposten": {
-    "categories": [
-      "havari_berging"
-    ],
-    "first_seen": "2026-10-18T09:44:51.553362+00:00",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMFgzVW52YlhoYjdQamk0MHFEQXI2N0tvVjA3Z3dyQU5XSV9FNFh1c1J3VURXMmRhRS1WZ0lTTkE1VERXdklzRDVhUC1pYnhPVXNsLVl6SDRRZDNwZDhlYkl3NUJSS2s2VHJMLTVTcVlkX2hQZXA1clhNUU9uMDk4VUpBTUJZVERjb0dV?oc=5",
-    "published": "Sun, 18 Oct 2026 09:06:33 GMT",
-    "source_name": "GNews: grunnstøting/forlis",
-    "title": "Grunnstøting, Blålys | Båt med ti personer om bord har grunnstøtt - Lofotposten"
-  },
-  "grunnstøting, hovedredningssentralen nord-norge | båt med 10 personer om bord grunnstøtte ved bodø - rana blad": {
-    "categories": [
-      "havari_berging"
-    ],
-    "first_seen": "2026-10-18T09:44:51.553362+00:00",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZG5tS3JPUERhM1NqU0JBcjJ1aEkycFpQRWxrOURSLWhheWRCcFZ3ZXBlaUEzRG8wbkVkNFZ5NlhveE9CSHoyTlNXUlhmclZxUmFQYkIxQlotczJvVW5kWXZtM2VTRU45aWI5SS1JQWlka0hEeHBNTjg5S3NBTG1VYTJmNzl6TjVlU3I4aExHVQ?oc=5",
-    "published": "Sun, 18 Oct 2026 09:03:04 GMT",
-    "source_name": "GNews: grunnstøting/forlis",
-    "title": "Grunnstøting, Hovedredningssentralen Nord-Norge | Båt med 10 personer om bord grunnstøtte ved Bodø - Rana Blad"
   },
   "grønt lys til å bygge datasenter og batterifabrikk i orkanger": {
     "categories": [
@@ -691,16 +641,6 @@
     "published": "Wed, 28 Oct 2026 13:32:09 +0000",
     "source_name": "iLaks",
     "title": "HI-forsker om makrellstørje i merdene: – Laks står trolig ikke på hovedmenyen"
-  },
-  "hurtigbåten truer med å innstille avganger i musken: – vi må tenke på sikkerhet": {
-    "categories": [
-      "infrastruktur"
-    ],
-    "first_seen": "2026-10-18T09:44:51.553362+00:00",
-    "link": "https://www.nrk.no/sapmi/hurtigbaten-truer-med-a-innstille-avganger-i-musken_-_-vi-ma-tenke-pa-sikkerhet-1.18055596",
-    "published": "Fri, 16 Oct 2026 18:06:22 GMT",
-    "source_name": "NRK Nordland",
-    "title": "Hurtigbåten truer med å innstille avganger i Musken: – Vi må tenke på sikkerhet"
   },
   "innlegg: datasenter­stansen gir et tidsvindu – bruk det til å modne tomtene - bygg.no": {
     "categories": [
@@ -864,6 +804,17 @@
     "published": "Wed, 11 Nov 2026 06:53:33 GMT",
     "source_name": "NRK Troms og Finnmark",
     "title": "No kastar forskarane loss mot den mest avsidesliggande øya i verda"
+  },
+  "nofi skiller ut oljevern og rendyrker satsing på havbruk": {
+    "categories": [
+      "havari_berging",
+      "oppdrett"
+    ],
+    "first_seen": "2026-11-17T14:43:52.252811+00:00",
+    "link": "https://ilaks.no/nofi-skiller-ut-oljevern-og-rendyrker-satsing-pa-havbruk/?mtm_campaign=feed_click&mtm_kwd=nofi-skiller-ut-oljevern-og-rendyrker-satsing-pa-havbruk&mtm_source=RSS2&mtm_medium=feed",
+    "published": "Tue, 17 Nov 2026 06:23:42 +0000",
+    "source_name": "iLaks",
+    "title": "NOFI skiller ut oljevern og rendyrker satsing på havbruk"
   },
   "norsk sjøkabel kan gjøre canada uavhengig av usa": {
     "categories": [
@@ -1054,6 +1005,26 @@
     "published": "Thu, 05 Nov 2026 09:50:07 +0000",
     "source_name": "iLaks",
     "title": "Salfjord vil satse til havs: Etablerer joint venture med Norway Offshore Salmon"
+  },
+  "salmar: – hjelper lite å åpne nye områder dersom rammevilkårene gjør det økonomisk uforsvarlig å investere": {
+    "categories": [
+      "oppdrett"
+    ],
+    "first_seen": "2026-11-17T14:43:52.252811+00:00",
+    "link": "https://ilaks.no/salmar-det-hjelper-lite-a-apne-nye-omrader-dersom-rammevilkarene-gjor-det-okonomisk-uforsvarlig-a-investere/?mtm_campaign=feed_click&mtm_kwd=salmar-det-hjelper-lite-a-apne-nye-omrader-dersom-rammevilkarene-gjor-det-okonomisk-uforsvarlig-a-investere&mtm_source=RSS2&mtm_medium=feed",
+    "published": "Tue, 17 Nov 2026 14:09:59 +0000",
+    "source_name": "iLaks",
+    "title": "SalMar: – Hjelper lite å åpne nye områder dersom rammevilkårene gjør det økonomisk uforsvarlig å investere"
+  },
+  "sender havbruk til havs på høring - kyst.no": {
+    "categories": [
+      "oppdrett"
+    ],
+    "first_seen": "2026-11-17T14:43:52.252811+00:00",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSHZsczhKLVJtbjE4blpDeU9FM2QzcTBVTnQ5R25WTzZvTHI0aktaM1M4ei1NMUt3bnhMZEd2TWhlb01qZXUwU3VlSE1aZ3F6M2l5SHlPWWt1MmV6ZDUyWEVKb0x5YlEwcGwwdGU3ZTZXNTNVVW9DenhPcnRkbHJMQkhreHFUQTJlS09Mcnlvd1ltNzN0NDdiWldrMEg3Z2luT1cwRw?oc=5",
+    "published": "Tue, 17 Nov 2026 09:24:46 GMT",
+    "source_name": "GNews site: Kyst.no",
+    "title": "Sender havbruk til havs på høring - Kyst.no"
   },
   "skatteetaten vil slå verft for lukkede merder konkurs (+) - intrafish": {
     "categories": [
@@ -1285,15 +1256,15 @@
     "source_name": "GNews: ny kai/molo/bru",
     "title": "Vil bytte til seg eiendom for å sikre vei til ny molo - altaposten.no"
   },
-  "vil ha sjøkabel tilbake på bordet - morenytt.no": {
+  "ytre steinsund bru - byggeprosjekter": {
     "categories": [
       "infrastruktur"
     ],
-    "first_seen": "2026-10-18T09:44:51.553362+00:00",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYmxpVGZYYnlEMU9DWFMyZmVmV0paOHNXUFFWQVVEM3VRSXhIUWNiYUJFdXBQM2ZKRF9EMHR1SXp5d1hzVVhRSGpoWERkNkNiTjhYbzJSdzNRNEZWLUxpcHkydUZzWmJQOHFDbXUycS1iMHZnMDFDVkJOd3AxbE11eWNwSQ?oc=5",
-    "published": "Sat, 17 Oct 2026 09:30:00 GMT",
-    "source_name": "GNews: sjøkabel/sjøledning",
-    "title": "Vil ha sjøkabel tilbake på bordet - morenytt.no"
+    "first_seen": "2026-11-17T14:43:52.252811+00:00",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9pLUlGbUhEQTA0cFBmbmRfbHRzNVFnR1dibnlNSDQ2NGpxbEpzQnlQZkNNcHlwYVRmYmE1cTAyaldzaHl2Y0lEWWpNbmJBLVFHeGwzajRHcnRMMEpoZWlmM3ZTaGIwMnNzQ3FIWHhKb2g3b1kwazZRUTNSYTU?oc=5",
+    "published": "Tue, 17 Nov 2026 08:11:09 GMT",
+    "source_name": "GNews site: Bygg.no",
+    "title": "Ytre Steinsund bru - Byggeprosjekter"
   },
   "ytterøya | koster 213 millioner: ja til ny ferjekai - ilevanger": {
     "categories": [
@@ -1354,6 +1325,26 @@
     "published": "Fri, 30 Oct 2026 11:59:59 +0100",
     "source_name": "Teknisk Ukeblad (TU.no)",
     "title": "– Arkitekter må ta sin del av ansvaret"
+  },
+  "– dette er en viktig og helt sentral milepæl for realisering av havbruk til havs - fiskeribladet": {
+    "categories": [
+      "oppdrett"
+    ],
+    "first_seen": "2026-11-17T14:43:52.252811+00:00",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ3JQa3gyV29EX3ZSdVhEX2dISHdJbGk2dU1OeThCalozZmZVU1RGd2N6VFRpSjRHbENlQVBfWV9CUUpxOTl1bFBMVTExb2xFeTlKZ2lpOGdGY3VTcmJOMUJEQ0VlTVdaVGpXS3lnNE5mRkQzTF9LSFdoQW41cVNhM0tUX3R6dDk1NkZJREFWNEtoTENDdl9CNnVDZWhVdmdFYTRhMk10X1JHbFJVZUxtNGtEenozamZ1emdYNEdabVEzdmlTb0FNZg?oc=5",
+    "published": "Tue, 17 Nov 2026 09:14:44 GMT",
+    "source_name": "GNews site: Fiskeribladet",
+    "title": "– Dette er en viktig og helt sentral milepæl for realisering av havbruk til havs - Fiskeribladet"
+  },
+  "– dette er en viktig og helt sentral milepæl for realisering av havbruk til havs - intrafish": {
+    "categories": [
+      "oppdrett"
+    ],
+    "first_seen": "2026-11-17T14:43:52.252811+00:00",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPd1VpWFByYkhiT0dzRmt1TGx0NlhYMHNhNnAwc3lvaDJiM1ZkT0J0UDdlVkpVZTRpN2VIOTJnSUk2UEpPWTljYnY5NVduRVVPeGs3YlhLUGxRbWZDY2xBcjRSZHZ6YU92TGtJSm5tRmZUZ2thQUF2Rk40eHNnc2ZJZmlqSDk3R08xZjBVU2lIbDdRQTFFRzgtYUdCeDU2VDNuVFNtLVVnY0tDUnJzTGktUEJ3djhEdkpZb0szUlI0QUhka1U?oc=5",
+    "published": "Tue, 17 Nov 2026 08:41:10 GMT",
+    "source_name": "GNews site: IntraFish",
+    "title": "– Dette er en viktig og helt sentral milepæl for realisering av havbruk til havs - Intrafish"
   },
   "– en offensiv og ambisiøs selger som brenner for akvakultur": {
     "categories": [
