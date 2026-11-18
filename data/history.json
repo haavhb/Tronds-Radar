@@ -9,6 +9,26 @@
     "source_name": "GNews site: Bygg.no",
     "title": "(+) Arbeidstilsynet fant brudd i 60 prosent av tilsynene mot NUF-selskap - Bygg.no"
   },
+  "(+) bane nor starter spunting ved rockwool i moss - anlegg.no": {
+    "categories": [
+      "infrastruktur"
+    ],
+    "first_seen": "2026-11-18T14:22:46.566299+00:00",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMjVMZnV6dFJtWmNPYVhybWRuTElpWXpuTHk3NncyTmpNT283aUpKdW5TeXJJeUhlcXpudG1HdmM4RTVUN1Y3SjdWcGRDQ3dYdTgxazZRUUtncVYxUGNZSVZyd2RzMXFTeGZaN1dNSURKMW5qcThOSkh5bDhXVWx2a3dpblZEa1RYbFcxcF9VVXdwOWtKby1MazVDY3p5Y0ZrcFItSw?oc=5",
+    "published": "Tue, 17 Nov 2026 14:54:24 GMT",
+    "source_name": "GNews site: Bygg.no",
+    "title": "(+) Bane Nor starter spunting ved Rockwool i Moss - Anlegg.no"
+  },
+  "(+) ber om avklaringer før havbruk til havs-satsing - kyst.no": {
+    "categories": [
+      "oppdrett"
+    ],
+    "first_seen": "2026-11-18T14:22:46.566299+00:00",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTXpvSVJnQ2hna3JtUm5MREdLbE5DeW04RHJCUDRCSEk4bk1DMFgwOWU1RjVBRHRQT21UQU5EU2lGclhKWFpteXYzQlJCRzN0aTUya040Z3NxUlhrTy11T2JZLVpVMDJMZUVRbkhWTWw3SUhmVVhpdk1yRUtHaW9INXRPNXhrMngxb05BMmZXM1EyeHhlRVBGMnl3S25aVHZIeW9fV1VQVXltUm5Fck9jWmI1QWlCQ3FV?oc=5",
+    "published": "Wed, 18 Nov 2026 08:52:25 GMT",
+    "source_name": "GNews site: Kyst.no",
+    "title": "(+) Ber om avklaringer før havbruk til havs-satsing - Kyst.no"
+  },
   "(+) betong øst bygger ny fabrikk i nittedal - anlegg.no": {
     "categories": [
       "industri"
@@ -68,6 +88,16 @@
     "published": "Fri, 30 Oct 2026 12:13:16 GMT",
     "source_name": "GNews site: Kyst.no",
     "title": "(+) Fôrflåte sank i Skottland - Kyst.no"
+  },
+  "(+) laks på over fem kilo rømte fra lokalitet - kyst.no": {
+    "categories": [
+      "oppdrett"
+    ],
+    "first_seen": "2026-11-18T14:22:46.566299+00:00",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLXltOGtVMWRuRHZ0YlMtN05yWTdIVkd6N3NQMV9OdDE4X1JwWjd6SjBkSlZtRDBqTVZpTzdGM2J1dGF1WVBJZVdTX0l2VzgyUWswb05wUkFWcnRpRWVrNnNaUExEY0FUNFpUV0c4c3VjZDg1ZXlwZllYVGVkQWdPdloxaUR2RzEtM3MzVmZSUQ?oc=5",
+    "published": "Wed, 18 Nov 2026 11:58:08 GMT",
+    "source_name": "GNews site: Kyst.no",
+    "title": "(+) Laks på over fem kilo rømte fra lokalitet - Kyst.no"
   },
   "(+) lerøy får leggja sjøkabel til djupestallen - tysnesbladet": {
     "categories": [
@@ -239,16 +269,6 @@
     "source_name": "GNews site: Bygg.no",
     "title": "Aasland avviser at havvind­satsingen er i ferd med å mislykkes - Anlegg.no"
   },
-  "amokabel er valgt til kabelleverandør til et av europas største landbaserte oppdrettsanlegg": {
-    "categories": [
-      "oppdrett"
-    ],
-    "first_seen": "2026-10-19T10:59:58.779200+00:00",
-    "link": "https://ilaks.no/amokabel-er-valgt-til-kabelleverandor-til-et-av-europas-storste-landbaserte-oppdrettsanlegg/?mtm_campaign=feed_click&mtm_kwd=amokabel-er-valgt-til-kabelleverandor-til-et-av-europas-storste-landbaserte-oppdrettsanlegg&mtm_source=RSS2&mtm_medium=feed",
-    "published": "Mon, 19 Oct 2026 10:23:43 +0000",
-    "source_name": "iLaks",
-    "title": "Amokabel er valgt til kabelleverandør til et av Europas største landbaserte oppdrettsanlegg"
-  },
   "analytiker om landbasert: – sektoren har kommet et steg videre": {
     "categories": [
       "oppdrett"
@@ -350,16 +370,6 @@
     "source_name": "iLaks",
     "title": "Biomassen flater ut – på høyt nivå"
   },
-  "brann på fiskebåt: fire personer funnet på flåte": {
-    "categories": [
-      "havari_berging"
-    ],
-    "first_seen": "2026-10-19T10:59:58.779200+00:00",
-    "link": "https://www.nrk.no/sorlandet/brann-pa-fiskebat_-fire-personer-funnet-pa-flate-1.18057957",
-    "published": "Sun, 18 Oct 2026 13:35:03 GMT",
-    "source_name": "NRK Vestfold og Telemark",
-    "title": "Brann på fiskebåt: Fire personer funnet på flåte"
-  },
   "britisk hangarskip til kai i namsos: – det er et svært viktig besøk": {
     "categories": [
       "infrastruktur"
@@ -440,6 +450,26 @@
     "source_name": "iLaks",
     "title": "Den første smolten er satt ut i tankene hos Arctic Seafarm på Nesna"
   },
+  "drømmen om offshore-oppdrett hemmes av uavklart skatteregning": {
+    "categories": [
+      "oppdrett"
+    ],
+    "first_seen": "2026-11-18T14:22:46.566299+00:00",
+    "link": "https://ilaks.no/drommen-om-offshore-oppdrett-hemmes-av-uavklart-skatteregning/?mtm_campaign=feed_click&mtm_kwd=drommen-om-offshore-oppdrett-hemmes-av-uavklart-skatteregning&mtm_source=RSS2&mtm_medium=feed",
+    "published": "Wed, 18 Nov 2026 09:58:49 +0000",
+    "source_name": "iLaks",
+    "title": "Drømmen om offshore-oppdrett hemmes av uavklart skatteregning"
+  },
+  "dypvannskaia i mo i rana er i drift - kystverket": {
+    "categories": [
+      "infrastruktur"
+    ],
+    "first_seen": "2026-11-18T14:22:46.566299+00:00",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB6bjZkcXBPb0pocmpEcF9tZENrNnYtT2RSZGE4OWdjcXVNZ1kzSW1DMEltRFBVWkcybkVqajN3a3FhSTA5V3FLU1pONDdNZnVPZWJZeGk3UTJFWHJZbGNyWm1BanMzamwyN0M1eTlUVUNsMVNXRHpvOGhn?oc=5",
+    "published": "Wed, 18 Nov 2026 12:59:53 GMT",
+    "source_name": "GNews site: Kystverket",
+    "title": "Dypvannskaia i Mo i Rana er i drift - Kystverket"
+  },
   "dødelighetsrisikoen i merdene synker – så mange laks er rapportert døde i sjøfasen i år": {
     "categories": [
       "oppdrett"
@@ -510,16 +540,6 @@
     "source_name": "GNews: grunnstøting/forlis",
     "title": "Fiskeri, Grunnstøting | Lofotbåt grunnstøtte: – Våknet med et voldsomt brak og båten sto i fjæra - Lofotposten"
   },
-  "flakstad uten mobildekning siden fredag: – trolig brudd på sjøkabel - lofotposten": {
-    "categories": [
-      "infrastruktur"
-    ],
-    "first_seen": "2026-10-19T10:59:58.779200+00:00",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOS3IxaXNQNl9fQ09pNnFrc0ZLMmlRMFllVnlXdWpqWmFka2VaQ2pjdUs3c1BWVDYtR1lIb1BXWS16c2N1eEs2SmVSWWowSFJNVG50alJtVWFtUFBONHZKclR0WlV1SUQ1SHBheFNXb0Q0b1pXUGtNdk5nNWZ0TUthSTlrZ0p4UDVsM0IxNEdJOWdwQ0diQUVodk1JaXljR0pyLWNGdk84aFlMWnQ5clE?oc=5",
-    "published": "Sat, 17 Oct 2026 15:51:05 GMT",
-    "source_name": "GNews: sjøkabel/sjøledning",
-    "title": "Flakstad uten mobildekning siden fredag: – Trolig brudd på sjøkabel - Lofotposten"
-  },
   "flere hundre leter etter savnet: – familien setter stor pris på det": {
     "categories": [
       "havari_berging"
@@ -549,16 +569,6 @@
     "published": "Fri, 30 Oct 2026 10:16:12 GMT",
     "source_name": "NRK Rogaland",
     "title": "Får milliardbeløp for å gjøre havvind billigere"
-  },
-  "grunnstøting, blålys | båt med ti personer om bord grunnstøtte - lofotposten": {
-    "categories": [
-      "havari_berging"
-    ],
-    "first_seen": "2026-10-19T10:59:58.779200+00:00",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMFgzVW52YlhoYjdQamk0MHFEQXI2N0tvVjA3Z3dyQU5XSV9FNFh1c1J3VURXMmRhRS1WZ0lTTkE1VERXdklzRDVhUC1pYnhPVXNsLVl6SDRRZDNwZDhlYkl3NUJSS2s2VHJMLTVTcVlkX2hQZXA1clhNUU9uMDk4VUpBTUJZVERjb0dV?oc=5",
-    "published": "Sun, 18 Oct 2026 13:31:20 GMT",
-    "source_name": "GNews: grunnstøting/forlis",
-    "title": "Grunnstøting, Blålys | Båt med ti personer om bord grunnstøtte - Lofotposten"
   },
   "grønt lys til å bygge datasenter og batterifabrikk i orkanger": {
     "categories": [
@@ -661,6 +671,16 @@
     "published": "Fri, 06 Nov 2026 11:26:22 GMT",
     "source_name": "GNews site: IntraFish",
     "title": "Islandsk gigant kjøper konkursrammet landbasert oppdretter (+) - Intrafish"
+  },
+  "kinesisk batterigigant satser i norge: – vi har arbeidet under radaren": {
+    "categories": [
+      "infrastruktur"
+    ],
+    "first_seen": "2026-11-18T14:22:46.566299+00:00",
+    "link": "https://www.tu.no/energi/kinesisk-batterigigant-satser-i-norge-vi-har-arbeidet-under-radaren/7143482",
+    "published": "Wed, 18 Nov 2026 11:34:33 +0100",
+    "source_name": "Teknisk Ukeblad (TU.no)",
+    "title": "Kinesisk batterigigant satser i Norge: – Vi har arbeidet under radaren"
   },
   "kirkevegg blåste bort": {
     "categories": [
@@ -1055,16 +1075,6 @@
     "published": "Wed, 21 Oct 2026 09:53:41 GMT",
     "source_name": "GNews site: Fiskeribladet",
     "title": "Slik kan oppdrettstorsk forhindres fra å gyte i merd - Fiskeribladet"
-  },
-  "smelteverket vil bli først i verden: men først må de stå i strømkø": {
-    "categories": [
-      "industri"
-    ],
-    "first_seen": "2026-10-19T10:59:58.779200+00:00",
-    "link": "https://www.nrk.no/tromsogfinnmark/finnfjord-as-vil-bli-forst-i-verden_-men-forst-ma-de-sta-i-stromko-1.18054865",
-    "published": "Mon, 19 Oct 2026 03:15:45 GMT",
-    "source_name": "NRK Troms og Finnmark",
-    "title": "Smelteverket vil bli først i verden: Men først må de stå i strømkø"
   },
   "smoltoppdretter på frøya posisjonerer seg for offshore-satsing": {
     "categories": [
