@@ -1,14 +1,4 @@
 {
-  "(+) arbeidstilsynet fant brudd i 60 prosent av tilsynene mot nuf-selskap - bygg.no": {
-    "categories": [
-      "infrastruktur"
-    ],
-    "first_seen": "2026-10-20T10:13:51.607616+00:00",
-    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcTZ5NGZNdUtmREpvaFZqYTNVQUxIVy1RUDd1YmN5YUxUN2RNRzhWem9FM1NrRHZxN1FDbmplbkxvWTdpc3RIOHZtYTlIMVFjNzF0cmpmWTktVVRZZ3ZyTkNJSWhRMHNUQWJhSmNGQVRkel92emRsQUZhXzBwTlB0eU5ZTHU4dkdXdXBpNGdsSDdwb251SXRnV0dQVHJ4M25Pek5aZVV5eVVwRVVUbFJPbzYweFV1M3l4LVRhU0J2YzNSX1pNN1VNa1dQUEl5a05OdWZPRHZYUU1xZWZ4SWRldA?oc=5",
-    "published": "Tue, 20 Oct 2026 05:03:15 GMT",
-    "source_name": "GNews site: Bygg.no",
-    "title": "(+) Arbeidstilsynet fant brudd i 60 prosent av tilsynene mot NUF-selskap - Bygg.no"
-  },
   "(+) bane nor starter spunting ved rockwool i moss - anlegg.no": {
     "categories": [
       "infrastruktur"
@@ -138,6 +128,16 @@
     "published": "Mon, 26 Oct 2026 14:19:27 GMT",
     "source_name": "GNews site: Kyst.no",
     "title": "(+) Oksygenering i landbasert oppdrett: – Når får fisken nok? - Kyst.no"
+  },
+  "(+) planlegger biokarbon­fabrikk til 40.000 tonn på herøya - bygg.no": {
+    "categories": [
+      "industri"
+    ],
+    "first_seen": "2026-11-19T14:33:48.306413+00:00",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcDVqZEVQMGd5eXdiVjI2azZFREhWY1IzXzI0OHU0LUZJclJaSmhxS2xwV05saGRrSFYyTkp0RmtuTzl1ODF5RS1HNGtKRWY3OFBsY3NYd2E2bU1ENC1RZlFIYnlDSGgwdk1udGRQbU95S3JUT2hqVUNuVENrVXFHeDlOTF9tdHQ5d0JYMkIxNVNNakIxSzNrbGduNzN1MTJ5elkwbHo3SVJ3djA3VUpBZ3lB?oc=5",
+    "published": "Thu, 19 Nov 2026 10:59:07 GMT",
+    "source_name": "GNews site: Bygg.no",
+    "title": "(+) Planlegger biokarbon­fabrikk til 40.000 tonn på Herøya - Bygg.no"
   },
   "(+) rapport: ki-bruken skyter fart i bygg og anlegg - bygg.no": {
     "categories": [
@@ -360,16 +360,6 @@
     "source_name": "GNews: grunnstøting/forlis",
     "title": "Bastøyferga har grunnstøtt utenfor Horten - Aftenposten"
   },
-  "biomassen flater ut – på høyt nivå": {
-    "categories": [
-      "oppdrett"
-    ],
-    "first_seen": "2026-10-20T10:13:51.607616+00:00",
-    "link": "https://ilaks.no/biomassen-flater-ut-pa-hoyt-niva/?mtm_campaign=feed_click&mtm_kwd=biomassen-flater-ut-pa-hoyt-niva&mtm_source=RSS2&mtm_medium=feed",
-    "published": "Tue, 20 Oct 2026 05:46:47 +0000",
-    "source_name": "iLaks",
-    "title": "Biomassen flater ut – på høyt nivå"
-  },
   "britisk hangarskip til kai i namsos: – det er et svært viktig besøk": {
     "categories": [
       "infrastruktur"
@@ -499,16 +489,6 @@
     "published": "Fri, 30 Oct 2026 08:53:49 +0100",
     "source_name": "Teknisk Ukeblad (TU.no)",
     "title": "Enova gir 3,9 milliarder til to flytende havvindanlegg"
-  },
-  "eu gir 3,3 milliarder kroner til norske havvind- og karbonfangst­prosjekter - bygg.no": {
-    "categories": [
-      "industri"
-    ],
-    "first_seen": "2026-10-20T10:13:51.607616+00:00",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPd3cxVmtsbU5DdFVFR1hQbFFodEx4c0laV0dBbEZwTlpObDdJT3ZZb2hjeUJNSnZjTnkxMURmUW5jdU03N1E0ejB5NGc4OGJ2V05hU2VoNkE5d052RDAzeDZKOVRjR2JEMzV6Z3RKaEQ0Tkx3ajZoclFKQUc0YlVTd3RtMWJyS3lfeUlTckhEUE9SVGIzbDdaVVY0TUpPdTlvbVhSbThfTVBYcjJwX3pVRzVjdw?oc=5",
-    "published": "Tue, 20 Oct 2026 05:09:29 GMT",
-    "source_name": "GNews site: Bygg.no",
-    "title": "EU gir 3,3 milliarder kroner til norske havvind- og karbonfangst­prosjekter - Bygg.no"
   },
   "fergen havnet i småbåthavna: – teknisk svikt": {
     "categories": [
@@ -735,6 +715,16 @@
     "source_name": "GNews: grunnstøting/forlis",
     "title": "Kvanne -Rykkjem: ferja har grunnstøtt - ferjesambandet er innstilt på ubestemt tid - Trollheimsporten"
   },
+  "kystverket og rana kommune åpnet ny dypvannskai i mo i rana - anlegg.no": {
+    "categories": [
+      "infrastruktur"
+    ],
+    "first_seen": "2026-11-19T14:33:48.306413+00:00",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZ0QwNC1MN3dmSERCYjU1X0tFVXhyQ2JxZ3g0NnJiemNjajBhUWRmWmhsNWw5VlA2NWd3R3ZBNnV3SUk4YndqSUNVczUwd2lCbFRqVHZSdGx3a3AxYnVWX2dodHdlYThnZlJSNExxcWJsRWRzMEQxclJlbzBnWnNuM0x3?oc=5",
+    "published": "Wed, 18 Nov 2026 15:11:01 GMT",
+    "source_name": "GNews site: Bygg.no",
+    "title": "Kystverket og Rana kommune åpnet ny dypvannskai i Mo i Rana - Anlegg.no"
+  },
   "landbasert oppdretter vil gå tom for kontanter innen utløpet av oktober": {
     "categories": [
       "oppdrett"
@@ -754,6 +744,16 @@
     "published": "Thu, 22 Oct 2026 14:03:17 +0000",
     "source_name": "iLaks",
     "title": "Leverte sine første Protectus-merder: – Resultatet av mange år med utviklingsarbeid"
+  },
+  "lunken witzøe frykter grunnrenteskatt offshore": {
+    "categories": [
+      "oppdrett"
+    ],
+    "first_seen": "2026-11-19T14:33:48.306413+00:00",
+    "link": "https://ilaks.no/lunken-witzoe-frykter-grunnrenteskatt-offshore/?mtm_campaign=feed_click&mtm_kwd=lunken-witzoe-frykter-grunnrenteskatt-offshore&mtm_source=RSS2&mtm_medium=feed",
+    "published": "Thu, 19 Nov 2026 12:56:19 +0000",
+    "source_name": "iLaks",
+    "title": "Lunken Witzøe frykter grunnrenteskatt offshore"
   },
   "makrellstørje braste inn i mowi-merd - kyst.no": {
     "categories": [
@@ -846,15 +846,26 @@
     "source_name": "Teknisk Ukeblad (TU.no)",
     "title": "Norsk sjøkabel kan gjøre Canada uavhengig av USA"
   },
-  "nve: havvind og kjernekraft langt dyrere enn vannkraft": {
+  "ny broof(t2)-klassifisering gir flere valgmuligheter på pir - bygg.no": {
     "categories": [
+      "infrastruktur"
+    ],
+    "first_seen": "2026-11-19T14:33:48.306413+00:00",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaW9jbFlfNTg5V05mdXJrWmtabENSZkoyUFBxUFdtZm45WnRHT1dOaXM0VWdPWnQ3RXlmeEJoMlZLNkkwZnpYUEhURlVFZElDMWZmdTRDYWFIMTFmcDlMVjJSamlISGhsQzRJWnBWdWZVZXZuUndxNk9TUXY0OFB2MDdCbG9lVjNzUWpWdG84VHRFNWc3UWxVLVN4RTlFQQ?oc=5",
+    "published": "Thu, 19 Nov 2026 10:59:25 GMT",
+    "source_name": "GNews site: Bygg.no",
+    "title": "Ny BROOF(t2)-klassifisering gir flere valgmuligheter på PIR - Bygg.no"
+  },
+  "ny dypvannskai åpnet i mo i rana": {
+    "categories": [
+      "infrastruktur",
       "industri"
     ],
-    "first_seen": "2026-10-20T10:13:51.607616+00:00",
-    "link": "https://www.tu.no/energi/nve-havvind-og-kjernekraft-langt-dyrere-enn-vannkraft-og-vindkraft-pa-land/7147787",
-    "published": "Mon, 19 Oct 2026 09:48:47 +0200",
-    "source_name": "Teknisk Ukeblad (TU.no)",
-    "title": "NVE: Havvind og kjernekraft langt dyrere enn vannkraft"
+    "first_seen": "2026-11-19T14:33:48.306413+00:00",
+    "link": "https://www.nrk.no/nordland/ny-dypvannskai-apnet-i-mo-i-rana-1.18084486",
+    "published": "Wed, 18 Nov 2026 20:41:42 GMT",
+    "source_name": "NRK Nordland",
+    "title": "Ny dypvannskai åpnet i Mo i Rana"
   },
   "ny hurtigbåtkai på engenes: – et kjempeløft": {
     "categories": [
@@ -975,16 +986,6 @@
     "published": "Mon, 16 Nov 2026 07:49:03 +0100",
     "source_name": "Teknisk Ukeblad (TU.no)",
     "title": "Rakett havarerte med 40 Amazon-satellitter i Florida"
-  },
-  "redningsaksjon etter tenåring i hadsel": {
-    "categories": [
-      "havari_berging"
-    ],
-    "first_seen": "2026-10-20T10:13:51.607616+00:00",
-    "link": "https://www.nrk.no/nordland/nyhetssenter-nordland-1.15898380#1.18059323.1.18059323",
-    "published": "Tue, 20 Oct 2026 06:26:47 GMT",
-    "source_name": "NRK Nordland",
-    "title": "Redningsaksjon etter tenåring i Hadsel"
   },
   "regjeringen godkjenner plan for batterifabrikk og gigantdatasenter i orkland - bygg.no": {
     "categories": [
@@ -1126,6 +1127,16 @@
     "source_name": "iLaks",
     "title": "Styrker satsing på nanobobler i bassengene på Andøya"
   },
+  "støre besøkte settefiskanlegg: – det gjør inntrykk på meg (+) - intrafish": {
+    "categories": [
+      "oppdrett"
+    ],
+    "first_seen": "2026-11-19T14:33:48.306413+00:00",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNmxhdVlWUGZWcG5TckRvX0FpVEpRVmRERmxyQ2NOVjEycERVZHUzNHZzYUNPU3U4cWw1NFdoajhOZGtfbThRbXNUd2hJSVRscWRnT2ZzOC1FQThKUHI1TjdwVUFjamtiX2FyOXZwN3NINURDNlpRWm5hVGhoUHhKdkZ0T28xSld4b2tjWS1EcUx4cEpsUnpVaHVzZ29iVnV0?oc=5",
+    "published": "Thu, 19 Nov 2026 04:25:58 GMT",
+    "source_name": "GNews site: IntraFish",
+    "title": "Støre besøkte settefiskanlegg: – Det gjør inntrykk på meg (+) - Intrafish"
+  },
   "surnadal, kvanne-rykkjem | oljesøl etter grunnstøting: – regner med å bruke hele natta - tidens krav": {
     "categories": [
       "havari_berging"
@@ -1145,6 +1156,16 @@
     "published": "Thu, 29 Oct 2026 15:47:42 +0100",
     "source_name": "Teknisk Ukeblad (TU.no)",
     "title": "Teknisk Ukeblad brøt god presseskikk"
+  },
+  "tilbake i rute – årsak til grunnstøting fortsatt ukjent - rbnett.no": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-11-19T14:33:48.306413+00:00",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcjhseHowcEhQUkdRQzhMVjA5UUZqaTBMcFZrd2FyVWNvbFpsd21WelJacXFLd3hpaVRrcm94MFo3c0F2allTMV9ad1Y3LVRzaElNMml1UHl2YnlVVkI4QWUzRWdTbkdyRGxoOFY4YndVTDhTN1dPaWpLU003Q0JnZncwSm1qOFpwS2h3NkwtNjJ0cllYM2VkZmZB?oc=5",
+    "published": "Wed, 18 Nov 2026 21:33:23 GMT",
+    "source_name": "GNews: grunnstøting/forlis",
+    "title": "Tilbake i rute – årsak til grunnstøting fortsatt ukjent - rbnett.no"
   },
   "to til sykehus etter grunnstøting - banett.no": {
     "categories": [
@@ -1366,6 +1387,16 @@
     "source_name": "iLaks",
     "title": "– En offensiv og ambisiøs selger som brenner for akvakultur"
   },
+  "– først og fremst et hms-tiltak for oss": {
+    "categories": [
+      "oppdrett"
+    ],
+    "first_seen": "2026-11-19T14:33:48.306413+00:00",
+    "link": "https://ilaks.no/forst-og-fremst-et-hms-tiltak-for-oss/?mtm_campaign=feed_click&mtm_kwd=forst-og-fremst-et-hms-tiltak-for-oss&mtm_source=RSS2&mtm_medium=feed",
+    "published": "Thu, 19 Nov 2026 07:55:30 +0000",
+    "source_name": "iLaks",
+    "title": "– Først og fremst et HMS-tiltak for oss"
+  },
   "– helt surrealistisk": {
     "categories": [
       "havari_berging"
@@ -1385,5 +1416,15 @@
     "published": "Thu, 29 Oct 2026 16:36:40 +0100",
     "source_name": "Teknisk Ukeblad (TU.no)",
     "title": "– Kan ikke investere før vi har krafttilgang"
+  },
+  "– vi har arbeidet under radaren": {
+    "categories": [
+      "infrastruktur"
+    ],
+    "first_seen": "2026-11-19T14:33:48.306413+00:00",
+    "link": "https://www.tu.no/energi/kinesisk-batterigigant-satser-i-norge-vi-har-arbeidet-under-radaren/7143482",
+    "published": "Wed, 18 Nov 2026 11:34:33 +0100",
+    "source_name": "Teknisk Ukeblad (TU.no)",
+    "title": "– Vi har arbeidet under radaren"
   }
 }
