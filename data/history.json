@@ -39,6 +39,16 @@
     "source_name": "GNews site: Bygg.no",
     "title": "(+) BMO Entreprenør skal bygge bru i Holtålen - Anlegg.no"
   },
+  "(+) en kvart milliard skiller partene på pris­vinnende bru - bygg.no": {
+    "categories": [
+      "infrastruktur"
+    ],
+    "first_seen": "2026-11-20T14:12:01.099652+00:00",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQb2FSR1hxcWoxUUpFYjRuaXAwcU1ja3VyNnowdjBnRkZfSVJUNFhROWEwNkI4UUN1RXdwZUNTeXA1YmRibjhFX2U4bkxUWFRQa2NVWEQ4TE9yMjFOR2l0UGZTTmNfOW9KWVQ0emM0RGpZTjZwWGsyaG01VktiTGdaVFN3MUQ0OGt6bUxobFpYUnlCQzAzN1pGQ2FqY0NIR2M5VWVtWG9Wdw?oc=5",
+    "published": "Fri, 20 Nov 2026 09:42:18 GMT",
+    "source_name": "GNews site: Bygg.no",
+    "title": "(+) En kvart milliard skiller partene på pris­vinnende bru - Bygg.no"
+  },
   "(+) fire kjempet om bru­prosjektet – starter bygging i desember - anlegg.no": {
     "categories": [
       "infrastruktur"
@@ -98,26 +108,6 @@
     "published": "Fri, 30 Oct 2026 10:00:00 GMT",
     "source_name": "GNews: sjøkabel/sjøledning",
     "title": "(+) Lerøy får leggja sjøkabel til Djupestallen - tysnesbladet"
-  },
-  "(+) norsk sjøkabel skal gjøre canada uavhengig av usa - digi.no": {
-    "categories": [
-      "infrastruktur"
-    ],
-    "first_seen": "2026-10-21T10:22:48.735785+00:00",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQREgzc2pnb25rcnBaREY2ZVVMZ2VBYk16bGFjQi1xT3pWRm5YSVdNcnRRcmRCclM5NlJqVUR5UHhHSlplUjZfU2U4UVoxOXUzZUwyQ2h4M0lHc3RHSGhOclBZLXR0V2FyYTNvaVNXbkdjRjlXcnUwcy0yNWd2QjJhc0pGdmlPcEtTUHg2ZUZR?oc=5",
-    "published": "Mon, 19 Oct 2026 11:41:00 GMT",
-    "source_name": "GNews: sjøkabel/sjøledning",
-    "title": "(+) Norsk sjøkabel skal gjøre Canada uavhengig av USA - digi.no"
-  },
-  "(+) ny leder for veidekke anlegg - bygg.no": {
-    "categories": [
-      "infrastruktur"
-    ],
-    "first_seen": "2026-10-21T10:22:48.735785+00:00",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQmNvZVY3cWJJUjZqakNRYzdtczlnSDJDUUoxeGtnNENib01kbUg1bVJkYVZnNEF1amlGSE44RXk4S0EtQWVIci00VEYwTXdfaG9mOUVqUENBM1VFNURjQXotekQ1cExpWXNyaGtmVGpwQ3BrUmxCblc2UVJFS0FleHhibEpVZ0x3eVFkOFJKQnZVVG9VeVpSX280YW14VU0?oc=5",
-    "published": "Wed, 21 Oct 2026 10:12:12 GMT",
-    "source_name": "GNews site: Bygg.no",
-    "title": "(+) Ny leder for Veidekke Anlegg - Bygg.no"
   },
   "(+) oksygenering i landbasert oppdrett: – når får fisken nok? - kyst.no": {
     "categories": [
@@ -510,6 +500,16 @@
     "source_name": "NRK Møre og Romsdal",
     "title": "Ferje gjekk på grunn på Kvanne - innstilt på ubestemt tid"
   },
+  "finansdepartementet om offshore oppdrett-kritikk: – skiller seg fra kystnært havbruk på flere områder": {
+    "categories": [
+      "oppdrett"
+    ],
+    "first_seen": "2026-11-20T14:12:01.099652+00:00",
+    "link": "https://ilaks.no/finansdepartementet-om-offshore-oppdrett-kritikk-skiller-seg-fra-kystnaert-havbruk-pa-flere-omrader/?mtm_campaign=feed_click&mtm_kwd=finansdepartementet-om-offshore-oppdrett-kritikk-skiller-seg-fra-kystnaert-havbruk-pa-flere-omrader&mtm_source=RSS2&mtm_medium=feed",
+    "published": "Fri, 20 Nov 2026 11:00:09 +0000",
+    "source_name": "iLaks",
+    "title": "Finansdepartementet om offshore oppdrett-kritikk: – Skiller seg fra kystnært havbruk på flere områder"
+  },
   "fiskeri, grunnstøting | lofotbåt grunnstøtte: – våknet med et voldsomt brak og båten sto i fjæra - lofotposten": {
     "categories": [
       "havari_berging"
@@ -569,6 +569,16 @@
     "published": "Fri, 30 Oct 2026 13:55:15 GMT",
     "source_name": "NRK Nordland",
     "title": "Han blir ny fabrikksjef i Kjøpsvik"
+  },
+  "han skal styre slakteriet på herøy": {
+    "categories": [
+      "oppdrett"
+    ],
+    "first_seen": "2026-11-20T14:12:01.099652+00:00",
+    "link": "https://ilaks.no/han-skal-styre-slakteriet-pa-heroy/?mtm_campaign=feed_click&mtm_kwd=han-skal-styre-slakteriet-pa-heroy&mtm_source=RSS2&mtm_medium=feed",
+    "published": "Thu, 19 Nov 2026 15:16:32 +0000",
+    "source_name": "iLaks",
+    "title": "Han skal styre slakteriet på Herøy"
   },
   "havarikommisjonen mener at dette manglet i forkant av dødsulykken på fôrbåten": {
     "categories": [
@@ -631,6 +641,16 @@
     "published": "Wed, 28 Oct 2026 13:32:09 +0000",
     "source_name": "iLaks",
     "title": "HI-forsker om makrellstørje i merdene: – Laks står trolig ikke på hovedmenyen"
+  },
+  "hi: regnbueørret egner seg godt for nedsenket oppdrett": {
+    "categories": [
+      "oppdrett"
+    ],
+    "first_seen": "2026-11-20T14:12:01.099652+00:00",
+    "link": "https://ilaks.no/hi-regnbueorret-egnet-seg-godt-for-nedsenket-oppdrett/?mtm_campaign=feed_click&mtm_kwd=hi-regnbueorret-egnet-seg-godt-for-nedsenket-oppdrett&mtm_source=RSS2&mtm_medium=feed",
+    "published": "Fri, 20 Nov 2026 08:01:42 +0000",
+    "source_name": "iLaks",
+    "title": "HI: Regnbueørret egner seg godt for nedsenket oppdrett"
   },
   "innlegg: datasenter­stansen gir et tidsvindu – bruk det til å modne tomtene - bygg.no": {
     "categories": [
@@ -835,16 +855,6 @@
     "published": "Tue, 17 Nov 2026 06:23:42 +0000",
     "source_name": "iLaks",
     "title": "NOFI skiller ut oljevern og rendyrker satsing på havbruk"
-  },
-  "norsk sjøkabel kan gjøre canada uavhengig av usa": {
-    "categories": [
-      "infrastruktur"
-    ],
-    "first_seen": "2026-10-21T10:22:48.735785+00:00",
-    "link": "https://www.tu.no/telekom/norsk-sjokabel-skal-gjore-canada-uavhengig-av-usa/7148253",
-    "published": "Tue, 20 Oct 2026 15:52:19 +0200",
-    "source_name": "Teknisk Ukeblad (TU.no)",
-    "title": "Norsk sjøkabel kan gjøre Canada uavhengig av USA"
   },
   "ny broof(t2)-klassifisering gir flere valgmuligheter på pir - bygg.no": {
     "categories": [
@@ -1067,16 +1077,6 @@
     "source_name": "GNews: grunnstøting/forlis",
     "title": "Skip, Grunnstøting | Cruiseskip som skal til Lofoten gikk på grunn - Lofotposten"
   },
-  "slik kan oppdrettstorsk forhindres fra å gyte i merd - fiskeribladet": {
-    "categories": [
-      "oppdrett"
-    ],
-    "first_seen": "2026-10-21T10:22:48.735785+00:00",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdEstWlhORkRZOHEzMXRfSHJTbHpVT3VfcmthQzA3WnkxWUlUM1dSTWZtSUpoSURIRWoxTWQwZ1dadllDWFFqcHNVTXFLanNMRzluaHNtNy1yM3Z1OEp4cUFOc3hGYnRpTk9ISHB2OHdNTWQtUzk0QVB2TTF4aU44VkQtcEJNa1pfYXl0b0kxb0FnRnMtMFpCdEJBNktOeUI2VXhVcDZB?oc=5",
-    "published": "Wed, 21 Oct 2026 09:53:41 GMT",
-    "source_name": "GNews site: Fiskeribladet",
-    "title": "Slik kan oppdrettstorsk forhindres fra å gyte i merd - Fiskeribladet"
-  },
   "smoltoppdretter på frøya posisjonerer seg for offshore-satsing": {
     "categories": [
       "oppdrett"
@@ -1116,16 +1116,6 @@
     "published": "Tue, 27 Oct 2026 14:24:15 +0000",
     "source_name": "iLaks",
     "title": "Statsforvalteren sier nei til lukkede Grieg-anlegg: – Bekymret for utviklingen i fjorden"
-  },
-  "styrker satsing på nanobobler i bassengene på andøya": {
-    "categories": [
-      "oppdrett"
-    ],
-    "first_seen": "2026-10-21T10:22:48.735785+00:00",
-    "link": "https://ilaks.no/styrker-satsing-pa-nanobobler-i-bassengene-pa-andoya/?mtm_campaign=feed_click&mtm_kwd=styrker-satsing-pa-nanobobler-i-bassengene-pa-andoya&mtm_source=RSS2&mtm_medium=feed",
-    "published": "Wed, 21 Oct 2026 05:36:35 +0000",
-    "source_name": "iLaks",
-    "title": "Styrker satsing på nanobobler i bassengene på Andøya"
   },
   "støre besøkte settefiskanlegg: – det gjør inntrykk på meg (+) - intrafish": {
     "categories": [
@@ -1257,6 +1247,16 @@
     "source_name": "GNews site: Bygg.no",
     "title": "Veidekke Industri får Salten-kontrakt til 532 millioner - Anlegg.no"
   },
+  "verden ser til stians (27) arbeidsplass – vil kopiere norges største klima­satsing": {
+    "categories": [
+      "industri"
+    ],
+    "first_seen": "2026-11-20T14:12:01.099652+00:00",
+    "link": "https://www.nrk.no/vestfoldogtelemark/klimatiltaket-langskip_-verdensindustrien-vil-kopiere-karbonfangst-i-brevik-1.18077488",
+    "published": "Thu, 19 Nov 2026 17:32:48 GMT",
+    "source_name": "NRK Vestfold og Telemark",
+    "title": "Verden ser til Stians (27) arbeidsplass – vil kopiere Norges største klima­satsing"
+  },
   "vikan satser tungt på havbruk til havs - kyst.no": {
     "categories": [
       "oppdrett"
@@ -1376,16 +1376,6 @@
     "published": "Tue, 17 Nov 2026 08:41:10 GMT",
     "source_name": "GNews site: IntraFish",
     "title": "– Dette er en viktig og helt sentral milepæl for realisering av havbruk til havs - Intrafish"
-  },
-  "– en offensiv og ambisiøs selger som brenner for akvakultur": {
-    "categories": [
-      "oppdrett"
-    ],
-    "first_seen": "2026-10-21T10:22:48.735785+00:00",
-    "link": "https://ilaks.no/en-offensiv-og-ambisios-selger-som-brenner-for-akvakultur/?mtm_campaign=feed_click&mtm_kwd=en-offensiv-og-ambisios-selger-som-brenner-for-akvakultur&mtm_source=RSS2&mtm_medium=feed",
-    "published": "Wed, 21 Oct 2026 03:35:06 +0000",
-    "source_name": "iLaks",
-    "title": "– En offensiv og ambisiøs selger som brenner for akvakultur"
   },
   "– først og fremst et hms-tiltak for oss": {
     "categories": [
