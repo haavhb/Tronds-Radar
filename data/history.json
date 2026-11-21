@@ -89,6 +89,16 @@
     "source_name": "GNews site: Kyst.no",
     "title": "(+) Fôrflåte sank i Skottland - Kyst.no"
   },
+  "(+) husene rives for å gjøre plass til stad skipstunnel - bygg.no": {
+    "categories": [
+      "industri"
+    ],
+    "first_seen": "2026-11-21T13:37:00.687614+00:00",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ2V0VFN1aGEzUS03WnhuZUQ0ZTE0MTQ1RzgybXhNT3lwTUNDaTdRR21FZmQ1T0ZqRGlXTTZySEFOUVNaRkdjOTZSak1odXVvYzdwci1FaVdpVUZTa3ZQU09tMmNOYzZBR2VrRzU5bVBXSmNKdk00ZVQzZjY1V1hYTE1PT3BrVS03ZDlWYmdvQ3VxTkdCX1JfeU5MOFdHcWZpSGktTHpiRnMya0U?oc=5",
+    "published": "Sat, 21 Nov 2026 06:58:36 GMT",
+    "source_name": "GNews site: Bygg.no",
+    "title": "(+) Husene rives for å gjøre plass til Stad skipstunnel - Bygg.no"
+  },
   "(+) laks på over fem kilo rømte fra lokalitet - kyst.no": {
     "categories": [
       "oppdrett"
@@ -520,16 +530,6 @@
     "source_name": "GNews: grunnstøting/forlis",
     "title": "Fiskeri, Grunnstøting | Lofotbåt grunnstøtte: – Våknet med et voldsomt brak og båten sto i fjæra - Lofotposten"
   },
-  "flere hundre leter etter savnet: – familien setter stor pris på det": {
-    "categories": [
-      "havari_berging"
-    ],
-    "first_seen": "2026-10-22T10:21:26.031905+00:00",
-    "link": "https://www.nrk.no/sorlandet/mange-bidrar-i-letingen-etter-savnet_-_-familien-setter-stor-pris-pa-det-1.18061123",
-    "published": "Wed, 21 Oct 2026 17:36:34 GMT",
-    "source_name": "NRK Sørlandet",
-    "title": "Flere hundre leter etter savnet: – Familien setter stor pris på det"
-  },
   "funnet død 600 kilometer unna forlis - tv 2 play": {
     "categories": [
       "havari_berging"
@@ -886,6 +886,16 @@
     "published": "Mon, 02 Nov 2026 15:12:32 GMT",
     "source_name": "NRK Troms og Finnmark",
     "title": "Ny hurtigbåtkai på Engenes: – Et kjempeløft"
+  },
+  "ny kai skal gjøre fiskerihverdagen enklere på reipå - kulingen.no": {
+    "categories": [
+      "infrastruktur"
+    ],
+    "first_seen": "2026-11-21T13:37:00.687614+00:00",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTEZ5Uzh2dzgwbGtCMjl2V3JPLVVMbC02Wnc0NnkwUkVVQnRadEE3ZXY2blU3WUR1NzdEMXJ2bU1FUjhGZElha1dxVmV0SzNvSGpfcXRiREdBR3dULXVTMjNyamMxVXAzTVFXa0FhUHcwNTNib09odTNRRzVDcWIteTF1M3RoblYtZGdIU0dUd2kzc0ZOenJtRGpBdw?oc=5",
+    "published": "Sat, 21 Nov 2026 06:15:00 GMT",
+    "source_name": "GNews: ny kai/molo/bru",
+    "title": "Ny kai skal gjøre fiskerihverdagen enklere på Reipå - kulingen.no"
   },
   "nyheter, grunnstøtt | grunnstøt for en av bastøferjene - vestby avis": {
     "categories": [
@@ -1297,16 +1307,6 @@
     "source_name": "GNews site: Bygg.no",
     "title": "Ytre Steinsund bru - Byggeprosjekter"
   },
-  "ytterøya | koster 213 millioner: ja til ny ferjekai - ilevanger": {
-    "categories": [
-      "infrastruktur"
-    ],
-    "first_seen": "2026-10-22T10:21:26.031905+00:00",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbHpYZFJTTmxxQXlLbUVDekpxeXVEVlFLeEFhX2ZNNHJGMEZ0LVpENXFBYVBBa3JXVHhCYS1uYjBUWV9UTUhIMFY1NjloUVlRODV2TW4tUU15NllfR2V0T3BvWWxaVnNPaE9DN1FCZ05oWl9TemduS0dsX1FjMWQzN05WX20?oc=5",
-    "published": "Wed, 21 Oct 2026 19:30:57 GMT",
-    "source_name": "GNews: ny kai/molo/bru",
-    "title": "Ytterøya | Koster 213 millioner: Ja til ny ferjekai - iLevanger"
-  },
   "«banque populaire» har kantret - seilmagasinet": {
     "categories": [
       "havari_berging"
@@ -1396,6 +1396,16 @@
     "published": "Wed, 04 Nov 2026 14:47:09 +0100",
     "source_name": "Teknisk Ukeblad (TU.no)",
     "title": "– Helt surrealistisk"
+  },
+  "– hvis du er et elektron, er tydal veldig sentralt": {
+    "categories": [
+      "industri"
+    ],
+    "first_seen": "2026-11-21T13:37:00.687614+00:00",
+    "link": "https://www.tu.no/podkast/hvis-du-er-et-elektron-er-tydal-veldig-sentralt/7186433",
+    "published": "Fri, 20 Nov 2026 15:50:00 +0100",
+    "source_name": "Teknisk Ukeblad (TU.no)",
+    "title": "– Hvis du er et elektron, er Tydal veldig sentralt"
   },
   "– kan ikke investere før vi har krafttilgang": {
     "categories": [
