@@ -380,6 +380,16 @@
     "source_name": "iLaks",
     "title": "Bedre fiskevelferd, tilvekst og MTB-utnyttelse har sendt slaktevolumene til nye høyder"
   },
+  "bremset gigantprosjekt": {
+    "categories": [
+      "infrastruktur"
+    ],
+    "first_seen": "2026-11-23T16:16:11.390944+00:00",
+    "link": "https://www.tu.no/sikkerhet/med-falsk-hjemmeside-og-20-dagers-overvakning-bremset-hackerne-gigantprosjektet/7185621",
+    "published": "Sun, 22 Nov 2026 05:00:00 +0100",
+    "source_name": "Teknisk Ukeblad (TU.no)",
+    "title": "Bremset gigantprosjekt"
+  },
   "britisk hangarskip til kai i namsos: – det er et svært viktig besøk": {
     "categories": [
       "infrastruktur"
@@ -490,16 +500,6 @@
     "source_name": "Teknisk Ukeblad (TU.no)",
     "title": "Enova gir 3,9 milliarder til to flytende havvindanlegg"
   },
-  "ferje gjekk på grunn på kvanne - innstilt på ubestemt tid": {
-    "categories": [
-      "havari_berging"
-    ],
-    "first_seen": "2026-10-24T09:39:10.972411+00:00",
-    "link": "https://www.nrk.no/mr/ferje-mellom-kvanne-og-rykkjem-har-gatt-pa-grunn-1.18063078",
-    "published": "Fri, 23 Oct 2026 12:38:04 GMT",
-    "source_name": "NRK Møre og Romsdal",
-    "title": "Ferje gjekk på grunn på Kvanne - innstilt på ubestemt tid"
-  },
   "finansdepartementet om offshore oppdrett-kritikk: – skiller seg fra kystnært havbruk på flere områder": {
     "categories": [
       "oppdrett"
@@ -519,6 +519,16 @@
     "published": "Mon, 26 Oct 2026 08:46:34 GMT",
     "source_name": "GNews: grunnstøting/forlis",
     "title": "Fiskeri, Grunnstøting | Lofotbåt grunnstøtte: – Våknet med et voldsomt brak og båten sto i fjæra - Lofotposten"
+  },
+  "forlis | uføretrygdet tvedestrand-mann må betale over en million kroner: – jeg blir ruinert - tvedestrandsposten": {
+    "categories": [
+      "havari_berging"
+    ],
+    "first_seen": "2026-11-23T16:16:11.390944+00:00",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd0dJcUlMUDFRd1FxRWNLVWJFNy1VSDd6bmhGQTBfbzJRRWpoWWJJU0d6RUxZSjRhNC1TXzZRQzhRUng3blZTRE5zRUVSLUhCbURKU3NjOXVZUDZyTkRKcWd5Smk5b05LbmNtSWV6VnUyUXpKaVVsR2xqREY4MlYtSlJnYTVYSXFkcV9IZEtXR25vcFpJTWFYLWxQdll1VlkwMUxrdy1nT1hfal8teXlsajRHRElUVHBLek9TYnJGQUNpQW9CQkE?oc=5",
+    "published": "Mon, 23 Nov 2026 07:35:21 GMT",
+    "source_name": "GNews: grunnstøting/forlis",
+    "title": "Forlis | Uføretrygdet Tvedestrand-mann må betale over en million kroner: – Jeg blir ruinert - Tvedestrandsposten"
   },
   "funnet død 600 kilometer unna forlis - tv 2 play": {
     "categories": [
@@ -672,39 +682,6 @@
     "source_name": "Teknisk Ukeblad (TU.no)",
     "title": "Kinesisk batterigigant satser i Norge: – Vi har arbeidet under radaren"
   },
-  "kvanne - rykkjem: ferjesambandet ble innstilt fra fredag ettermiddag til lørdag morgen etter grunnstøting - trollheimsporten": {
-    "categories": [
-      "havari_berging",
-      "infrastruktur"
-    ],
-    "first_seen": "2026-10-24T09:39:10.972411+00:00",
-    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQMldEYUpNQmk3R1paQnFiMnRHVVloam9GNU12NGpkN3BxX0c5TGRsTlZhWE0zR29wSFNtTFZPZUtza0EwNlBSOUI2UjlDd01NdFpFMFIwRnR3b3p1dFc1ZWRQeDg5NmNLdVU2dVNPRlhvWnVTRHF4WnZnUUpKS0tfdlBDUzk0OW1HZjJNZnhqeGJLbHJQQUU3SElSc1dIZVIycjN6djZ0MG9hS1MwSExFQXRzTFkzYTFwZkxGZTh4RlBVcnoxU2NxRGI3QkE2SEJIdmhjVVN0Um05d2Vtb3E3T1RJQkEwYXJGcVBUQldZUXBJZjV0WkljckwxV1k?oc=5",
-    "published": "Fri, 23 Oct 2026 12:56:05 GMT",
-    "source_name": "GNews: grunnstøting/forlis",
-    "title": "Kvanne - Rykkjem: ferjesambandet ble innstilt fra fredag ettermiddag til lørdag morgen etter grunnstøting - Trollheimsporten"
-  },
-  "kvanne -rykkjem: ferja har grunnstøtt - ferjesambandet er innstil på ubestemt tid - trollheimsporten": {
-    "categories": [
-      "havari_berging",
-      "infrastruktur"
-    ],
-    "first_seen": "2026-10-24T09:39:10.972411+00:00",
-    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUTIwUFRjSjM1WFdHYWtQVlctTzBHM0llOGN6V1Jib1c5RWNRTWRWUkxfTjYzRWhKTEpobTczY3ZhSzBkLUhnNW9pVjI1Q0hZMzBtV05tbzNXa0xtZkJNUTRmeGI2UTJ5bDhjaWNobGZVVWFyT1JsZVhwWno1YTdWdHhUZEJ4M0Z4Zmw2VnBDVTdVMmZIQ19hSmsxdkE2cEdkaEZHS2FxSlhJamZXS3B6eElheFEzRjNMVWpTWGExMUVYaHBmVzFxanVLUUx4MmpoX0lwdDI0RGM2Zlk?oc=5",
-    "published": "Fri, 23 Oct 2026 12:56:05 GMT",
-    "source_name": "GNews: grunnstøting/forlis",
-    "title": "Kvanne -Rykkjem: ferja har grunnstøtt - ferjesambandet er innstil på ubestemt tid - Trollheimsporten"
-  },
-  "kvanne -rykkjem: ferja har grunnstøtt - ferjesambandet er innstilt på ubestemt tid - trollheimsporten": {
-    "categories": [
-      "havari_berging",
-      "infrastruktur"
-    ],
-    "first_seen": "2026-10-24T09:39:10.972411+00:00",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNenhtYkwwUmZJOWdmSWdLN2xqbXlEdW9FT3E4OE5BVzRvRms4enFTdFJWM25oY2g2WFVSanAzNmpnNlVuZFdRY1FTVXpHd25uWDVPOVlHVTNra283eWNnLUltRzM4ZE5RRW1ycFo2Y29XbV9FRlBBU0NVOGhYV001SFMxOERmVGRBd2FPaWtXOENBRDEySzBzSFNXZklvTVlYTzFNcEtHRk9PVy12Yl9YWQ?oc=5",
-    "published": "Fri, 23 Oct 2026 12:56:05 GMT",
-    "source_name": "GNews: grunnstøting/forlis",
-    "title": "Kvanne -Rykkjem: ferja har grunnstøtt - ferjesambandet er innstilt på ubestemt tid - Trollheimsporten"
-  },
   "kystverket og rana kommune åpnet ny dypvannskai i mo i rana - anlegg.no": {
     "categories": [
       "infrastruktur"
@@ -764,6 +741,16 @@
     "published": "Sun, 22 Nov 2026 05:00:00 +0100",
     "source_name": "Teknisk Ukeblad (TU.no)",
     "title": "Med falsk hjemmeside og 20 dagers overvåkning bremset hackerne gigantprosjektet"
+  },
+  "mener dette kan hjelpe mot lakseastma: – alle leddene må spille på lag": {
+    "categories": [
+      "oppdrett"
+    ],
+    "first_seen": "2026-11-23T16:16:11.390944+00:00",
+    "link": "https://ilaks.no/mener-dette-kan-hjelpe-mot-lakseastma-alle-leddene-ma-spille-pa-lag/?mtm_campaign=feed_click&mtm_kwd=mener-dette-kan-hjelpe-mot-lakseastma-alle-leddene-ma-spille-pa-lag&mtm_source=RSS2&mtm_medium=feed",
+    "published": "Mon, 23 Nov 2026 14:06:52 +0000",
+    "source_name": "iLaks",
+    "title": "Mener dette kan hjelpe mot lakseastma: – Alle leddene må spille på lag"
   },
   "migrantbåt kantret utenfor senegal, minst 21 omkomne. - vietnam.vn": {
     "categories": [
@@ -1117,16 +1104,6 @@
     "source_name": "GNews site: IntraFish",
     "title": "Støre besøkte settefiskanlegg: – Det gjør inntrykk på meg (+) - Intrafish"
   },
-  "surnadal, kvanne-rykkjem | oljesøl etter grunnstøting: – regner med å bruke hele natta - tidens krav": {
-    "categories": [
-      "havari_berging"
-    ],
-    "first_seen": "2026-10-24T09:39:10.972411+00:00",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUDF1anFSM1JNSkFqNlBYNUpUUkJ2NW45SHllNmFWTFQ3bHR4aWdCTkZ2Y25BZmtoeVloNzVfOW9JR1J4ZGJUVmVJZ0V1Q1NqZXVUSlUwX2Rod1BCOHFCNXEzYmg3YTlzckQyQU5lT0tILXNMbnIzLVhtb3hVMHNTU1ZZSTlaTTNnQU9mejJ6ZEx6UQ?oc=5",
-    "published": "Fri, 23 Oct 2026 16:51:29 GMT",
-    "source_name": "GNews: grunnstøting/forlis",
-    "title": "Surnadal, Kvanne-Rykkjem | Oljesøl etter grunnstøting: – Regner med å bruke hele natta - Tidens Krav"
-  },
   "teknisk ukeblad brøt god presseskikk": {
     "categories": [
       "industri"
@@ -1186,16 +1163,6 @@
     "published": "Wed, 04 Nov 2026 18:59:50 +0000",
     "source_name": "iLaks",
     "title": "Tredoblet smoltkapasiteten på Smøla: – Skal sikre at vi er med videre i norsk havbruksnæring"
-  },
-  "tromsømann var kaptein under redningsaksjonen i svartehavet": {
-    "categories": [
-      "havari_berging"
-    ],
-    "first_seen": "2026-10-24T09:39:10.972411+00:00",
-    "link": "https://www.nrk.no/tromsogfinnmark/tromsomann-var-kaptein-under-redningsaksjonen-i-svartehavet-1.18063587",
-    "published": "Sat, 24 Oct 2026 07:27:39 GMT",
-    "source_name": "NRK Troms og Finnmark",
-    "title": "Tromsømann var kaptein under redningsaksjonen i Svartehavet"
   },
   "tror fortøyninger ble løsnet med vilje: – kunne fått alvorlige konsekvenser": {
     "categories": [
@@ -1336,6 +1303,16 @@
     "published": "Tue, 17 Nov 2026 08:41:10 GMT",
     "source_name": "GNews site: IntraFish",
     "title": "– Dette er en viktig og helt sentral milepæl for realisering av havbruk til havs - Intrafish"
+  },
+  "– dette kan bli et eventyr uten like": {
+    "categories": [
+      "oppdrett"
+    ],
+    "first_seen": "2026-11-23T16:16:11.390944+00:00",
+    "link": "https://ilaks.no/dette-kan-bli-et-eventyr-uten-like/?mtm_campaign=feed_click&mtm_kwd=dette-kan-bli-et-eventyr-uten-like&mtm_source=RSS2&mtm_medium=feed",
+    "published": "Mon, 23 Nov 2026 15:27:32 +0000",
+    "source_name": "iLaks",
+    "title": "– Dette kan bli et eventyr uten like"
   },
   "– først og fremst et hms-tiltak for oss": {
     "categories": [
