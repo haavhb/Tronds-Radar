@@ -39,6 +39,16 @@
     "source_name": "GNews site: Bygg.no",
     "title": "(+) BMO Entreprenør skal bygge bru i Holtålen - Anlegg.no"
   },
+  "(+) bygget bru av aluminium fra nedlagt oljeplattform – nå får den internasjonal oppmerksomhet - anlegg.no": {
+    "categories": [
+      "infrastruktur"
+    ],
+    "first_seen": "2026-11-25T15:51:30.451018+00:00",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNT3pOTzU1VGRnMFVZN3VkQmpSZmlVRlhMUmc0YlVBem1JdUF4OVZiZ0xsZ09ySFRDZzdGek5yMGVPNUppT1JESDFZT1RMLXYzY3RTSVdJODl3REdNWFpSRnhpX1NiSXhHaDB6UUtSVFctd2VsNWx6ajRzODM0Snd4VTFZa0ZZRmZ3YXQySk9rbkJDWDNqS05ob2JMcm00NTdCVGJMM0V6WE1kazlTNHRoT181ZHNnaWlEWWEzWGdPWGE1TnZxNWMtRGxKNTdQZk9VS0dPcC11VHNmd0JCWXc?oc=5",
+    "published": "Tue, 24 Nov 2026 06:08:45 GMT",
+    "source_name": "GNews site: Bygg.no",
+    "title": "(+) Bygget bru av aluminium fra nedlagt oljeplattform – nå får den internasjonal oppmerksomhet - Anlegg.no"
+  },
   "(+) en kvart milliard skiller partene på pris­vinnende bru - bygg.no": {
     "categories": [
       "infrastruktur"
@@ -410,6 +420,17 @@
     "source_name": "NRK Trøndelag",
     "title": "Britisk hangarskip til kai i Namsos: – Det er et svært viktig besøk"
   },
+  "brudekket skulle vært på plass i september – er fortsatt i kina": {
+    "categories": [
+      "infrastruktur",
+      "industri"
+    ],
+    "first_seen": "2026-11-25T15:51:30.451018+00:00",
+    "link": "https://www.tu.no/samferdsel/brudekket-skulle-vaert-pa-plass-i-september-har-enna-ikke-forlatt-kina/7188404",
+    "published": "Wed, 25 Nov 2026 07:55:49 +0100",
+    "source_name": "Teknisk Ukeblad (TU.no)",
+    "title": "Brudekket skulle vært på plass i september – er fortsatt i Kina"
+  },
   "bygger merder til halve prisen av stål (+) - intrafish": {
     "categories": [
       "oppdrett"
@@ -529,16 +550,6 @@
     "published": "Fri, 20 Nov 2026 11:00:09 +0000",
     "source_name": "iLaks",
     "title": "Finansdepartementet om offshore oppdrett-kritikk: – Skiller seg fra kystnært havbruk på flere områder"
-  },
-  "fiskeri, grunnstøting | lofotbåt grunnstøtte: – våknet med et voldsomt brak og båten sto i fjæra - lofotposten": {
-    "categories": [
-      "havari_berging"
-    ],
-    "first_seen": "2026-10-26T11:19:47.413289+00:00",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWUw4Y2hFaFJLWUVrWmgyTFNnc3VDc0diM0p2dXN1UUo3ZEs3cHhtUmhGUklVVHlWZklwZzNmeThzM2NKOEhtOEVWclRNNWNUTmRyU3hkcWhiTzBNb3pXUFZSOGpjc1ZFWWRKVVlEbnZ3M2FlbjRvc2Jscm5yRDlINTg3YWh6enVNWmNxazFubHFnLXJPYnZxYzczOXNKY1lYcEp4cHRNNlB6eV9oVnpR?oc=5",
-    "published": "Mon, 26 Oct 2026 08:46:34 GMT",
-    "source_name": "GNews: grunnstøting/forlis",
-    "title": "Fiskeri, Grunnstøting | Lofotbåt grunnstøtte: – Våknet med et voldsomt brak og båten sto i fjæra - Lofotposten"
   },
   "forlis | uføretrygdet tvedestrand-mann må betale over en million kroner: – jeg blir ruinert - tvedestrandsposten": {
     "categories": [
@@ -811,6 +822,16 @@
     "published": "Sun, 08 Nov 2026 14:57:40 GMT",
     "source_name": "GNews: kantring/vrak/berging",
     "title": "Migrantbåt kantret utenfor Senegal, minst 21 omkomne. - Vietnam.vn"
+  },
+  "milliardkutt kan få konsekvenser for karbonfangst": {
+    "categories": [
+      "industri"
+    ],
+    "first_seen": "2026-11-25T15:51:30.451018+00:00",
+    "link": "https://www.tu.no/energi/enova-milliardkutt-kan-fa-konsekvenser-for-karbonfangst/7188442",
+    "published": "Wed, 25 Nov 2026 10:07:39 +0100",
+    "source_name": "Teknisk Ukeblad (TU.no)",
+    "title": "Milliardkutt kan få konsekvenser for karbonfangst"
   },
   "mister 200 millioner til hydrogenanlegg": {
     "categories": [
@@ -1174,6 +1195,16 @@
     "source_name": "Teknisk Ukeblad (TU.no)",
     "title": "Teknisk Ukeblad brøt god presseskikk"
   },
+  "tester grensene for havbruk til havs - kyst.no": {
+    "categories": [
+      "oppdrett"
+    ],
+    "first_seen": "2026-11-25T15:51:30.451018+00:00",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNLURkUmpUaU05b0VWMU9DRy1YbncwRFg2dlFvYW9BQlNGOGpJVXRhalYwLTFwUnJBZzJVQnVhSTI1dzlCTUtCVnFsVFRqYXF4SG45c2pua0tIQjVSQ2R4a2YxN3diSC01ZmFzR0NFYWJ3RURCZndVOWNpVnJXNnJTZjJPZkdNTUYxcWZyS0xPeDQ3YXV1RVBqQnp3N2pIR0xEV0FBZC00d2NFNHJZWk52bw?oc=5",
+    "published": "Wed, 25 Nov 2026 08:06:54 GMT",
+    "source_name": "GNews site: Kyst.no",
+    "title": "Tester grensene for havbruk til havs - Kyst.no"
+  },
   "tilbake i rute – årsak til grunnstøting fortsatt ukjent - rbnett.no": {
     "categories": [
       "havari_berging"
@@ -1293,6 +1324,16 @@
     "published": "Thu, 29 Oct 2026 13:00:00 GMT",
     "source_name": "GNews: ny kai/molo/bru",
     "title": "Vil bytte til seg eiendom for å sikre vei til ny molo - altaposten.no"
+  },
+  "vil varme opp gigantsatsing i møre og romsdal med eget datasenter": {
+    "categories": [
+      "oppdrett"
+    ],
+    "first_seen": "2026-11-25T15:51:30.451018+00:00",
+    "link": "https://ilaks.no/vil-varme-opp-gigantsatsing-i-more-og-romsdal-med-eget-datasenter/?mtm_campaign=feed_click&mtm_kwd=vil-varme-opp-gigantsatsing-i-more-og-romsdal-med-eget-datasenter&mtm_source=RSS2&mtm_medium=feed",
+    "published": "Wed, 25 Nov 2026 14:34:01 +0000",
+    "source_name": "iLaks",
+    "title": "Vil varme opp gigantsatsing i Møre og Romsdal med eget datasenter"
   },
   "ytre steinsund bru - byggeprosjekter": {
     "categories": [
